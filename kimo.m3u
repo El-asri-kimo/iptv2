@@ -34,7 +34,7 @@ rtsp://78.100.44.238/live-kass/kass
 http://live.irib.ir/asx/alkawthar.asx
 #EXTINF:-1,ALMAGHRIBIA
 http://cdn-streamer2.magictvbox.com/30.m3u8
-#EXTINF:-1,TV
-rtmp://38.96.175.90/live/livestream
-#EXTINF:-1,Almasar TV
-rtsp://almasarmob.nanocdn.com:1935/live/almasar256
+#EXTINF:-1,Bein Premium 2
+http://l6.aminouras.xyz/live/6161949878/index.m3u8
+#EXTINF:-1,Bein Premium 1
+http://l6.aminouras.xyz/live/888242570016/index.m3u8
