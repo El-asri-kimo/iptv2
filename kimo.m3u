@@ -1,121 +1,13 @@
 #EXTM3U
-        #EXTINF:0,==== SPORTS ====
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527298.m3u8
-	#EXTINF:0,|FR| RMC SPORT NEWS FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536192.m3u8
-	#EXTINF:0,|FR| RMC SPORT 4K
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536187.m3u8
-	#EXTINF:0,|FR| RMC SPORT 1 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536191.m3u8
-	#EXTINF:0,|FR| RMC SPORT 1 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527095.m3u8
-	#EXTINF:0,|FR| RMC SPORT 2 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536190.m3u8
-	#EXTINF:0,|FR| RMC SPORT 2 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527094.m3u8
-	#EXTINF:0,|FR| RMC SPORT 3 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536189.m3u8
-	#EXTINF:0,|FR| RMC SPORT 3 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527097.m3u8
-	#EXTINF:0,|FR| RMC SPORT 4 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536188.m3u8
-	#EXTINF:0,|FR| RMC SPORT 5 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527096.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 5 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536186.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 6 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536185.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 7 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536184.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 8 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536183.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 9 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536182.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 10 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536181.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 11 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536180.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 12 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536179.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 13 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536178.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 14 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536177.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 15 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536176.m3u8
-	#EXTINF:0,|FR| RMC SPORT LIVE 16 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536175.m3u8
-	#EXTINF:0,|FR| BEINSPORTS 1 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536174.m3u8
-	#EXTINF:0,|FR| beINSPORTS 1 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527107.m3u8
-	#EXTINF:0,|FR| BEINSPORTS 2 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536173.m3u8
-	#EXTINF:0,|FR| beINSPORTS 2 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527106.m3u8
-	#EXTINF:0,|FR| BEINSPORTS 3 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536172.m3u8
-	#EXTINF:0,|FR| beINSPORTS 3 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527105.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 4 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546260.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 4
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536171.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 5 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546261.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 5
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536170.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 6 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546262.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 6
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536169.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 7 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546263.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 7
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536168.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 8 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546264.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 8
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536167.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 9 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546265.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 9
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536166.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 10 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546266.m3u8
-	#EXTINF:0,|FR| BEINSPORTS MAX 10
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536165.m3u8
-	#EXTINF:0,|FR| CANAL+ SPORT FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536164.m3u8
-	#EXTINF:0,|FR| CANAL+ SPORTS HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527104.m3u8
-	#EXTINF:0,|FR| MULTISPORTS 1 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536157.m3u8
-	#EXTINF:0,|FR| MULTISPORTS 2 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536156.m3u8
-	#EXTINF:0,|FR| MULTISPORTS 3 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536155.m3u8
-	#EXTINF:0,|FR| MULTISPORTS 4 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536154.m3u8
-	#EXTINF:0,|FR| MULTISPORTS 5 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536153.m3u8
-	#EXTINF:0,|FR| MULTISPORTS 6 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536152.m3u8
-	#EXTINF:0,|FR| ELEVEN SPORT 1 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546514.m3u8
-	#EXTINF:0,|FR| ELEVEN SPORT 2 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546515.m3u8
-	#EXTINF:0,|FR| ELEVEN SPORT 3 HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575546516.m3u8
-	#EXTINF:0,|FR| FOOT+ 24/24 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536158.m3u8
-	#EXTINF:0,|FR| FOOT+ HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527090.m3u8
-	#EXTINF:0,|FR| ONZEO FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536151.m3u8
-	#EXTINF:0,|FR| INFOSPORT  FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536163.m3u8
-	#EXTINF:0,|FR| INFOSPORT HD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575527099.m3u8
-	#EXTINF:0,|FR| L'EQUIPE 21 FHD
-	http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575536162.m3u8
+http://196.179.251.77:8877/playlist.m3u8
+                    http://197.13.13.82:8000/playlist.m3u8
+                    http://197.13.13.82:8000/playlist.m3u8
+                    http://201.131.201.126:8000/playlist.m3u8
+                    http://45.133.106.93:8000/playlist.m3u8
+                    http://45.153.35.221:8000/playlist.m3u8
+                    http://45.4.0.46:8000/playlist.m3u8
+                    http://71.187.29.220:8000/playlist.m3u8
+                    http://77.89.204.105:8001/playlist.m3u8
+                    http://5.39.189.104:7000/playlist.m3u8
+                    http://45.71.202.211:8024/playlist.m3u8
+                    http://190.107.20.94:8000/playlist.m3u8
