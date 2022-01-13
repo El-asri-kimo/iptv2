@@ -1,77 +1,35 @@
-#EXTM3U
-#EXTINF:-1,AR OSN YA HALA DRAMA
-http://149.202.198.114:8000/play/arosnyahaladrama
-#EXTINF:-1,AR OSN box office 1
-http://149.202.198.114:8000/play/arosnboxoffice1
-#EXTINF:-1,Bein Sport HD7
-http://149.202.198.114:8000/play/beinshd7
-#EXTINF:-1,AR- BeIN_Movies_1HD
-http://149.202.198.114:8000/play/arbeinmovie1hd
-#EXTINF:-1,Bein Sport HD5
-http://149.202.198.114:8000/play/beinshd5
-#EXTINF:-1,Bein Sport HD 12
-http://149.202.198.114:8000/play/beinshd12
-#EXTINF:-1,AR-OSN box office 2
-http://149.202.198.114:8000/play/arosnboxoffice2
-#EXTINF:-1,Per- GAM LIFE
-http://149.202.198.114:8000/play/pergamlife
-#EXTINF:-1,AR OSN ON Demande 2
-http://149.202.198.114:8000/play/arosnondemande2
-#EXTINF:-1,AR-OSN Cinema2
-http://149.202.198.114:8000/play/arosncinema2
-#EXTINF:-1,AR OSN FANN
-http://149.202.198.114:8000/play/arosnfann
-#EXTINF:-1,Bein Sport HD10
-http://149.202.198.114:8000/play/beinshd10
-#EXTINF:-1,AR-OSN MOVIE PREMIERE
-http://149.202.198.114:8000/play/arosnmoviepremiere
-#EXTINF:-1,AR- OSN_Al_youm
-http://149.202.198.114:8000/play/arosnalyoum
-#EXTINF:-1,AR OSN YA HALA SHABAB
-http://149.202.198.114:8000/play/arosnyahalashabab
-#EXTINF:-1,Bein Sport HD2
-http://149.202.198.114:8000/play/beins2hd
-#EXTINF:-1,AR-osn box office 3
-http://149.202.198.114:8000/play/arosnboxoffice3
-#EXTINF:-1,AR-Alghad-alaraby
-http://149.202.198.114:8000/play/aralghadalaraby
-#EXTINF:-1,AR OSN YAHALA
-http://149.202.198.114:8000/play/arosnyahala
-#EXTINF:-1,Ar-hala tv
-http://149.202.198.114:8000/play/Ar-hala
-#EXTINF:-1,Bein Sport HD8
-http://149.202.198.114:8000/play/beinshd8
-#EXTINF:-1,Bein Sport HD3
-http://149.202.198.114:8000/play/beinshd3
-#EXTINF:-1,Per- GAM TV
-http://149.202.198.114:8000/play/pergamtv
-#EXTINF:-1,AR OSN ON Demande 3
-http://149.202.198.114:8000/play/arosnondemande3
-#EXTINF:-1,Bein Sport HD11
-http://149.202.198.114:8000/play/beinshd11
-#EXTINF:-1,AR-OSN MOVIE ACTION 2
-http://149.202.198.114:8000/play/arosnmovieaction2
-#EXTINF:-1,Ar-Damaa tv
-http://149.202.198.114:8000/play/Ar-Damaa
-#EXTINF:-1,Bein Sport HD4
-http://149.202.198.114:8000/play/beinshd4
-#EXTINF:-1,Bein Sport HD9
-http://149.202.198.114:8000/play/beinshd9
-#EXTINF:-1,Bein Sport HD6
-http://149.202.198.114:8000/play/beinshd6
-#EXTINF:-1,Bein Sport HD 13
-http://149.202.198.114:8000/play/beins13hd
-#EXTINF:-1,Per- GAM CLASSIC
-http://149.202.198.114:8000/play/pergamclassic
-#EXTINF:-1,AR- OSN_MOVIES HD
-http://149.202.198.114:8000/play/arosnmovieshd
-#EXTINF:-1,AR-BBC
-http://149.202.198.114:8000/play/ar-bbc
-#EXTINF:-1,Bein Sport HD1
-http://149.202.198.114:8000/play/beins1hd
-#EXTINF:-1,AR*-ALarabia
-http://149.202.198.114:8000/play/aralarabia
-#EXTINF:-1,AR OSN ON Demande 1
-http://149.202.198.114:8000/play/arosnondemande1
-#EXTINF:-1,AR-BeIN_Movies_2HD
-http://149.202.198.114:8000/play/arbeinmovie2hd
+# ar_bein-osn 
+#EXTM3U #EXTINF:-1 group-title="Tunisia",National 1 
+http://htq.brasilia.me/iptv/ch1?code=1701341723961808
+ #EXTINF:-1,National 1 HD 
+http://cdng.pubcdn.tn/iptv/ch10?code=1701341723961808
+ #EXTINF:-1,National 2 
+http://cdng.pubcdn.tn/iptv/ch2?code=1701341723961808 
+#EXTINF:-1,Al Hiwar Ettounsi 
+http://cdng.pubcdn.tn/iptv/ch3?code=1701341723961808 
+#EXTINF:-1,Attasia TV
+ http://cdng.pubcdn.tn/iptv/ch4?code=1701341723961808 
+#EXTINF:-1,Nessma TV 
+http://cdng.pubcdn.tn/iptv/ch5?code=1701341723961808 
+#EXTINF:-1,Hannibal TV
+ http://cdng.pubcdn.tn/iptv/ch6?code=1701341723961808
+ #EXTINF:-1,Carthage tv
+ http://cdng.pubcdn.tn/iptv/ch801?code=1701341723961808 
+#EXTINF:-1,Telvza TV 
+http://cdng.pubcdn.tn/iptv/ch12?code=1701341723961808
+ #EXTINF:-1,Al Janoubia 
+http://cdng.pubcdn.tn/iptv/ch7?code=1701341723961808 
+#EXTINF:-1,M Tunisia
+ http://cdng.pubcdn.tn/iptv/ch14?code=1701341723961808 
+#EXTINF:-1,Tounesna 
+http://cdng.pubcdn.tn/iptv/ch8?code=1701341723961808 
+#EXTINF:-1,Al Mustakilla
+ http://cdng.pubcdn.tn/iptv/ch77?code=1701341723961808 
+#EXTINF:-1,Zaytouna TV 
+http://cdng.pubcdn.tn/iptv/ch9?code=1701341723961808 
+#EXTINF:-1,Sahel Tv 
+http://cdng.pubcdn.tn/iptv/ch1194?code=1701341723961808 
+#EXTINF:-1,Tunisia Live Events
+ http://cdng.pubcdn.tn/iptv/ch949?code=1701341723961808 
+#EXTINF:-1,Insen TV
+ http://cdng.pubcdn.tn/iptv/ch745?code=1701341723961808 
