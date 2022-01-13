@@ -1,7 +1,88 @@
-# | Channel | Link | Logo | |:---:|:--------------:|:-----:|:-----: | 1 | Rai 1 Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803) |  
-| | 2 | Rai 2 Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718) |   
-| | 3 | Rai 3 Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709) |  
- | | 4 | Rete 4 Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8) |   
-| | 5 | Canale 5 Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8) |  
- | | 6 | Italia 1 Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8) |   
-| | 7 | La7 | [x]() |   | | 8 | TV8 | [x]() |  
+	#EXTM3U
+	#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
+	https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+	#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ
+	https://youtu.be/ns8-5XKA0Ww
+	#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" group-title="Australia",ABC
+	https://c.mjh.nz/101002210221/
+	#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="Australia",TVSN
+	https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+	#EXTINF:-1 tvg-name="ABC Me" tvg-logo="https://i.imgur.com/gBh54wY.png" group-title="Australia",ABC Me
+	https://c.mjh.nz/101002210224/
+	#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Australia",ABC News
+	https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+	#EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="Australia",Racing.com
+	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+	#EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Belarus",1Mus
+	http://hz1.teleport.cc/HLS/HD.m3u8
+	#EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" group-title="Belarus",8 Kanal Vitebsk Ⓢ
+	http://95.46.208.8:24433/art
+	#EXTINF:-1 tvg-name="Belros Ⓢ" tvg-logo="https://i.imgur.com/HWqxjGl.png" group-title="Belarus",Belros Ⓢ
+	https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+	#EXTINF:-1 tvg-name="Belarus 24" tvg-logo="https://i.imgur.com/IyAScOh.jpg" group-title="Belarus",Belarus 24
+	http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+	#EXTINF:-1 tvg-name="Belarus 4 Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/TW6Ap71.png" group-title="Belarus",Belarus 4 Vitebsk Ⓢ
+	http://95.46.208.8:26258/belarus4
+	#EXTINF:-1 tvg-name="CTV Belarus Ⓢ" tvg-logo="https://i.imgur.com/Gz6mSGu.png" group-title="Belarus",CTV Belarus Ⓢ
+	http://212.98.171.116/HLS/ctvby/playlist.m3u8
+	#EXTINF:-1 tvg-name="Hawe TV Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/HOb5m5f.jpg" group-title="Belarus",Hawe TV Vitebsk Ⓢ
+	http://95.46.208.8:26259/nashe
+	#EXTINF:-1 tvg-name="Nastoyashcheye vremya Ⓢ" tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="Belarus",Nastoyashcheye vremya Ⓢ
+	https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+	#EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
+	http://rtmp.one.by:1200
+	#EXTINF:-1 tvg-name="Planeta RTR Ⓢ" tvg-logo="https://i.imgur.com/yqRuEJd.png" group-title="Belarus",Planeta RTR Ⓢ
+	https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+	#EXTINF:-1 tvg-name="Radio HIT Orsk" tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="Belarus",Radio HIT Orsk
+	http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+	#EXTINF:-1 tvg-name="Vitebsk Telekanal" tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="Belarus",Vitebsk Telekanal
+	https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
+	#EXTINF:-1 tvg-name="RTL-TVI" tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="Belgium",RTL-TVI
+	https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+	#EXTINF:-1 tvg-name="La Une" tvg-logo="https://i.imgur.com/hJodwJt.png" group-title="Belgium",La Une
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8
+	#EXTINF:-1 tvg-name="Tipik" tvg-logo="https://i.imgur.com/PVbVj8o.png" group-title="Belgium",Tipik
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8
+	#EXTINF:-1 tvg-name="Club RTL" tvg-logo="https://i.imgur.com/e9GkFwY.png" group-title="Belgium",Club RTL
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts
+	#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts
+	#EXTINF:-1 tvg-name="Plug RTL" tvg-logo="https://i.imgur.com/iAZZWkZ.png" group-title="Belgium",Plug RTL
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
+	#EXTINF:-1 tvg-name="LN24" tvg-logo="https://i.imgur.com/hePpxnn.png" group-title="Belgium",LN24
+	https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+	#EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="Belgium",BX1
+	https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+	#EXTINF:-1 tvg-name="EEN" tvg-logo="https://i.imgur.com/66GQlc7.png" group-title="Belgium",EEN
+	https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+	#EXTINF:-1 tvg-name="Canvas" tvg-logo="https://i.imgur.com/GQkhACx.png" group-title="Belgium",Canvas
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.ts
+	#EXTINF:-1 tvg-name="VTM" tvg-logo="https://i.imgur.com/fUxRP9x.png" group-title="Belgium",VTM
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.ts
+	#EXTINF:-1 tvg-name="VIER" tvg-logo="https://i.imgur.com/bFTXP2e.png" group-title="Belgium",VIER
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
+	#EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" group-title="Belgium",VIJF
+	http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
+	#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Brazil",ALL Sports Brasil
+	https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+	#EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil",COM Brasil
+	https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+	#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
+	http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+	#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Brazil",AgroBrasil TV
+	http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+	#EXTINF:-1 tvg-name="Futura" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/futura.jpg" group-title="Brazil",Futura
+	https://tv.unisc.br/hls/test.m3u8
+	#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Brazil",Record
+	https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+	#EXTINF:-1 tvg-name="RBC" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Brazil",RBC
+	http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+	#EXTINF:-1 tvg-name="Anime TV" tvg-logo="" group-title="Brazil",Anime TV
+	https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+	#EXTINF:-1 tvg-name="Record News Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Brazil",Record News Ⓢ
+	https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+	#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logo-istv.png" group-title="Brazil",ISTV
+	https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+	#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Brazil",Rede Brasil
+	https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+	#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil",TV Câmara
