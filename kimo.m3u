@@ -1,227 +1,84 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="Channels",#0
-http://185.236.229.101:8005/play/a03u
-#EXTINF:0 tvg-id="Vamos.es" group-title="Channels",#VAMOS
-http://185.236.229.101:8005/play/a03c
-#EXTINF:0 tvg-id="Vamos.es" group-title="Channels",#VAMOS
-http://185.236.229.101:8005/play/a03b
-#EXTINF:0 tvg-id="ext" group-title="Channels",#VAMOS BAR
-http://185.236.229.101:8005/play/a01f
-#EXTINF:0 tvg-id="ext" group-title="Channels",#VAMOS BAR1
-http://185.236.229.101:8005/play/a02g
-#EXTINF:0 tvg-id="ext" group-title="Channels",#VAMOS BAR2
-http://185.236.229.101:8005/play/a031
-#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",24 HORAS
-http://185.236.229.101:8005/play/a03e
-#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://185.236.229.101:8005/play/a027
-#EXTINF:0 tvg-id="Antena3.ro" group-title="Channels",ANTENA 3
-http://185.236.229.101:8005/play/a034
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="Channels",ARAGON TV INT
-http://185.236.229.101:8005/play/a03r
-#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
-http://185.236.229.101:8005/play/a03t
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE
-http://185.236.229.101:8005/play/a03p
-#EXTINF:0 tvg-id="baby-tv" group-title="Channels",BABY TV
-http://185.236.229.101:8005/play/a00k
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAR.A TV
-http://185.236.229.101:8005/play/a00o
-#EXTINF:0 tvg-id="BEMAD.es" group-title="Channels",BE MAD
-http://185.236.229.101:8005/play/a00v
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",BLAZE
-http://185.236.229.101:8005/play/a035
-#EXTINF:0 tvg-id="Boing.it" group-title="Channels",BOING
-http://185.236.229.101:8005/play/a00m
-#EXTINF:0 tvg-id="Calle13.es" group-title="Channels",CALLE 13
-http://185.236.229.101:8005/play/a01h
-#EXTINF:0 tvg-id="Cocina.es" group-title="Channels",CANAL COCINA
-http://185.236.229.101:8005/play/a026
-#EXTINF:0 tvg-id="Decasa.es" group-title="Channels",CANAL DECASA
-http://185.236.229.101:8005/play/a01k
-#EXTINF:0 tvg-id="Odisea.es" group-title="Channels",CANAL ODISEA
-http://185.236.229.101:8005/play/a01b
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA
-http://185.236.229.101:8005/play/a01y
-#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="Channels",CANAL SUR A.
-http://185.236.229.101:8005/play/a032
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="Channels",CAZA Y PESCA
-http://185.236.229.101:8005/play/a033
-#EXTINF:0 tvg-id="ClanTVE.es" group-title="Channels",CLAN  TVE
-http://185.236.229.101:8005/play/a01v
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL
-http://185.236.229.101:8005/play/a021
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Channels",COSMO
-http://185.236.229.101:8005/play/a038
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRIMEN+INVES
-http://185.236.229.101:8005/play/a03a
-#EXTINF:0 tvg-id="Cuatro.es" group-title="Channels",CUATRO
-http://185.236.229.101:8005/play/a01i
-#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Channels",DAZN 1
-http://185.236.229.101:8005/play/a03z
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2
-http://185.236.229.101:8005/play/a043
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 3
-http://185.236.229.101:8005/play/a040
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 4
-http://185.236.229.101:8005/play/a041
-#EXTINF:0 tvg-id="DAZN_F1.es" group-title="Channels",DAZN F1
-http://185.236.229.101:8005/play/a03y
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY
-http://185.236.229.101:8005/play/a037
-#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CH.
-http://185.236.229.101:8005/play/a01x
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEY JR
-http://185.236.229.101:8005/play/a03k
-#EXTINF:0 tvg-id="Divinity.es" group-title="Channels",DIVINITY
-http://185.236.229.101:8005/play/a00i
-#EXTINF:0 tvg-id="Dreamworks.es" group-title="Channels",DreamWorks
-http://185.236.229.101:8005/play/a042
-#EXTINF:0 tvg-id="Energy.es" group-title="Channels",ENERGY
-http://185.236.229.101:8005/play/a00n
-#EXTINF:0 tvg-id="esp" group-title="Channels",EUROSPORT 1
-http://185.236.229.101:8005/play/a00p
-#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2
-http://185.236.229.101:8005/play/a00u
-#EXTINF:0 tvg-id="FDF.es" group-title="Channels",FDF
-http://185.236.229.101:8005/play/a01o
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
-http://185.236.229.101:8005/play/a03o
-#EXTINF:0 tvg-id="fox-life" group-title="Channels",FOX LIFE
-http://185.236.229.101:8005/play/a03h
-#EXTINF:0 tvg-id="FoxNews.it" group-title="Channels",FOX NEWS
-http://185.236.229.101:8005/play/a00j
-#EXTINF:0 tvg-id="GOL.es" group-title="Channels",GOL
-http://185.236.229.101:8005/play/a00r
-#EXTINF:0 tvg-id="History.uk" group-title="Channels",HISTORIA
-http://185.236.229.101:8005/play/a039
-#EXTINF:0 tvg-id="hollywood" group-title="Channels",HOLLYWOOD
-http://185.236.229.101:8005/play/a01q
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="Channels",IBERALIA TV
-http://185.236.229.101:8005/play/a03j
-#EXTINF:0 tvg-id="LA1.es" group-title="Channels",LA 1
-http://185.236.229.101:8005/play/a01w
-#EXTINF:0 tvg-id="LA2.es" group-title="Channels",LA 2
-http://185.236.229.101:8005/play/a03s
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="Channels",LA SEXTA
-http://185.236.229.101:8005/play/a00t
-#EXTINF:0 tvg-id="ext" group-title="Channels",LALIGATV BAR
-http://185.236.229.101:8005/play/a01j
-#EXTINF:0 tvg-id="ext" group-title="Channels",LALIGATVBAR1
-http://185.236.229.101:8005/play/a01z
-#EXTINF:0 tvg-id="ext" group-title="Channels",LALIGATVBAR2
-http://185.236.229.101:8005/play/a015
-#EXTINF:0 tvg-id="ext" group-title="Channels",LALIGATVBAR3
-http://185.236.229.101:8005/play/a02o
-#EXTINF:0 tvg-id="ext" group-title="Channels",LALIGATVBAR4
-http://185.236.229.101:8005/play/a02z
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. ACCI©N
-http://185.236.229.101:8005/play/a03l
-#EXTINF:0 tvg-id="M.Comedia.es" group-title="Channels",M. COMEDIA
-http://185.236.229.101:8005/play/a03m
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. Cine Espaæol
-http://185.236.229.101:8005/play/a03d
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",M. DEPORTES
-http://185.236.229.101:8005/play/a01g
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. DEPORTES1
-http://185.236.229.101:8005/play/a03f
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. DEPORTES2
-http://185.236.229.101:8005/play/a02h
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. DEPORTES3
-http://185.236.229.101:8005/play/a02n
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. DEPORTES4
-http://185.236.229.101:8005/play/a02p
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. DEPORTES5
-http://185.236.229.101:8005/play/a02r
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. DEPORTES6
-http://185.236.229.101:8005/play/a018
-#EXTINF:0 tvg-id="M.Deportes7.es" group-title="Channels",M. DEPORTES7
-http://185.236.229.101:8005/play/a010
-#EXTINF:0 tvg-id="M.Drama.es" group-title="Channels",M. DRAMA
-http://185.236.229.101:8005/play/a03n
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Channels",M. ESTRENOS
-http://185.236.229.101:8005/play/a01u
-#EXTINF:0 tvg-id="Golf.es" group-title="Channels",M. GOLF
-http://185.236.229.101:8005/play/a01a
-#EXTINF:0 tvg-id="M.LaLiga.es" group-title="Channels",M. LaLiga
-http://185.236.229.101:8005/play/a01m
-#EXTINF:0 tvg-id="M.LaLiga10.es" group-title="Channels",M. LaLiga 10
-http://185.236.229.101:8005/play/a02s
-#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="Channels",M. LaLiga 2
-http://185.236.229.101:8005/play/a01p
-#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="Channels",M. LaLiga 4
-http://185.236.229.101:8005/play/a016
-#EXTINF:0 tvg-id="M.LaLiga5.es" group-title="Channels",M. LaLiga 5
-http://185.236.229.101:8005/play/a02t
-#EXTINF:0 tvg-id="M.LaLiga6.es" group-title="Channels",M. LaLiga 6
-http://185.236.229.101:8005/play/a02x
-#EXTINF:0 tvg-id="M.LaLiga7.es" group-title="Channels",M. LaLiga 7
-http://185.236.229.101:8005/play/a02i
-#EXTINF:0 tvg-id="M.LaLiga8.es" group-title="Channels",M. LaLiga 8
-http://185.236.229.101:8005/play/a00y
-#EXTINF:0 tvg-id="M.LaLiga9.es" group-title="Channels",M. LaLiga 9
-http://185.236.229.101:8005/play/a02y
-#EXTINF:0 tvg-id="M.Series.es" group-title="Channels",M. SERIES
-http://185.236.229.101:8005/play/a012
-#EXTINF:0 tvg-id="ext" group-title="Channels",M. SERIESMANIA
-http://185.236.229.101:8005/play/a023
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.CineDoc&Roll
-http://185.236.229.101:8005/play/a01s
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.FORMULA1
-http://185.236.229.101:8005/play/a00s
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON1
-http://185.236.229.101:8005/play/a01r
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON3
-http://185.236.229.101:8005/play/a01t
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON4
-http://185.236.229.101:8005/play/a017
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON5
-http://185.236.229.101:8005/play/a02w
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON6
-http://185.236.229.101:8005/play/a02v
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON7
-http://185.236.229.101:8005/play/a030
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON8
-http://185.236.229.101:8005/play/a02q
-#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEONES
-http://185.236.229.101:8005/play/a02u
-#EXTINF:0 tvg-id="mezzo" group-title="Channels",MEZZO
-http://185.236.229.101:8005/play/a014
-#EXTINF:0 tvg-id="MTVEsp.es" group-title="Channels",MTV ESPA¹A
-http://185.236.229.101:8005/play/a00q
-#EXTINF:0 tvg-id="Multideporte1.es" group-title="Channels",MULTIDEPORTE
-http://185.236.229.101:8005/play/a019
-#EXTINF:0 tvg-id="Multideporte1.es" group-title="Channels",MULTIDEPORTE
-http://185.236.229.101:8005/play/a00z
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NAT GEO WILD
-http://185.236.229.101:8005/play/a03q
-#EXTINF:0 tvg-id="NatGeoHD.es" group-title="Channels",NAT GEOGRAPH
-http://185.236.229.101:8005/play/a01e
-#EXTINF:0 tvg-id="Neox.es" group-title="Channels",NEOX
-http://185.236.229.101:8005/play/a03x
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JR
-http://185.236.229.101:8005/play/a013
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",NICKELODEON
-http://185.236.229.101:8005/play/a036
-#EXTINF:0 tvg-id="NovaTV.cz" group-title="Channels",NOVA
-http://185.236.229.101:8005/play/a03i
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",PARAMOUNT
-http://185.236.229.101:8005/play/a03w
-#EXTINF:0 tvg-id="playboy" group-title="Channels",PLAYBOY TV
-http://185.236.229.101:8005/play/a01c
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Channels",R. MADRID TV
-http://185.236.229.101:8005/play/a01n
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY
-http://185.236.229.101:8005/play/a01l
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
-http://185.236.229.101:8005/play/a020
-#EXTINF:0 tvg-id="Telecinco.es" group-title="Channels",TELECINCO
-http://185.236.229.101:8005/play/a01d
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="Channels",TELEDEPORTE
-http://185.236.229.101:8005/play/a025
-#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT
-http://185.236.229.101:8005/play/a024
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",TOROS
-http://185.236.229.101:8005/play/a02k
-#EXTINF:0 tvg-id="Viajar.es" group-title="Channels",VIAJAR
-http://185.236.229.101:8005/play/a022
+//// BEIN SPORTS////
+#EXTINF:-1,BEIN|BEIN SPORT 1 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3145.ts
+#EXTINF:-1,BEIN|BEIN SPORT 2 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3143.ts
+#EXTINF:-1,BEIN|BEIN SPORT 3 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3142.ts
+#EXTINF:-1,BEIN|BEIN SPORT 4 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3141.ts
+#EXTINF:-1,BEIN|BEIN SPORT 5 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3140.ts
+#EXTINF:-1,BEIN|BEIN SPORT 6 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3139.ts
+#EXTINF:-1,BEIN|BEIN SPORT 7 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3138.ts
+#EXTINF:-1,BEIN|BEIN SPORT 8 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3137.ts
+#EXTINF:-1,BEIN|BEIN SPORT 9 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3136.ts
+#EXTINF:-1,BEIN|BEIN SPORT 10 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/3144.ts
+#EXTINF:-1,AR_B_SPORTS_1_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/186.ts
+#EXTINF:-1,AR_B_SPORTS_2_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/187.ts
+#EXTINF:-1,AR_B_SPORTS_3_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/188.ts
+#EXTINF:-1,AR_B_SPORTS_4_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/189.ts
+#EXTINF:-1,AR_B_SPORTS_5_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/190.ts
+#EXTINF:-1,AR_B_SPORTS_6_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/191.ts
+#EXTINF:-1,AR_B_SPORTS_7_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/192.ts
+#EXTINF:-1,AR_B_SPORTS_8_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/193.ts
+#EXTINF:-1,AR_B_SPORTS_9_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/194.ts
+#EXTINF:-1,AR_B_SPORTS_10_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/195.ts
+#EXTINF:-1,AR_B_SPORTS_11_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/196.ts
+#EXTINF:-1,AR_B_SPORTS_12_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/197.ts
+#EXTINF:-1,AR_B_SPORTS_13_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/451.ts
+#EXTINF:-1,AR_B_SPORTS_14_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/452.ts
+#EXTINF:-1,AR_B_SPORTS_15_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/453.ts
+#EXTINF:-1,AR_B_SPORTS_16_HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1230.ts
+#EXTINF:-1,AR_B_MOVIES_1HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1279.ts
+#EXTINF:-1,AR_B_MOVIES_2HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/28.ts
+#EXTINF:-1,AR_B_MOVIES_3HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1284.ts
+#EXTINF:-1,AR_B_MOVIES_4HD
+http://www.xa1q.com:8000/live/meddeb151/benothm/1287.ts
+#EXTINF:-1,AR -- BeinHD Sports HD1
+http://localhd.tv:8081/live/pedro/skype/892.ts
+#EXTINF:-1,AR: BEIN Sports 1 HD
+http://localhd.tv:8081/live/pedro/skype/281.ts
+#EXTINF:-1,AR -- BeinHD Sports HD2
+http://localhd.tv:8081/live/pedro/skype/890.ts
+#EXTINF:-1,AR: BEIN Sports 2 HD
+http://localhd.tv:8081/live/pedro/skype/282.ts
+#EXTINF:-1,AR -- BeinHD Sports HD3
+http://localhd.tv:8081/live/pedro/skype/889.ts
+#EXTINF:-1,AR: BEIN Sports 3 HD
+http://localhd.tv:8081/live/pedro/skype/283.ts
+#EXTINF:-1,AR -- BeinHD Sports HD4
+http://localhd.tv:8081/live/pedro/skype/888.ts
+#EXTINF:-1,AR: BEIN Sports 4 HD
+http://localhd.tv:8081/live/pedro/skype/284.ts
+#EXTINF:-1,AR -- BeinHD Sports HD5
+http://localhd.tv:8081/live/pedro/skype/887.ts
+#EXTINF:-1,AR: BEIN Sports 5 HD
+http://localhd.tv:8081/live/pedro/skype/351.ts
+#EXTINF:-1,AR -- BeinHD Sports HD6
+http://localhd.tv:8081/live/pedro/skype/886.ts
