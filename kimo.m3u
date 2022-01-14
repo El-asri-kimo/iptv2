@@ -1,75 +1,75 @@
 #EXTM3U
-#EXTINF:-1,AB1
-http://185.99.254.70:8000/play/a02b/index.m3u8
-#EXTINF:-1,ALTICE STUDIO
-http://185.99.254.70:8000/play/a02q/index.m3u8
-#EXTINF:-1,ANIMAUX
-http://185.99.254.70:8000/play/a02c/index.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://185.99.254.70:8000/play/a01j/index.m3u8
-#EXTINF:-1,BOING
-http://185.99.254.70:8000/play/a01n/index.m3u8
-#EXTINF:-1,BOOMERANG
-http://185.99.254.70:8000/play/a01t/index.m3u8
-#EXTINF:-1,C8
-http://185.99.254.70:8000/play/a01u/index.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://185.99.254.70:8000/play/a06e/index.m3u8
-#EXTINF:-1,CHASSE ET PECHE
-http://185.99.254.70:8000/play/a02j/index.m3u8
-#EXTINF:-1,CINE+ EMOTION
-http://185.99.254.70:8000/play/a01f/index.m3u8
-#EXTINF:-1,CINE+ PREMIER
-http://185.99.254.70:8000/play/a01a/index.m3u8
-#EXTINF:-1,CLASSICA
-http://185.99.254.70:8000/play/a029/index.m3u8
-#EXTINF:-1,CNEWS
-http://185.99.254.70:8000/play/a01w/index.m3u8
-#EXTINF:-1,CSTAR
-http://185.99.254.70:8000/play/a01v/index.m3u8
-#EXTINF:-1,Cherie 25
-http://185.99.254.70:8000/play/a037/index.m3u8
+#EXTINF:-1,ALFAN
+http://185.65.253.22:8000/play/a0a8/index.m3u8
+#EXTINF:-1,ALNAWARS SPORT
+http://185.65.253.22:8000/play/a0ak/index.m3u8
+#EXTINF:-1,ALYOUM
+http://185.65.253.22:8000/play/a0a7/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://185.65.253.22:8000/play/a08x/index.m3u8
+#EXTINF:-1,ART AFLAM 1
+http://185.65.253.22:8000/play/a0a0/index.m3u8
+#EXTINF:-1,ART AFLAM 2
+http://185.65.253.22:8000/play/a0a1/index.m3u8
+#EXTINF:-1,ART CINEMA
+http://185.65.253.22:8000/play/a09z/index.m3u8
+#EXTINF:-1,ART HEKAYAT
+http://185.65.253.22:8000/play/a0a2/index.m3u8
+#EXTINF:-1,ART HEKAYAT 2
+http://185.65.253.22:8000/play/a0a3/index.m3u8
+#EXTINF:-1,Alkass 1
+http://185.65.253.22:8000/play/a02k/index.m3u8
+#EXTINF:-1,Alkass 2
+http://185.65.253.22:8000/play/a02l/index.m3u8
+#EXTINF:-1,Alkass 3
+http://185.65.253.22:8000/play/a02m/index.m3u8
+#EXTINF:-1,Alkass 4
+http://185.65.253.22:8000/play/a02n/index.m3u8
+#EXTINF:-1,Alkass 5
+http://185.65.253.22:8000/play/a02o/index.m3u8
+#EXTINF:-1,Alkass 6
+http://185.65.253.22:8000/play/a02p/index.m3u8
+#EXTINF:-1,Alkass 7
+http://185.65.253.22:8000/play/a02q/index.m3u8
+#EXTINF:-1,Alkass 8
+http://185.65.253.22:8000/play/a02r/index.m3u8
+#EXTINF:-1,BABY TV
+http://185.65.253.22:8000/play/a090/index.m3u8
+#EXTINF:-1,Bein Drama HD
+http://185.65.253.22:8000/play/a0ag/index.m3u8
+#EXTINF:-1,Bein Movies HD1
+http://185.65.253.22:8000/play/a0aa/index.m3u8
+#EXTINF:-1,Bein Movies HD2
+http://185.65.253.22:8000/play/a0ab/index.m3u8
+#EXTINF:-1,Bein Movies HD3
+http://185.65.253.22:8000/play/a0ac/index.m3u8
+#EXTINF:-1,Bein Movies HD4
+http://185.65.253.22:8000/play/a0ad/index.m3u8
+#EXTINF:-1,Bein Series HD1
+http://185.65.253.22:8000/play/a0ae/index.m3u8
+#EXTINF:-1,Bein Series HD2
+http://185.65.253.22:8000/play/a0af/index.m3u8
+#EXTINF:-1,CINEMA 1
+http://185.65.253.22:8000/play/a0a4/index.m3u8
+#EXTINF:-1,CINEMA 2
+http://185.65.253.22:8000/play/a0a5/index.m3u8
+#EXTINF:-1,CN
+http://185.65.253.22:8000/play/a08a/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://185.65.253.22:8000/play/a089/index.m3u8
+#EXTINF:-1,CRIME INVESTIGA
+http://185.65.253.22:8000/play/a08f/index.m3u8
+#EXTINF:-1,DICOVERY ID
+http://185.65.253.22:8000/play/a08p/index.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://185.65.253.22:8000/play/a08o/index.m3u8
+#EXTINF:-1,DISCOVERY SICEN
+http://185.65.253.22:8000/play/a08q/index.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://185.99.254.70:8000/play/a01p/index.m3u8
-#EXTINF:-1,EQUIDIA
-http://185.99.254.70:8000/play/a028/index.m3u8
-#EXTINF:-1,ES1
-http://185.99.254.70:8000/play/a02p/index.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://185.99.254.70:8000/play/a01i/index.m3u8
-#EXTINF:-1,ElevenSports2
-http://185.99.254.70:8000/play/a069/index.m3u8
-#EXTINF:-1,Elevensports1
-http://185.99.254.70:8000/play/a068/index.m3u8
-#EXTINF:-1,F3 ALPES
-http://185.99.254.70:8000/play/a03g/index.m3u8
-#EXTINF:-1,F3 ALSACE
-http://185.99.254.70:8000/play/a03i/index.m3u8
-#EXTINF:-1,F3 AQUITAINE
-http://185.99.254.70:8000/play/a03n/index.m3u8
-#EXTINF:-1,F3 AUVERGNE
-http://185.99.254.70:8000/play/a03o/index.m3u8
-#EXTINF:-1,F3 BNORMANDIE
-http://185.99.254.70:8000/play/a039/index.m3u8
-#EXTINF:-1,F3 BOURGOGNE
-http://185.99.254.70:8000/play/a03d/index.m3u8
-#EXTINF:-1,F3 BRETAGNE
-http://185.99.254.70:8000/play/a03p/index.m3u8
-#EXTINF:-1,F3 CENTRE
-http://185.99.254.70:8000/play/a03c/index.m3u8
-#EXTINF:-1,F3 CHAMP ARDENNE
-http://185.99.254.70:8000/play/a03f/index.m3u8
-#EXTINF:-1,F3 CORSEVIASTELLA
-http://185.99.254.70:8000/play/a03k/index.m3u8
-#EXTINF:-1,F3 COTE D'AZUR
-http://185.99.254.70:8000/play/a03b/index.m3u8
-#EXTINF:-1,F3 FRANCHE COMTE
-http://185.99.254.70:8000/play/a03w/index.m3u8
-#EXTINF:-1,F3 HNORMANDIE
-http://185.99.254.70:8000/play/a03m/index.m3u8
-#EXTINF:-1,F3 LANGUEDOCROU
-http://185.99.254.70:8000/play/a03j/index.m3u8
-#EXTINF:-1,F3 LIMOUSIN
-http://185.99.254.70:8000/play/a03q/index.m3u8
-#EXTINF:-1,F3 LORRAINE
-http://185.99.254.70:8000/play/a03r/index.m3u8
+http://185.65.253.22:8000/play/a08j/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://185.65.253.22:8000/play/a08v/index.m3u8
+#EXTINF:-1,DISNEY 
+http://185.65.253.22:8000/play/a08z/index.m3u8
+#EXTINF:-1,DOCUMENTRY AR
+http://185.65.253.22:8000/play/a09s/index.m3u8
