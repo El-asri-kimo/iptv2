@@ -1,20 +1,87 @@
-#EXTINF:-1 group-title="ALGERIE",Canal Algerie
-http://41.224.63.105:4444/bysid/2
-#EXTINF:-1 group-title="ALGERIE",Samira TV
-http://41.224.63.105:4466/bysid/3338
-#EXTINF:-1 group-title="ALGERIE",Ennahar TV
-http://41.224.63.105:4466/bysid/3325
-#EXTINF:-1 group-title="ALGERIE",Echorouk News
-https://tv-live.echoroukonline.com/echo/EchoroukNews/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIE",ECHOROUK
-https://tv-live.echoroukonline.com/echo/EchoroukTV/chunks.m3u8
-#EXTINF:-1 group-title="ALGERIE",DZAIR
-http://41.224.63.105:4466/bysid/3339
-#EXTINF:-1 group-title="ALGERIE",Algérie 3
-http://41.224.63.105:4444/bysid/3
-#EXTINF:-1 group-title="ALGERIE",Algerie 3 HD
-http://41.224.63.105:4444/bysid/25
-#EXTINF:-1 group-title="ALGERIE",TV4 Algerie Tamazight
-http://41.224.63.105:4444/bysid/4
-#EXTINF:-1 group-title="ALGERIE",TV5 Algérie Coran
-http://41.224.63.105:4444/bysid/
+#EXTM3U
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",AnimalPlanet
+http://94.158.54.54:4000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Animal_Planet_HD
+http://94.158.54.54:4000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Arena_sport
+http://94.158.54.54:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",AvtoPlus
+http://94.158.54.54:4000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Bolajon
+http://94.158.54.54:4000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Detsky_Mir
+http://94.158.54.54:4000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Disney
+http://94.158.54.54:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Dunyo UKT
+http://94.158.54.54:4000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",EuroSport
+http://94.158.54.54:4000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Eurosport1HD
+http://94.158.54.54:4000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Igra
+http://94.158.54.54:4000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Karusel
+http://94.158.54.54:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Kinopremera
+http://94.158.54.54:4000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Kinoteatr UKT
+http://94.158.54.54:4000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Klub
+http://94.158.54.54:4000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Lux_TV
+http://94.158.54.54:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Madaniyat
+http://94.158.54.54:4000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Mahalla
+http://94.158.54.54:4000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Match
+http://94.158.54.54:4000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Mening
+http://94.158.54.54:4000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",MilliyTV
+http://94.158.54.54:4000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",NAVO UKT
+http://94.158.54.54:4000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",NTV
+http://94.158.54.54:4000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Nat_Geo_HD
+http://94.158.54.54:4000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Nat_Geo_WILD_HD
+http://94.158.54.54:4000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",National_Geographic_Channel
+http://94.158.54.54:4000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Ohota_i_Rybalka
+http://94.158.54.54:4000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Oilaviy_UKT
+http://94.158.54.54:4000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Rossiya
+http://94.158.54.54:4000/play/2/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Rossiya_24
+http://94.158.54.54:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Sevimli
+http://94.158.54.54:4000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Sport
+http://94.158.54.54:4000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",TVC
+http://94.158.54.54:4000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",TeleCafe
+http://94.158.54.54:4000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Toshkent
+http://94.158.54.54:4000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Uzbekistan24
+http://94.158.54.54:4000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Uzbekiston
+http://94.158.54.54:4000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Uzbekiston Tarixi HD
+http://94.158.54.54:4000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Yoshlar
+http://94.158.54.54:4000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",ZorTV_HD
+http://94.158.54.54:4000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",futbol1
+http://94.158.54.54:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",futbol2
+http://94.158.54.54:4000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="https://tvcom.uz/files/xmltv.xml",Техно24
+http://94.158.54.54:4000/play/a013/index.m3u8
