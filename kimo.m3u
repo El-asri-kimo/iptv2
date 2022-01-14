@@ -1,101 +1,325 @@
 #EXTM3U
-#EXTINF:-1, DAZN 4
-http://93.48.34.164:8000/play/57765
-#EXTINF:-1, DAZN SERIE A E B SPORT HD
-http://93.48.34.164:8000/play/0'98097
-#EXTINF:-1, INVESTIGATION FHD
-http://93.48.34.164:8000/play/3333434
-#EXTINF:-1, SKY CINEMA ACTION HD
-http://93.48.34.164:8000/play/8678
-#EXTINF:-1, SKY CINEMA DUE HD
-http://93.48.34.164:8000/play/67666
-#EXTINF:-1, SKY CINEMA ROMANCE HD
-http://93.48.34.164:8000/play/98664
-#EXTINF:-1, SKY CINEMA SUSPENSE HD
-http://93.48.34.164:8000/play/75899
-#EXTINF:-1,DAZN 3
-http://93.48.34.164:8000/play/687879
-#EXTINF:-1,FOX
-http://93.48.34.164:8000/play/a004
-#EXTINF:-1,Premium Action
-http://93.48.34.164:8000/play/a00e
-#EXTINF:-1,Premium Cinema 1
-http://93.48.34.164:8000/play/a01m
-#EXTINF:-1,Premium Cinema 2
-http://93.48.34.164:8000/play/a01n
-#EXTINF:-1,Premium Cinema 3
-http://93.48.34.164:8000/play/a00b
-#EXTINF:-1,Premium Crime
-http://93.48.34.164:8000/play/a009
-#EXTINF:-1,Premium Stories
-http://93.48.34.164:8000/play/a008
-#EXTINF:-1,Rai 1
-http://93.48.34.164:8000/play/a02c
-#EXTINF:-1,Rai 1 (clone)
-http://93.48.34.164:8000/play/a02p
-#EXTINF:-1,Rai 1 HD
-http://93.48.34.164:8000/play/a02i
-#EXTINF:-1,Rai 2
-http://93.48.34.164:8000/play/a02d
-#EXTINF:-1,Rai 3 TGR Campania
-http://93.48.34.164:8000/play/a02e
-#EXTINF:-1,Rai 4
-http://93.48.34.164:8000/play/a02m
-#EXTINF:-1,Rai Gulp
-http://93.48.34.164:8000/play/a02j
-#EXTINF:-1,Rai Movie
-http://93.48.34.164:8000/play/a02h
-#EXTINF:-1,Rai News 24
-http://93.48.34.164:8000/play/a02f
-#EXTINF:-1,Rai Premium
-http://93.48.34.164:8000/play/a02l
-#EXTINF:-1,Rai Sport + HD
-http://93.48.34.164:8000/play/a02g
-#EXTINF:-1,Rai YoYo
-http://93.48.34.164:8000/play/a02k
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://93.48.34.164:8000/play/87897
-#EXTINF:-1,SKY CINEMA COLLECTION HD
-http://93.48.34.164:8000/play/111232
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://93.48.34.164:8000/play/23434
-#EXTINF:-1,SKY CINEMA DRAMA HD
-http://93.48.34.164:8000/play/08766
-#EXTINF:-1,SKY SERIES HD
-http://93.48.34.164:8000/play/87986
-#EXTINF:-1,SKY SPORT ARENA HD
-http://93.48.34.164:8000/play/26
-#EXTINF:-1,SKY SPORT FOOTBALL HD
-http://93.48.34.164:8000/play/3547554
-#EXTINF:-1,SKY SPORT FORMULA 1 HD
-http://93.48.34.164:8000/play/457558
-#EXTINF:-1,SKY SPORT MOTOGP HD
-http://93.48.34.164:8000/play/23
-#EXTINF:-1,SKY SPORT NBA HD
-http://93.48.34.164:8000/play/555566777
-#EXTINF:-1,SKY SPORT UNO HD
-http://93.48.34.164:8000/play/25
-#EXTINF:-1,Sky Atlantic
-http://93.48.34.164:8000/play/a003
-#EXTINF:-1,Sky Sport
-http://93.48.34.164:8000/play/a020
-#EXTINF:-1,Sky Sport 24
-http://93.48.34.164:8000/play/a028
-#EXTINF:-1,Sky Sport Calcio
-http://93.48.34.164:8000/play/a00d
-#EXTINF:-1,Sky Sport Calcio HD
-http://93.48.34.164:8000/play/a00a
-#EXTINF:-1,Sky Sport Uno
-http://93.48.34.164:8000/play/a00g
-#EXTINF:-1,Sky Sport Uno HD
-http://93.48.34.164:8000/play/a01p
-#EXTINF:-1,Sky TG24
-http://93.48.34.164:8000/play/a006
-#EXTINF:-1,Sky Uno
-http://93.48.34.164:8000/play/a00j
-#EXTINF:-1,Sportitalia
-http://93.48.34.164:8000/play/a01o
-#EXTINF:-1,dazn 2
-http://93.48.34.164:8000/play/55645
-#EXTINF:-1,dazn1
-http://93.48.34.164:8000/play/788
+
+#EXTINF:-1,Halow Sport
+
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
+
+#EXTINF:-1,BEIN SPORTS  News
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/1884
+
+#EXTINF:-1,BEIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/1885
+
+#EXTINF:-1,BEIN SPORTS NBA
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/63912
+
+#EXTINF:-1,BEIN PREMUIM 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/668
+
+#EXTINF:-1,BEIN PREMUIM 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/669
+
+#EXTINF:-1,BEIN PREMUIM 2
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/666
+
+#EXTINF:-1,BEIN PREMUIM 2
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/667
+
+#EXTINF:-1,BEIN PREMUIM 3
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/664
+
+#EXTINF:-1,BEIN PREMUIM 3
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/665
+
+#EXTINF:-1,beIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/682
+
+#EXTINF:-1,beIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/1711
+
+#EXTINF:-1,beIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/679
+
+#EXTINF:-1,beIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/677
+
+#EXTINF:-1,beIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/675
+
+#EXTINF:-1,beIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/673
+
+#EXTINF:-1,beIN SPORTS
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/671
+
+#EXTINF:-1,BEIN SPORTS XTRA 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/63913
+
+#EXTINF:-1,BEIN SPORTS ENGLISH 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/63916
+
+#EXTINF:-1,BEIN SPORTS ENGLISH 2
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/63914
+
+#EXTINF:-1,BEIN SPORTS ENGLISH 3
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/63915
+
+#EXTINF:-1,BEIN SPORTS FRENCH 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/63917
+
+#EXTINF:-1,BEIN SPORTS FRENCH 2
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/63918
+
+#EXTINF:-1,BEIN SPORTS 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/681
+
+#EXTINF:-1,BEIN SPORTS 2
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/680
+
+#EXTINF:-1,BEIN SPORTS 3
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/678
+
+#EXTINF:-1,BEIN SPORTS 4
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/676
+
+#EXTINF:-1,BEIN SPORTS 5
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/674
+
+#EXTINF:-1,BEIN SPORTS 6
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/672
+
+#EXTINF:-1,BEIN SPORTS 7
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/670
+
+#EXTINF:-1,BEIN PREMUIM 1 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58417
+
+#EXTINF:-1,BEIN PREMUIM 2 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58418
+
+#EXTINF:-1,BEIN PREMUIM 3 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58419
+
+#EXTINF:-1,BIENSPORT 1 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58410
+
+#EXTINF:-1,BIENSPORT 2 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58411
+
+#EXTINF:-1,BIENSPORT 3 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58412
+
+#EXTINF:-1,BIENSPORT 4 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58413
+
+#EXTINF:-1,BIENSPORT 5 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58414
+
+#EXTINF:-1,BIENSPORT 6 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58415
+
+#EXTINF:-1,BIENSPORT 7 H265
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/58416
+
+#EXTINF:-1,BEIN PREMUIM 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5651
+
+#EXTINF:-1,BEIN PREMUIM 2
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5650
+
+#EXTINF:-1,BEIN PREMUIM 3
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5649
+
+#EXTINF:-1,BEIN SPORT 1
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5658
+
+#EXTINF:-1,BEIN SPORT 2
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/37619
+
+#EXTINF:-1,BEIN SPORT 3
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5656
+
+#EXTINF:-1,BEIN SPORT 4
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5655
+
+#EXTINF:-1,BEIN SPORT 5
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5654
+
+#EXTINF:-1,BEIN SPORT 6
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5653
+
+#EXTINF:-1,BEIN SPORT 7
+
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:84/ziajdjjfdifjd64646/5652
+
+#EXTINF:-1,Super Sport Premier League FHD
+
+http://ztvuk.com:8080/mick/mick123/11951
+
+#EXTINF:-1,SAF:  Super Sport Premier League
+
+http://ztvuk.com:8080/mick/mick123/17188
+
+#EXTINF:-1,IN:  Star Sports 1 FHD
+
+http://ztvuk.com:8080/mick/mick123/17763
+
+#EXTINF:-1,IN:  Star Sports 1 HD
+
+http://ztvuk.com:8080/mick/mick123/12191
+
+#EXTINF:-1,IN:  Star Sports 1 FHD Hindi
+
+http://ztvuk.com:8080/mick/mick123/20241
+
+#EXTINF:-1,IN:  Star Sports 1 HD Hindi
+
+http://ztvuk.com:8080/mick/mick123/12189
+
+#EXTINF:-1,IN:  Star Sports 2 HD
+
+http://ztvuk.com:8080/mick/mick123/12190
+
+#EXTINF:-1,IN:  Star Sports 2 HD.
+
+http://ztvuk.com:8080/mick/mick123/17762
+
+#EXTINF:-1,IN:  Star Sports 3
+
+http://ztvuk.com:8080/mick/mick123/30172
+
+#EXTINF:-1,IN:  Star Sports 3
+
+http://ztvuk.com:8080/mick/mick123/12196
+
+#EXTINF:-1,IN: Star Sports Select 1 HD
+
+http://ztvuk.com:8080/mick/mick123/32652
+
+#EXTINF:-1,IN:  Star Sports Select 1 HD.
+
+http://ztvuk.com:8080/mick/mick123/12551
+
+#EXTINF:-1,IN: Star Sports Select 2 HD
+
+http://ztvuk.com:8080/mick/mick123/32653
+
+#EXTINF:-1,IN:  Star Sports Select 2 HD.
+
+http://ztvuk.com:8080/mick/mick123/11955
+
+#EXTINF:-1,IN:  Ten Sports
+
+http://ztvuk.com:8080/mick/mick123/12206
+
+#EXTINF:-1,IN:  D Sports
+
+http://ztvuk.com:8080/mick/mick123/12207
+
+#EXTINF:-1,IN:  DD Sports
+
+http://ztvuk.com:8080/mick/mick123/12209
+
+#EXTINF:-1,IN:  D Sports HD
+
+http://ztvuk.com:8080/mick/mick123/17756
+
+#EXTINF:-1,PK:  PTV Sports HD
+
+http://ztvuk.com:8080/mick/mick123/12215
+
+#EXTINF:-1,PK:  PTV Sports
+
+http://ztvuk.com:8080/mick/mick123/32642
+
+#EXTINF:-1,Astro Super Sport 1
+
+http://ztvuk.com:8080/mick/mick123/93033
+
+#EXTINF:-1,Astro Super Sport 2
+
+http://ztvuk.com:8080/mick/mick123/93034
+
+#EXTINF:-1,Astro Super Sport 3
+
+http://ztvuk.com:8080/mick/mick123/93035
+
+#EXTINF:-1,Astro Super Sport 4
+
+http://ztvuk.com:8080/mick/mick123/93036
+
+#EXTINF:-1,SAF:  Super Sport Grandstand
+
+http://ztvuk.com:8080/mick/mick123/17189
+
+#EXTINF:-1,SAF:  Super Sport Action
+
+http://ztvuk.com:8080/mick/mick123/17186
+
+#EXTINF:-1,SAF:  Super Sport Golf
+
+http://ztvuk.com:8080/mick/mick123/17190
+
+#EXTINF:-1,SAF:  Super Sport Cricket
+
+http://ztvuk.com:8080/mick/mick123/17685
+
+#EXTINF:-1,SAF:  Super Sport PSL
+
+http://ztvuk.com:8080/mick/mick123/17273
+
+#EXTINF:-1,SAF:  Super Sport Tennis
+
+http://ztvuk.com:8080/mick/mick123/17272
+
+#EXTINF:-1,SAF:  Super Sport Rugby
+
+http://ztvuk.com:8080/mick/mick123/17681
