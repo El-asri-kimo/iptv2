@@ -1,45 +1,15 @@
-EXTM3U
-#EXTINF:-1,ALANIS TV
-https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:-1,Algerie TV 5
-https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
-#EXTINF:-1,ALGERIE TV 6
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1,Algérie TV3
-https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1,Algerie TV4
-https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1,BAHIA TV
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
-#EXTINF:-1,BEUR TV
-https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
-#EXTINF:-1,Canal Algérie
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1,Echorouk NEWS
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1,Echorouk TV
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1,EL BILAD
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
-#EXTINF:-1,El Djazair N1
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:-1,El Djazairia One
-https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
-#EXTINF:-1,EL FADJR TV
-https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
-#EXTINF:-1,EL HAYAT TV
-https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
-#EXTINF:-1,El Heddaf TV
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
-#EXTINF:-1,Ennahar TV
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:-1,ENTV
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1,Lina TV
-https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
-#EXTINF:-1,Samira TV
-https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
-#EXTINF:-1,TV7 ELMAARIFA
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
-#EXTINF:-1,TV8 EDHAKIRA
-https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF:-1,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+#EXTINF:-1,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1,CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+#EXTINF:-1,Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+#EXTINF:-1,HBO ?
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
