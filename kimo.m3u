@@ -27,3 +27,54 @@ EXTINF:-1,2gh
 http://yassooo.com:8080/Manaf/Manaf123/80259
 EXTINF:-1,1gh
 http://yassooo.com:8080/Manaf/Manaf123/80260
+
+
+#LIVESPIEL-KANAL
+#EXTINF:-1 ,MYSPORTS 7 D (abonnement)
+rtp://239.186.74.54:10000
+#EXTINF:-1 ,MYSPORTS 8 D (abonnement)
+rtp://239.186.74.76:10000
+#EXTINF:-1 ,MYSPORTS 9 D (abonnement)
+rtp://239.186.74.86:10000
+#EXTINF:-1 ,MYSPORTS 7 D HD (abonnement)
+rtp://239.186.68.168:10000
+#EXTINF:-1 ,MYSPORTS 8 D HD (abonnement)
+rtp://239.186.68.227:10000
+#EXTINF:-1 ,MYSPORTS 9 D HD (abonnement)
+rtp://239.186.70.161:10000
+
+#CHAINE D'EVENEMENT EN DIRECT
+#EXTINF:-1 ,MYSPORTS 7 F (abonnement)
+rtp://239.186.74.92:10000
+#EXTINF:-1 ,MYSPORTS 8 F (abonnement)
+rtp://239.186.74.96:10000
+#EXTINF:-1 ,MYSPORTS 9 F (abonnement)
+rtp://239.186.74.99:10000
+#EXTINF:-1 ,MYSPORTS 7 F HD (abonnement)
+rtp://239.186.84.15:10000
+#EXTINF:-1 ,MYSPORTS 8 F HD (abonnement)
+rtp://239.186.84.75:10000
+#EXTINF:-1 ,MYSPORTS 9 F HD (abonnement)
+rtp://239.186.84.76:10000
+
+#EXTINF:-1 ,ORF SPORT+ HD (deu)
+rtp://239.186.84.71:10000
+#EXTINF:-1 ,BaernSPORT HD
+rtp://239.186.84.95:10000
+
+#EXTINF:-1 ,WEF Feed 1 Plenary (deu) (scrambled)
+rtp://239.186.84.81:10000
+#EXTINF:-1 ,WEF Feed 2 (deu)
+rtp://239.186.84.82:10000
+#EXTINF:-1 ,WEF Feed 3 (deu)
+rtp://239.186.84.83:10000
+#EXTINF:-1 ,WEF Feed 4 (deu)
+rtp://239.186.84.84:10000
+#EXTINF:-1 ,WEF Feed 5 (deu)
+rtp://239.186.84.85:10000
+#EXTINF:-1 ,WEF Feed 6 (deu)
+rtp://239.186.84.86:10000
+#EXTINF:-1 ,WEF Feed 7 (deu)
+rtp://239.186.84.87:10000
+#EXTINF:-1 ,WEF TV (deu)
+rtp://239.186.84.88:10000
