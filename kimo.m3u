@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF :-1,Moviemix
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
+
 #EXTINF:-1,21
 http://yassooo.com:8080/Manaf/Manaf123/4110
 #EXTINF:-1,22
