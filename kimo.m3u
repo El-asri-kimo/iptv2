@@ -5,3 +5,7 @@ https://iptv--iptv.repl.co/Arabic/Quran_T
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1,Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1,Galaxy Premium
+http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
+#EXTINF:-1,The Jungle Book (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
