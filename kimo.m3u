@@ -1,6 +1,25 @@
 #EXTM3U
-#EXTINF:-1,Al Quran Al Kareem TV (Mecca) (1080p)
-https://iptv--iptv.repl.co/Arabic/Quran_T
+#EXTINF:-1,AD 44
+http://5.39.189.40:8085/udp/229.0.0.50:1234
+#EXTM3U
+#EXTINF:-1,AD 65
+http://5.39.189.40:8085/udp/229.0.0.51:1234
+#EXTM3U
+#EXTINF:-1,AD Nat 
+http://5.39.189.40:8085/udp/229.0.0.52:1234
+#EXTM3U
+#EXTINF:-1,AD 4
+http://5.39.189.40:8085/udp/229.0.0.53:1234
+#EXTM3U
+#EXTINF:-1,AD 3
+http://5.39.189.40:8085/udp/229.0.0.54:1234
+#EXTM3U
+#EXTINF:-1,AD 2
+http://5.39.189.40:8085/udp/229.0.0.55:1234
+#EXTM3U
+#EXTINF:-1,AD 1
+http://5.39.189.40:8085/udp/229.0.0.56:1234
+
 #EXTINF:-1,Moovimex (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1,Bflix Movies (480p)
