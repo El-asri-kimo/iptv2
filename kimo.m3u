@@ -14,12 +14,6 @@ http://5.39.189.40:8085/udp/229.0.0.53:1234
 #EXTINF:-1,AD 3
 http://5.39.189.40:8085/udp/229.0.0.54:1234
 #EXTM3U
-#EXTINF:-1,AD 2
-http://5.39.189.40:8085/udp/229.0.0.55:1234
-#EXTM3U
-#EXTINF:-1,AD 1
-http://5.39.189.40:8085/udp/229.0.0.56:1234
-
 #EXTINF:-1,Moovimex (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1,Bflix Movies (480p)
@@ -43,8 +37,6 @@ http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
 http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
 #EXTINF:-1,FX HD
 http://181.191.141.4:9981/stream/channelid/333875611?profile=pass
-#EXTINF:-1,FX Movies HD
-http://181.191.141
 #EXTINF:-1,26TV
 http://181.191.141.4:9981/stream/channelid/931767364?profile=pass
 #EXTINF:-1,A&E HD
