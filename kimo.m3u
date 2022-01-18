@@ -224,3 +224,19 @@ http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mo..
 #EXTINF:-1,BEIN SPORTS PREMIUM 1HD
 http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
+
+
+#EXTINF:-1,BEIN SPORTS 1
+http://41.224.0.27:8877/play/a04c
+#EXTINF:-1,BEIN SPORTS 2
+http://41.224.0.27:8877/play/a03x
+#EXTINF:-1,BEIN SPORTS 3
+http://41.224.0.27:8877/play/a03y
+#EXTINF:-1,BEIN SPORTS MAX 4
+http://41.224.0.27:8877/play/a03o
+#EXTINF:-1,BEIN SPORTS MAX 5
+http://41.224.0.27:8877/play/a03p
+#EXTINF:-1,BEIN SPORTS MAX 6
+http://41.224.0.27:8877/play/a03q
+#EXTINF:-1,BEIN SPORTS MAX 7
+http://41.224.0.27:8877/play/a08p
