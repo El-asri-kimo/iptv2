@@ -198,11 +198,29 @@ http://portal.zexo.site:8080/zero/zero/16
 http://95.141.128.163:8004/play/a0n8
 #EXTINF:0,Love Nature
 http://58.65.171.202:8000/play/1103/index.m3u8
-#EXTINF:-1,Love Nature HD
-http://185.157.161.141:22222/play/a03y
-#EXTINF:-1,test 4-LOVE NATURE
-http://178.68.208.141:82/play/a03d
-#EXTINF:-1,Love Nature HD
-http://94.236.145.205:8000/play/a02g
-#EXTINF:-1,Love Nature 4K UHD
-http://193.163.3.22:8000/play/5
+
+#EXTM3U
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mon..
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mon..
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mon..
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mon..
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mon..
+#EXTINF:-1,BEIN SPORTS 3 PREMIUM
+http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1,BEIN SPORTS 3 PREMIUM
+http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mo..
+#EXTINF:-1,BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
