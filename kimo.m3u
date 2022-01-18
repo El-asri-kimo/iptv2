@@ -1,80 +1,6 @@
 #EXTM3U
-#EXTINF:-1,AD 44
-http://5.39.189.40:8085/udp/229.0.0.1:1234
-#EXTM3U
-#EXTINF:-1,AD 65
-http://5.39.189.40:8085/udp/229.0.0.51:1234
-#EXTM3U
-#EXTINF:-1,AD Nat 
-http://5.39.189.40:8085/udp/229.0.0.52:1234
-#EXTM3U
-#EXTINF:-1,AD 4
-http://5.39.189.40:8085/udp/229.0.0.53:1234
-#EXTM3U
-#EXTINF:-1,AD 3
-http://5.39.189.40:8085/udp/229.0.0.54:1234
-#EXTM3U
-#EXTINF:-1,Moovimex (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-#EXTINF:-1,Bflix Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1,Galaxy Premium
-http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
-#EXTINF:-1,The Jungle Book (2016)
-http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
-
-#EXTINF:-1,Film & Arts HD
-http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
-#EXTINF:-1,FM 100
-http://181.191.141.4:9981/stream/channelid/1084839082?profile=pass
-#EXTINF:-1,Fox Sports 2 HD
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
-#EXTINF:-1,Fox Sports 3 HD
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
-#EXTINF:-1,Fox Sports HD
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-#EXTINF:-1,Fox Sports Premium HD
-http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
-#EXTINF:-1,FX HD
-http://181.191.141.4:9981/stream/channelid/333875611?profile=pass
-#EXTINF:-1,26TV
-http://181.191.141.4:9981/stream/channelid/931767364?profile=pass
-#EXTINF:-1,A&E HD
-http://181.191.141.4:9981/stream/channelid/1061633884?profile=pass
-#EXTINF:-1,A24
-http://181.191.141.4:9981/stream/channelid/1543881397?profile=pass
-#EXTINF:-1,AM Continental
-http://181.191.141.4:9981/stream/channelid/1461913031?profile=pass
-#EXTINF:-1,AM Sports
-http://181.191.141.4:9981/stream/channelid/359833065?profile=pass
-#EXTINF:-1,AMC
-http://181.191.141.4:9981/stream/channelid/169202585?profile=pass
-#EXTINF:-1,AXN HD
-http://181.191.141.4:9981/stream/channelid/1753402049?profile=pass
-#EXTINF:-1,Baby TV
-http://181.191.141.4:9981/stream/channelid/1555137065?profile=pass
-#EXTINF:-1,C5N
-http://181.191.141.4:9981/stream/channelid/734028913?profile=pass
-#EXTINF:-1,Cadena 3
-http://181.191.141.4:9981/stream/channelid/567830715?profile=pass
-#EXTINF:-1,Canal de la Ciudad
-http://181.191.141.4:9981/stream/channelid/1069805917?profile=pass
-#EXTINF:-1,Cartoon Network HD
-http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
-#EXTINF:-1,Cine.AR
-http://181.191.141.4:9981/stream/channelid/1491881413?profile=pass
-#EXTINF:-1,Cinecanal HD
-http://181.191.141.4:9981/stream/channelid/425316660?profile=pass
-#EXTINF:-1,Cinemax
-http://181.191.141.4:9981/stream/channelid/1606078654?profile=pass
-#EXTINF:-1,ciudad magazine
-http://181.191.141.4:9981/stream/channelid/1275327731?profile=pass
-#EXTINF:-1,CNN en Espaæol
-http://181.191.141.4:9981/stream/channelid/485766222?profile=pass
-#EXTINF:-1,Crðnica
-http://181.191.141.4:9981/stream/channelid/1547044203?profile=pass
-#EXTINF:-1,DeporTV
-http://181.191.141.4:9981/stream/channelid/959577406?profile=pass
+#EXTINF:-1,Discovery World HD
+http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
 #EXTINF:-1,Discovery Channel HD
 http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
 #EXTINF:-1,Discovery H&H HD
@@ -93,16 +19,24 @@ http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
 http://181.191.141.4:9981/stream/channelid/336517816?profile=pass
 #EXTINF:-1,Disney Junior
 http://181.191.141.4:9981/stream/channelid/921973190?profile=pass
+#EXTINF:-1,Cartoon Network HD
+http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
 #EXTINF:-1,Disney 
 http://181.191.141.4:9981/stream/channelid/1418456914?profile=pass
-#EXTINF:-1,E! Entertainment
-http://181.191.141.4:9981/stream/channelid/1175345814?profile=pass
-#EXTINF:-1,El Canal de las Estrellas
-http://181.191.141.4:9981/stream/channelid/1061169648?profile=pass
-#EXTINF:-1,El Gourmet
-http://181.191.141.4:9981/stream/channelid/328356436?profile=pass
-#EXTINF:-1,Encuentro
-http://181.191.141.4:9981/stream/channelid/1629308641?profile=pass
+#EXTINF:-1,Galaxy Premium
+http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
+http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
+#EXTINF:-1,Film & Arts HD
+http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
+#EXTINF:-1,Fox Sports 2 HD
+http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
+#EXTINF:-1,Fox Sports 3 HD
+http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
+#EXTINF:-1,Fox Sports HD
+http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
+#EXTINF:-1,Fox Sports Premium HD
+http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
+
 #EXTINF:-1,ESPN 2
 http://181.191.141.4:9981/stream/channelid/371483615?profile=pass
 #EXTINF:-1,ESPN 2 HD
@@ -113,26 +47,7 @@ http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
 http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
 #EXTINF:-1,ESPN HD
 http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
-#EXTINF:-1,Film & Arts HD
-http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
-#EXTINF:-1,FM 100
-http://181.191.141.4:9981/stream/channelid/1084839082?profile=pass
-#EXTINF:-1,Fox Sports 2 HD
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
-#EXTINF:-1,Fox Sports 3 HD
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
-#EXTINF:-1,Fox Sports HD
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-#EXTINF:-1,Fox Sports Premium HD
-http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
-#EXTINF:-1,FX HD
-http://181.191.141.4:9981/stream/channelid/333875611?profile=pass
-#EXTINF:-1,FX Movies HD
-http://181.191.141.4:9981/stream/channelid/1776419326?profile=pass
-#EXTINF:-1,Galicia TV
-http://181.191.141.4:9981/stream/channelid/1691238473?profile=pass
-#EXTINF:-1,Glitz
-http://181.191.141.4:9981/stream/channelid/2090285312?profile=pass
+
 #EXTINF:-1,HBO
 http://181.191.141.4:9981/stream/channelid/1891222005?profile=pass
 #EXTINF:-1,HBO 2
@@ -141,170 +56,86 @@ http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
 http://181.191.141.4:9981/stream/channelid/404483297?profile=pass
 #EXTINF:-1,HBO Plus
 http://181.191.141.4:9981/stream/channelid/340621241?profile=pass
-#EXTINF:-1,HGTV
-http://181.191.141.4:9981/stream/channelid/1074479430?profile=pass
-#EXTINF:-1,History 2
-http://181.191.141.4:9981/stream/channelid/886152250?profile=pass
-#EXTINF:-1,HTV
-http://181.191.141.4:9981/stream/channelid/401192013?profile=pass
-#EXTINF:-1,I-Sat
-http://181.191.141.4:9981/stream/channelid/986884731?profile=pass
-#EXTINF:-1,La Nacion TV
-http://181.191.141.4:9981/stream/channelid/243224648?profile=pass
-#EXTINF:-1,La Tele
-http://181.191.141.4:9981/stream/channelid/765269091?profile=pass
-#EXTINF:-1,Metro
-http://181.191.141.4:9981/stream/channelid/851458238?profile=pass
-#EXTINF:-1,Mitre AM790
-http://181.191.141.4:9981/stream/channelid/541102658?profile=pass
-#EXTINF:-1,MTV
-http://181.191.141.4:9981/stream/channelid/2469161?profile=pass
-#EXTINF:-1,Nacional
-http://181.191.141.4:9981/stream/channelid/1959797170?profile=pass
-#EXTINF:-1,Nat Geo HD
-http://181.191.141.4:9981/stream/channelid/1887575995?profile=pass
-#EXTINF:-1,Nat Geo Kids
-http://181.191.141.4:9981/stream/channelid/1069550335?profile=pass
-#EXTINF:-1,Natgeo Wild HD
-http://181.191.141.4:9981/stream/channelid/1820566379?profile=pass
+
+
 #EXTINF:-1,Nickelodeon
 http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
-#EXTINF:-1,Pakapaka
-http://181.191.141.4:9981/stream/channelid/2107207963?profile=pass
-#EXTINF:-1,Quiero Musica
-http://181.191.141.4:9981/stream/channelid/23253608?profile=pass
-#EXTINF:-1,RAI Italia
-http://181.191.141.4:9981/stream/channelid/1726107404?profile=pass
-#EXTINF:-1,Rural
-http://181.191.141.4:9981/stream/channelid/1473600554?profile=pass
-#EXTINF:-1,Saeta Canal 10
-http://181.191.141.4:9981/stream/channelid/103374338?profile=pass
-#EXTINF:-1,Somos Nacional
-http://181.191.141.4:9981/stream/channelid/97823377?profile=pass
+
 #EXTINF:-1,Sony HD
 http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
-#EXTINF:-1,Space HD
-http://181.191.141.4:9981/stream/channelid/1139727443?profile=pass
-#EXTINF:-1,Star Action HD
-http://181.191.141.4:9981/stream/channelid/1356858745?profile=pass
-#EXTINF:-1,Star Channel HD
-http://181.191.141.4:9981/stream/channelid/494575838?profile=pass
-#EXTINF:-1,Star Classics
-http://181.191.141.4:9981/stream/channelid/903186196?profile=pass
-#EXTINF:-1,Star Fun
-http://181.191.141.4:9981/stream/channelid/53117060?profile=pass
-#EXTINF:-1,Star Hits
-http://181.191.141.4:9981/stream/channelid/1806810998?profile=pass
-#EXTINF:-1,Star Life
-http://181.191.141.4:9981/stream/channelid/497096544?profile=pass
-#EXTINF:-1,Star Series
-http://181.191.141.4:9981/stream/channelid/2121475732?profile=pass
-#EXTINF:-1,Studio Universal
-http://181.191.141.4:9981/stream/channelid/750601861?profile=pass
-#EXTINF:-1,SyFy
-http://181.191.141.4:9981/stream/channelid/2119587575?profile=pass
-#EXTINF:-1,TBS HD
-http://181.191.141.4:9981/stream/channelid/230985306?profile=pass
-#EXTINF:-1,TCM
-http://181.191.141.4:9981/stream/channelid/1490081439?profile=pass
-#EXTINF:-1,The History Channel HD
-http://181.191.141.4:9981/stream/channelid/1075086592?profile=pass
-#EXTINF:-1,TN HD
-http://181.191.141.4:9981/stream/channelid/741145843?profile=pass
-#EXTINF:-1,TNT HD
-http://181.191.141.4:9981/stream/channelid/190293602?profile=pass
-#EXTINF:-1,TNT Series
-http://181.191.141.4:9981/stream/channelid/570384589?profile=pass
+
+
 #EXTINF:-1,TNT Sports HD
 http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
-#EXTINF:-1,TruTV HD
-http://181.191.141.4:9981/stream/channelid/369370178?profile=pass
-#EXTINF:-1,TVE
-http://181.191.141.4:9981/stream/channelid/419589038?profile=pass
+
 #EXTINF:-1,TyC Sports HD
 http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
 #EXTINF:-1,Universal HD
 http://181.191.141.4:9981/stream/channelid/1228704801?profile=pass
-#EXTINF:-1,Volver
-http://181.191.141.4:9981/stream/channelid/271365858?profile=pass
 #EXTINF:-1,Warner Channel HD
 http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
-#EXTINF:-1,America TV HD
-http://181.191.141.4:9981/stream/channelid/1225739939?profile=pass
-#EXTINF:-1,el nueve HD
-http://181.191.141.4:9981/stream/channelid/647912218?profile=pass
-#EXTINF:-1,el trece HD
-http://181.191.141.4:9981/stream/channelid/2033616169?profile=pass
-#EXTINF:-1,Telefe HD
-http://181.191.141.4:9981/stream/channelid/410397537?profile=pass
-#EXTINF:-1,TV Publica HD
-http://181.191.141.4:9981/stream/channelid/961486854?profile=pass
 
-
-
-#EXTINF:-1,138 HD
+#EXTINF:-1,Smile HD
 http://185.140.187.67:8085/udp/238.2.16.138:1234
-#EXTINF:-1,175 HD
+#EXTINF:-1,Animal Planet HD
 http://185.140.187.67:8085/udp/238.2.16.175:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.183:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,FOX life HD
 http://185.140.187.67:8085/udp/238.2.16.179:1234
-#EXTINF:-1,176 HD
+#EXTINF:-1,Hollywood HD
 http://185.140.187.67:8085/udp/238.2.16.176:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,1 HD
 http://185.140.187.67:8085/udp/238.2.16.141:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,HBO HD
 http://185.140.187.67:8085/udp/238.2.16.187:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,2 HD
 http://185.140.187.67:8085/udp/238.2.16.186:1234
 #EXTINF:-1,189 HD
 http://185.140.187.67:8085/udp/238.2.16.189:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,3 HD
 http://185.140.187.67:8085/udp/238.2.16.180:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,4 HD
 http://185.140.187.67:8085/udp/238.2.16.196:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,5 HD
 http://185.140.187.67:8085/udp/238.2.16.194:1234
 #EXTINF:-1,147 HD
 http://185.140.187.67:8085/udp/238.2.16.147:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,6 HD
 http://185.140.187.67:8085/udp/238.2.16.195:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,7 HD
 http://185.140.187.67:8085/udp/238.2.16.178:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,8 HD
 http://185.140.187.67:8085/udp/238.2.16.177:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,9 HD
 http://185.140.187.67:8085/udp/238.2.16.188:1234
 #EXTINF:-1,197 HD
 http://185.140.187.67:8085/udp/238.2.16.197:1234
 #EXTINF:-1,211 HD
 http://185.140.187.67:8085/udp/238.2.16.211:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,10 HD
 http://185.140.187.67:8085/udp/238.2.16.190:1234
 #EXTINF:-1,228 HD
 http://185.140.187.67:8085/udp/238.2.16.228:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,11 HD
 http://185.140.187.67:8085/udp/238.2.16.220:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,12 HD
 http://185.140.187.67:8085/udp/238.2.16.198:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,13 HD
 http://185.140.187.67:8085/udp/238.2.16.244:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,14 HD
 http://185.140.187.67:8085/udp/238.2.16.250:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,15 HD
 http://185.140.187.67:8085/udp/238.2.17.4:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,16 HD
 http://185.140.187.67:8085/udp/238.2.17.12:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,17 HD
 http://185.140.187.67:8085/udp/238.2.17.15:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,18 HD
 http://185.140.187.67:8085/udp/238.2.17.56:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,19 HD
 http://185.140.187.67:8085/udp/238.2.17.73:1234
 #EXTINF:-1,292 HD
 http://185.140.187.67:8085/udp/238.2.17.36:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,20 HD
 http://185.140.187.67:8085/udp/238.2.17.70:1234
 #EXTINF:-1,361 HD
 http://185.140.187.67:8085/udp/238.2.17.105:1234
@@ -312,23 +143,16 @@ http://185.140.187.67:8085/udp/238.2.17.105:1234
 http://185.140.187.67:8085/udp/238.2.17.112:1234
 #EXTINF:-1,367 HD
 http://185.140.187.67:8085/udp/238.2.17.111:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,21 HD
 http://185.140.187.67:8085/udp/238.2.17.108:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,22 HD
 http://185.140.187.67:8085/udp/238.2.17.116:1234
-#EXTINF:-1,New HD
+#EXTINF:-1,23 HD
 http://185.140.187.67:8085/udp/238.2.17.128:1234
 
 
-
-#EXTINF:-1,Amari
-http://185.193.240.245:8000/play/a01l/index.m3u8
-#EXTINF:-1,Amari TV
-http://185.193.240.245:8000/play/a01d/index.m3u8
 #EXTINF:-1,Animal Planet
 http://185.193.240.245:8000/play/a01n/index.m3u8
-#EXTINF:-1,B 92
-http://185.193.240.245:8000/play/a014/index.m3u8
 #EXTINF:-1,Cine Star Comedy
 http://185.193.240.245:8000/play/a01r/index.m3u8
 #EXTINF:-1,Cine Star Fantasy
@@ -337,44 +161,6 @@ http://185.193.240.245:8000/play/a01p/index.m3u8
 http://185.193.240.245:8000/play/a01q/index.m3u8
 #EXTINF:-1,Discovery
 http://185.193.240.245:8000/play/a01m/index.m3u8
-#EXTINF:-1,EG Melody
-http://185.193.240.245:8000/play/a01b/index.m3u8
-#EXTINF:-1,EXYU Melody
-http://185.193.240.245:8000/play/a019/index.m3u8
-#EXTINF:-1,Folk Melody
-http://185.193.240.245:8000/play/a018/index.m3u8
-#EXTINF:-1,Happy Reality 1
-http://185.193.240.245:8000/play/a016/index.m3u8
-#EXTINF:-1,Happy Reality 2
-http://185.193.240.245:8000/play/a017/index.m3u8
-#EXTINF:-1,Happy TV
-http://185.193.240.245:8000/play/a015/index.m3u8
-#EXTINF:-1,Hits Melody
-http://185.193.240.245:8000/play/a01c/index.m3u8
-#EXTINF:-1,Kopernikus 1
-http://185.193.240.245:8000/play/a00u/index.m3u8
-#EXTINF:-1,Kopernikus 2
-http://185.193.240.245:8000/play/a00v/index.m3u8
-#EXTINF:-1,Kopernikus 3
-http://185.193.240.245:8000/play/a00w/index.m3u8
-#EXTINF:-1,Pop Melody
-http://185.193.240.245:8000/play/a01a/index.m3u8
-#EXTINF:-1,Prva Files
-http://185.193.240.245:8000/play/a00y/index.m3u8
-#EXTINF:-1,Prva Kick
-http://185.193.240.245:8000/play/a011/index.m3u8
-#EXTINF:-1,Prva Life
-http://185.193.240.245:8000/play/a00z/index.m3u8
-#EXTINF:-1,Prva Max
-http://185.193.240.245:8000/play/a00x/index.m3u8
-#EXTINF:-1,Prva Plus HD
-http://185.193.240.245:8000/play/a013/index.m3u8
-#EXTINF:-1,Prva TV HD
-http://185.193.240.245:8000/play/a012/index.m3u8
-#EXTINF:-1,Prva World
-http://185.193.240.245:8000/play/a010/index.m3u8
-#EXTINF:-1,TLC
-http://185.193.240.245:8000/play/a01o/index.m3u8
 
 ####            BEIN SPORTS TURQUIE      ####
 
@@ -407,184 +193,5 @@ http://portal.zexo.site:8080/zero/zero/14
 http://portal.zexo.site:8080/zero/zero/15
 #EXTINF:-1,TR: beIN SPORTS 51 HD
 http://portal.zexo.site:8080/zero/zero/16
-
-#EXTM3U
-#EXTINF:-1 tvg-id="54bed0b8b2fc64ccb0953a1602a22683",BBC ONE N West
-http://86.154.143.204:9981/stream/channelid/953204308?ticket=744F3EC2A6ECC45E1B4C68A5E90E92970CBC8BCA&profile=pass
-#EXTINF:-1 tvg-id="38011a140df1e37526757223d3db178a",BBC TWO
-http://86.154.143.204:9981/stream/channelid/337248568?ticket=03A241B71284059DA10699209E064AE9A609870A&profile=pass
-#EXTINF:-1 tvg-id="411b94b1d998fa8776c7c122245bb3bf",ITV
-http://86.154.143.204:9981/stream/channelid/831789889?ticket=0B3E6158456416AF1609379C4E33A3BDDD694DB5&profile=pass
-#EXTINF:-1 tvg-id="5213a8e25891f126f119fa10ac989f2e",Channel 4
-http://86.154.143.204:9981/stream/channelid/1655182162?ticket=7492175DF1A47A87B581F5A99CEF82F4878C22A0&profile=pass
-#EXTINF:-1 tvg-id="62c2573936264a1aa0bccb9116caff80",Channel 5
-http://86.154.143.204:9981/stream/channelid/962052706?ticket=CE9712D19D1B1F731637FE91D547A1DFA70CACDE&profile=pass
-#EXTINF:-1 tvg-id="6a1412891642986890bc27727ee7ea7e",ITV2
-http://86.154.143.204:9981/stream/channelid/152179818?ticket=E14DF39179F2942BAA8681209AE8E3882F0612B8&profile=pass
-#EXTINF:-1 tvg-id="cdba2ccaf92110b3f17c3ff3bd13b060",BBC FOUR
-http://86.154.143.204:9981/stream/channelid/1244445389?ticket=C1D85F089E55FA4E8D53FC7612C93C828CD60359&profile=pass
-#EXTINF:-1 tvg-id="ff4a5b6d86b97ed534a468a01ca33f3c",ITV3
-http://86.154.143.204:9981/stream/channelid/1834699519?ticket=149738315ADB73881A5C326320C0240BDC045133&profile=pass
-#EXTINF:-1 tvg-id="49af7b71bc9601722ca2d63787763f2f",Sky Arts
-http://86.154.143.204:9981/stream/channelid/1903931209?ticket=67F36E31C12DCEC44D0020129822ED668358AAA1&profile=pass
-#EXTINF:-1 tvg-id="232404759c701a15b1b79bb9f3111023",QUEST
-http://86.154.143.204:9981/stream/channelid/1963205667?ticket=8C0163582AF8F788D0BAD532F40B0985B52B0B58&profile=pass
-#EXTINF:-1 tvg-id="67a8313db5c816ceed5b4219925e2dae",E4
-http://86.154.143.204:9981/stream/channelid/1026664551?ticket=BAB8559539C4957141AE9893CE0E9132FD1AB163&profile=pass
-#EXTINF:-1 tvg-id="fd6363b154cda413fbf61c27ff23fae0",Film4
-http://86.154.143.204:9981/stream/channelid/828597245?ticket=409DCC906B682E0C4DFBA70E56DB0803BF77C2BA&profile=pass
-#EXTINF:-1 tvg-id="7dad5e337f6a405c1b44fa8fb4dc8ddc",Channel 4+1
-http://86.154.143.204:9981/stream/channelid/861842813?ticket=F432B0DEA2555F9D747E8CCF588170262060E07E&profile=pass
-#EXTINF:-1 tvg-id="9cb46084e1a4fbdacb05b53337b38092",Really
-http://86.154.143.204:9981/stream/channelid/73446556?ticket=9E7CA4FA97F425CCA98C3B41E537009059955EE1&profile=pass
-#EXTINF:-1 tvg-id="7d1bfa8fbac1d3dc4f4be6d392c418ee",More 4
-http://86.154.143.204:9981/stream/channelid/268049277?ticket=5F156A7B2150FD0733A5E529014862A6037A5C9E&profile=pass
-#EXTINF:-1 tvg-id="1a3fd47165e2aa5350f29277cdb47231",Dave
-http://86.154.143.204:9981/stream/channelid/1909735194?ticket=C298355B4BB4706D9A1F9E4D99876C8A006C5072&profile=pass
-#EXTINF:-1 tvg-id="ff7bbb7628e4b92dc8e4b711c64d0db8",Drama
-http://86.154.143.204:9981/stream/channelid/1991998463?ticket=5B38B9BD3FE97DAEE4EC9DA378F14BD0545C6FE1&profile=pass
-#EXTINF:-1 tvg-id="fd714fd843c08322c06e4c11bb142920",5 USA
-http://86.154.143.204:9981/stream/channelid/1481601533?ticket=9B07E2717F54C7AB3DBADF70DB0E23783D5D4149&profile=pass
-#EXTINF:-1 tvg-id="5440c7ac28d390c74c4c0e7db8a64dbe",Dave ja vu
-http://86.154.143.204:9981/stream/channelid/751255636?ticket=C7592378522E8AF5A3DC806EB3262904CBECF3B1&profile=pass
-#EXTINF:-1 tvg-id="00d3e6f037f52f5800f41f0b3eb2b95a",ITV4
-http://86.154.143.204:9981/stream/channelid/1894175488?ticket=3FAC44086CA880F6741E8A2DD58A561B64C16037&profile=pass
-#EXTINF:-1 tvg-id="e2e757198991dd670a70626aca003048",Yesterday
-http://86.154.143.204:9981/stream/channelid/425191394?ticket=7F66E046E961B3BD136C3C33F714E8FA5BD2BBAD&profile=pass
-#EXTINF:-1 tvg-id="7d172250378f6847e04756b35a80bcb2",ITVBe
-http://86.154.143.204:9981/stream/channelid/1344411517?ticket=295F30E46F6740F2D3884EEE8D7861FA100F1952&profile=pass
-#EXTINF:-1 tvg-id="99913aad5ac291a4ea7b01bf8600bc1d",ITV2 +1
-http://86.154.143.204:9981/stream/channelid/758813081?ticket=4FCE7190CB5750FD1C8B01020272D05497F32740&profile=pass
-#EXTINF:-1 tvg-id="56ef7787d3a85d57b9c877374c50e9d9",E4+1
-http://86.154.143.204:9981/stream/channelid/125300566?ticket=CA8C2824CC523FC5EA85443D87C83DE81825FE10&profile=pass
-#EXTINF:-1 tvg-id="27cbe381ce6a740c2443b3bb5df6a205",4Music
-http://86.154.143.204:9981/stream/channelid/31705895?ticket=7B5A9300E39E635C903D787649EF20F468D7E0AD&profile=pass
-#EXTINF:-1 tvg-id="2d312cf13d46f9b706d1fff271905f9a",5STAR
-http://86.154.143.204:9981/stream/channelid/1898721581?ticket=DD6EB4C607F644A3ACE50D8CA1C3BC2D1E6EC3CA&profile=pass
-#EXTINF:-1 tvg-id="72b0954ec07982a18bdba8bf3c129140",Paramount Network
-http://86.154.143.204:9981/stream/channelid/1318432882?ticket=0A46162C77263E57B19A65D5E384F4511D63AB65&profile=pass
-#EXTINF:-1 tvg-id="5c654ce93329713401a186e66ba3c68a",GREAT! movies
-http://86.154.143.204:9981/stream/channelid/1766614364?ticket=BD72C1F68F40E2D408677A41B3E6B7802F293AF9&profile=pass
-#EXTINF:-1 tvg-id="25a97f909f68237e7fc607c2efe41efb",ITV +1
-http://86.154.143.204:9981/stream/channelid/276801829?ticket=A262738FBBB5ACF59F984379DDAA8DA9159573BA&profile=pass
-#EXTINF:-1 tvg-id="e21b524f86c68195d3b1fc35f342da34",Pick
-http://86.154.143.204:9981/stream/channelid/1330781154?ticket=AD907F8EBC7932F595376B92E34175B27CF29E03&profile=pass
-#EXTINF:-1 tvg-id="a7e7705ed3ac5a85d4b8a3a559558087",DMAX
-http://86.154.143.204:9981/stream/channelid/1584457639?ticket=A4233F2D638C6F7D27F40C47580C279DC42B5F22&profile=pass
-#EXTINF:-1 tvg-id="ca468eb2217d8385dfca9023ea2101f7",Quest Red
-http://86.154.143.204:9981/stream/channelid/848185034?ticket=5A9C1ADC0408ED38D86DD14ABD1B42644A43D01A&profile=pass
-#EXTINF:-1 tvg-id="8ea8e822ba1cee5d8e729ad6cc83cb97",CBS Justice
-http://86.154.143.204:9981/stream/channelid/585672846?ticket=9B4F37C0E19DEECE3B1D83105ACF7B417AF0A009&profile=pass
-#EXTINF:-1 tvg-id="3390ed9b9504ca32cdcf8340e5924551",GREAT! movies action
-http://86.154.143.204:9981/stream/channelid/468553779?ticket=46ED82A5C5481339B83D130FEACD29F79D98C7C3&profile=pass
-#EXTINF:-1 tvg-id="0ccec9a13cef8ea285c601038ae244a5",Channel 5+1
-http://86.154.143.204:9981/stream/channelid/566873612?ticket=D229A775A6EDD1D83E19B3527FE86772DA31EAD3&profile=pass
-#EXTINF:-1 tvg-id="f295157a776967b60020ad3e3dbc8535",Film4+1
-http://86.154.143.204:9981/stream/channelid/2048234994?ticket=180C3E32E4B3BF189D6880E03981D23D68CCF335&profile=pass
-#EXTINF:-1 tvg-id="cb025bf026a137ce2c4b2f3cb829ccdc",4seven
-http://86.154.143.204:9981/stream/channelid/1885012683?ticket=08CA1340710153499E0E3807976C766116CA094E&profile=pass
-#EXTINF:-1 tvg-id="4525d297bf6674c17fce90b5eadd1a5a",Smithsonian Channel
-http://86.154.143.204:9981/stream/channelid/399648069?ticket=2206B59BFB53B3EDF57510C628BD97ADA0B24094&profile=pass
-#EXTINF:-1 tvg-id="822cf7752da69136d03f067a2db0c865",ITV3+1
-http://86.154.143.204:9981/stream/channelid/1979133058?ticket=6BE0A06A3E093CC1E4850BD72D35717E9D7B39D6&profile=pass
-#EXTINF:-1 tvg-id="441798c5ec281a332f12e63234cbaf58",FreeSports
-http://86.154.143.204:9981/stream/channelid/1167595332?ticket=5D1E4D7A4C864CF1C095EFE7171B1B9090595DDF&profile=pass
-#EXTINF:-1 tvg-id="a315f9dc6902350d2a12b35d55b2bf30",CBS Reality
-http://86.154.143.204:9981/stream/channelid/1559827875?ticket=E8F1D7E45484F5D8588E58CC4C0F2599B6F6072D&profile=pass
-#EXTINF:-1 tvg-id="2d2a52afdde30a8500bb48827d609f67",CBS Drama
-http://86.154.143.204:9981/stream/channelid/793913901?ticket=EC7F44E53842E7266117F4EC64E86A913807E675&profile=pass
-#EXTINF:-1 tvg-id="c7ced47368dfadc80bec79e49fb3ce8c",Horror Channel
-http://86.154.143.204:9981/stream/channelid/1943326407?ticket=7B13B808E5DE5D25FC85BD132A6E4FA816E4B3A6&profile=pass
-#EXTINF:-1 tvg-id="626875e22d30645e219cb2d9b2adc4d3",QUEST+1
-http://86.154.143.204:9981/stream/channelid/1651861602?ticket=E8FDCEE055B174656D7F071EF91D0943D679A0C7&profile=pass
-#EXTINF:-1 tvg-id="6260f8678f1649d7a4e589b7978e40d7",Quest Red+1
-http://86.154.143.204:9981/stream/channelid/1744330850?ticket=21D0BBA8FFCEB1F4C346B8309F3224AE9F9059D6&profile=pass
-#EXTINF:-1 tvg-id="e11e17840e0826fbf5307a173160e7f0",Shopping Quarter
-http://86.154.143.204:9981/stream/channelid/68624097?ticket=DE4D68EBA5E730CFEF52DDD5E2A524AF72FFB3E0&profile=pass
-#EXTINF:-1 tvg-id="a7871d6a4582bca7451be3ff8d42295f",NOW 80s
-http://86.154.143.204:9981/stream/channelid/1780320167?ticket=11493977FED117B9E58C6E097AC61E503F0BD801&profile=pass
-#EXTINF:-1 tvg-id="41c82ae6a63d603fbc45d4400cd6329e",TalkingPictures TV
-http://86.154.143.204:9981/stream/channelid/1714079809?ticket=B19791FD98A20830C796A673F98C821CF2145403&profile=pass
-#EXTINF:-1 tvg-id="882c6933aafa8797f2ded279f99953f8",Together TV
-http://86.154.143.204:9981/stream/channelid/862530696?ticket=F71FA346F136E5F0EBBC145AD499CAA8824C573F&profile=pass
-#EXTINF:-1 tvg-id="33cce875eb359644005f89cb21d67992",Together TV+1
-http://86.154.143.204:9981/stream/channelid/1978190899?ticket=0D0D2EEB2C94F5BD994A6AAA98A20EF37A06C7BF&profile=pass
-#EXTINF:-1 tvg-id="2b35530f4996d9946d2923a07a769543",PBS America
-http://86.154.143.204:9981/stream/channelid/257111339?ticket=E55B174B0B4F631B6E8A4A145E50C7823676BEBB&profile=pass
-#EXTINF:-1 tvg-id="e1bcc56ab14f5d5f233ee4c8e5af57b5",More4+1
-http://86.154.143.204:9981/stream/channelid/1791343841?ticket=D337583BD31684ECF6CFD6313E4E9A3927E332A9&profile=pass
-#EXTINF:-1 tvg-id="7f4f02fbeab375c360179f213a901745",PBS America +1
-http://86.154.143.204:9981/stream/channelid/2063748991?ticket=5C1424B48850F56C19E6AEC71B16B626F2CB5B98&profile=pass
-#EXTINF:-1 tvg-id="bcd64dd052d12ba9021e9e1e2871d817",Forces TV
-http://86.154.143.204:9981/stream/channelid/1347278524?ticket=7BA054EF12ABA81344EC6166D2E9BA000015045B&profile=pass
-#EXTINF:-1 tvg-id="34426511cf49bf32db7336ea215e44f7",BBC ONE HD
-http://86.154.143.204:9981/stream/channelid/291848756?ticket=E4FE5083CDDD0E833C87655450477342E84A11BF&profile=pass
-#EXTINF:-1 tvg-id="fbdaf2e3e55e41b0070401cfe8bd4dd3",BBC ONE HD
-http://86.154.143.204:9981/stream/channelid/1676860155?ticket=CB2C5C1D8BBF18CFC675830CFCA3B2844D44E7DB&profile=pass
-#EXTINF:-1 tvg-id="537334b33fec53ca56b595feead394b8",BBC TWO HD
-http://86.154.143.204:9981/stream/channelid/859075411?ticket=B7AF2361F92CDA70CEFAA0AF71B53D1CD0C15D92&profile=pass
-#EXTINF:-1 tvg-id="3e8a2b7c85acb1ca0092e28cc58ff2d9",ITV HD
-http://86.154.143.204:9981/stream/channelid/2083228222?ticket=85F28714D4A1226ABB8466705126F044EF8A9E37&profile=pass
-#EXTINF:-1 tvg-id="9093c4cb41b0ba019109a94542bb7577",Channel 4 HD
-http://86.154.143.204:9981/stream/channelid/1271174032?ticket=4AB84B3ECC82529810F4C078709DEABDB350A83C&profile=pass
-#EXTINF:-1 tvg-id="825642e26bcb8b7eedb44b607187e7dc",Channel 5 HD
-http://86.154.143.204:9981/stream/channelid/1648514690?ticket=0EEC4EC5A7ACDE6ED0BA28DD94F9414DDF43D9FC&profile=pass
-#EXTINF:-1 tvg-id="ae4bf126e1faf05c490d43dfdd1cb6aa",BBC FOUR HD
-http://86.154.143.204:9981/stream/channelid/653347758?ticket=CA4999AAD720E13307521EA48098F6138080ABDD&profile=pass
-#EXTINF:-1 tvg-id="44cd23e45f425a42889cb69a3b523374",BBC NEWS HD
-http://86.154.143.204:9981/stream/channelid/1680067908?ticket=859598ED4302FF24BCBD2C6D5D34B0DA399E65FA&profile=pass
-#EXTINF:-1 tvg-id="02054c3c2629df9061956dd4ea87274e",RT HD
-http://86.154.143.204:9981/stream/channelid/1011614978?ticket=FF016ADADF5D6662D16B8ED5F83DD5A58E004D57&profile=pass
-#EXTINF:-1 tvg-id="81eaeca0718d13db4efa00a1cd271105",QUEST HD
-http://86.154.143.204:9981/stream/channelid/552397441?ticket=7161CB2B279D684D3A1DA96BD1AAE5C4C9478657&profile=pass
-#EXTINF:-1 tvg-id="d7b05d5628de71e68424049fb48d1b7c",POP
-http://86.154.143.204:9981/stream/channelid/1448980695?ticket=CC1E1881E2967FF82E95887C77A58F819E8A3F47&profile=pass
-#EXTINF:-1 tvg-id="46a0926e87cec4f2d65fb39fff315ed6",BBC NEWS
-http://86.154.143.204:9981/stream/channelid/1855103046?ticket=6E1CA2FB1BA631965803274C9DB7EA9279996F93&profile=pass
-#EXTINF:-1 tvg-id="ea0a111904e2fb06e16f695d34d691a1",BBC Parliament
-http://86.154.143.204:9981/stream/channelid/420547306?ticket=BE47FF08FFD718E3EA42EAF778BC3743B7E311B5&profile=pass
-#EXTINF:-1 tvg-id="7855a9126d8a46cb1e7e2cb760d86bdd",Sky News
-http://86.154.143.204:9981/stream/channelid/313087352?ticket=83F2C355C2491ED19C7F528D3B44E2459DEE1B73&profile=pass
-#EXTINF:-1 tvg-id="21ab262e64454a67f1f8b5102a24f7f9",GB News
-http://86.154.143.204:9981/stream/channelid/774286113?ticket=E7A9AAC833CCAB79CEF14659D14F4968D517D2E2&profile=pass
-#EXTINF:-1 tvg-id="23a544503b03ee2fc2f2fc05dc666293",BBC Red Button
-http://86.154.143.204:9981/stream/channelid/1346676003?ticket=528853F9DCD50C1E7B5EDD20B585133195C0E6E6&profile=pass
-#EXTINF:-1 tvg-id="844db8a41bb9bf0817036a193c4053fa",BBC RB 1
-http://86.154.143.204:9981/stream/channelid/616058244?ticket=9A76021A3764C2B1387AAA0E7B3ED475BB71200E&profile=pass
-#EXTINF:-1 tvg-id="9957000fc6e76ac9793675dd4d785a2d",698
-http://86.154.143.204:9981/stream/channelid/251680665?ticket=E405B00A135A02B1F66503219CDF9204FD37C7D1&profile=pass
-#EXTINF:-1 tvg-id="5e5926d4ff3738966e9de7af79df4365",BBC Radio 1
-http://86.154.143.204:9981/stream/channelid/1411799390?ticket=BEF69539D9641907C2D9CCD29D8EA79E8889635E&profile=pass
-#EXTINF:-1 tvg-id="d0d84f7ee2fb6de43411318dfd504af0",BBC R1X
-http://86.154.143.204:9981/stream/channelid/2119162064?ticket=A8981E1F5F181C9E2FA8BF283A3ADA3BA535FADE&profile=pass
-#EXTINF:-1 tvg-id="57e0ae66ac3435cb7a4e23b9872682c7",BBC Radio 2
-http://86.154.143.204:9981/stream/channelid/1722736727?ticket=032E6785E46BD65B0711B65BB4C7136B8FFABCC5&profile=pass
-#EXTINF:-1 tvg-id="4def108b2b1d9d2d2bfdfcac8c1c9cd0",BBC Radio 3
-http://86.154.143.204:9981/stream/channelid/185659213?ticket=CAA884ECAD8E2AFCDD9EE9D1F635FCBC6B86A370&profile=pass
-#EXTINF:-1 tvg-id="05122f103a34c1512041c21c55df9372",BBC Radio 4
-http://86.154.143.204:9981/stream/channelid/271520261?ticket=7EF5F2C1FA20DBFE465C4DF34071A871758BAEF0&profile=pass
-#EXTINF:-1 tvg-id="670713a92182fce60b714605c467f03a",BBC R5L
-http://86.154.143.204:9981/stream/channelid/689112935?ticket=01C32F10E0184FB1A8D51A333D4012CE220B1468&profile=pass
-#EXTINF:-1 tvg-id="46c9c6b4afd28b12f41e76ae6560ac71",BBC R5SX
-http://86.154.143.204:9981/stream/channelid/885442886?ticket=EB59A49D2F04064576FECFDEB2E80411DE5B02BD&profile=pass
-#EXTINF:-1 tvg-id="3c114ec99969da278da02ebfd5fadff4",BBC R5SX
-http://86.154.143.204:9981/stream/channelid/1229852988?ticket=04C52040D1FEBE7206F9F71F0F73382B99AFCB29&profile=pass
-#EXTINF:-1 tvg-id="4b3e9ced393d134a038bab81f12e28df",BBC 6 Music
-http://86.154.143.204:9981/stream/channelid/1838956107?ticket=B1C2153B14B7EE57576796EF4616B8E17EDC4464&profile=pass
-#EXTINF:-1 tvg-id="6a943e365eb9d5406a73fe7b657262a8",BBC Radio 4 Ex
-http://86.154.143.204:9981/stream/channelid/910070890?ticket=A1B697123BAD3309449466892DC44043247750DC&profile=pass
-#EXTINF:-1 tvg-id="6a68c96fbaa43b7719a1926e230d2dfa",BBC Radio 4 Ex
-http://86.154.143.204:9981/stream/channelid/1875470442?ticket=437E857338F5CF919AA7C189B7F3C19299229E83&profile=pass
-#EXTINF:-1 tvg-id="7b325cf665200cb525b0854cc40af1ca",BBC World Sv.
-http://86.154.143.204:9981/stream/channelid/1985753723?ticket=8665F1B3D3D797A75A059C02A40C0AE69EBD7A12&profile=pass
-#EXTINF:-1 tvg-id="3ec27757a11e19844e548ca9f39c0ad4",Hits Radio
-http://86.154.143.204:9981/stream/channelid/1467466302?ticket=30A05853BECB60F3D38D01DF8DF7F209BD4E6FBA&profile=pass
-#EXTINF:-1 tvg-id="85eab439274ccd6948e0bcc93821c7d7",KISS FRESH
-http://86.154.143.204:9981/stream/channelid/968157829?ticket=EBCA3F0BEA065D87F71D9B0D39ABC94AFC8191E8&profile=pass
-#EXTINF:-1 tvg-id="dbe0bb6b5a7d0a92f3cf09bbbd489e65",KISS
-http://86.154.143.204:9981/stream/channelid/1807474907?ticket=CA93166649795597E3C9D1209CEEDEC90C2C9AAF&profile=pass
-#EXTINF:-1 tvg-id="a82470bd04ca6a85b7cace242ef70424",KISSTORY
-http://86.154.143.204:9981/stream/channelid/1030759592?ticket=878C69883036EDED3179DB941BCA4CC948E109BD&profile=pass
-
 #EXTINF:-1,36T_34003_ Love Nature 4K
 http://95.141.128.163:8004/play/a0n8
