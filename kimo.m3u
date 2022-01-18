@@ -328,9 +328,71 @@ http://185.140.187.67:8085/udp/238.2.17.116:1234
 http://185.140.187.67:8085/udp/238.2.17.128:1234
 
 
-#EXTINF:-1,Sport Klub 4
-http://185.244.240.33:8000/play/a011
-#EXTINF:-1,Sport Klub 5
-http://185.244.240.33:8000/play/a02g
-#EXTINF:-1,Sport Klub HD TK
-http://185.244.240.33:8000/play/a01k
+#EXTINF:-1,Adultchannel 1
+http://185.193.240.245:8000/play/a01e/index.m3u8
+#EXTINF:-1,Adultchannel 2
+http://185.193.240.245:8000/play/a01f/index.m3u8
+#EXTINF:-1,Adultchannel 3
+http://185.193.240.245:8000/play/a01g/index.m3u8
+#EXTINF:-1,Adultchannel 4
+http://185.193.240.245:8000/play/a01h/index.m3u8
+#EXTINF:-1,Adultchannel 5
+http://185.193.240.245:8000/play/a01i/index.m3u8
+#EXTINF:-1,Adultchannel 6
+http://185.193.240.245:8000/play/a01j/index.m3u8
+#EXTINF:-1,Adultchannel 7
+http://185.193.240.245:8000/play/a01k/index.m3u8
+#EXTINF:-1,Amari
+http://185.193.240.245:8000/play/a01l/index.m3u8
+#EXTINF:-1,Amari TV
+http://185.193.240.245:8000/play/a01d/index.m3u8
+#EXTINF:-1,Animal Planet
+http://185.193.240.245:8000/play/a01n/index.m3u8
+#EXTINF:-1,B 92
+http://185.193.240.245:8000/play/a014/index.m3u8
+#EXTINF:-1,Cine Star Comedy
+http://185.193.240.245:8000/play/a01r/index.m3u8
+#EXTINF:-1,Cine Star Fantasy
+http://185.193.240.245:8000/play/a01p/index.m3u8
+#EXTINF:-1,Cinemania
+http://185.193.240.245:8000/play/a01q/index.m3u8
+#EXTINF:-1,Discovery
+http://185.193.240.245:8000/play/a01m/index.m3u8
+#EXTINF:-1,EG Melody
+http://185.193.240.245:8000/play/a01b/index.m3u8
+#EXTINF:-1,EXYU Melody
+http://185.193.240.245:8000/play/a019/index.m3u8
+#EXTINF:-1,Folk Melody
+http://185.193.240.245:8000/play/a018/index.m3u8
+#EXTINF:-1,Happy Reality 1
+http://185.193.240.245:8000/play/a016/index.m3u8
+#EXTINF:-1,Happy Reality 2
+http://185.193.240.245:8000/play/a017/index.m3u8
+#EXTINF:-1,Happy TV
+http://185.193.240.245:8000/play/a015/index.m3u8
+#EXTINF:-1,Hits Melody
+http://185.193.240.245:8000/play/a01c/index.m3u8
+#EXTINF:-1,Kopernikus 1
+http://185.193.240.245:8000/play/a00u/index.m3u8
+#EXTINF:-1,Kopernikus 2
+http://185.193.240.245:8000/play/a00v/index.m3u8
+#EXTINF:-1,Kopernikus 3
+http://185.193.240.245:8000/play/a00w/index.m3u8
+#EXTINF:-1,Pop Melody
+http://185.193.240.245:8000/play/a01a/index.m3u8
+#EXTINF:-1,Prva Files
+http://185.193.240.245:8000/play/a00y/index.m3u8
+#EXTINF:-1,Prva Kick
+http://185.193.240.245:8000/play/a011/index.m3u8
+#EXTINF:-1,Prva Life
+http://185.193.240.245:8000/play/a00z/index.m3u8
+#EXTINF:-1,Prva Max
+http://185.193.240.245:8000/play/a00x/index.m3u8
+#EXTINF:-1,Prva Plus HD
+http://185.193.240.245:8000/play/a013/index.m3u8
+#EXTINF:-1,Prva TV HD
+http://185.193.240.245:8000/play/a012/index.m3u8
+#EXTINF:-1,Prva World
+http://185.193.240.245:8000/play/a010/index.m3u8
+#EXTINF:-1,TLC
+http://185.193.240.245:8000/play/a01o/index.m3u8
