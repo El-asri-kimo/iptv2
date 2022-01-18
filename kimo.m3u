@@ -9,3 +9,20 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
 #EXTINF:-1,The Jungle Book (2016)
 http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
+
+#EXTINF:-1,Film & Arts HD
+http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
+#EXTINF:-1,FM 100
+http://181.191.141.4:9981/stream/channelid/1084839082?profile=pass
+#EXTINF:-1,Fox Sports 2 HD
+http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
+#EXTINF:-1,Fox Sports 3 HD
+http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
+#EXTINF:-1,Fox Sports HD
+http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
+#EXTINF:-1,Fox Sports Premium HD
+http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
+#EXTINF:-1,FX HD
+http://181.191.141.4:9981/stream/channelid/333875611?profile=pass
+#EXTINF:-1,FX Movies HD
+http://181.191.141.4:9981/stream/channelid/1776419326?profile=pass
