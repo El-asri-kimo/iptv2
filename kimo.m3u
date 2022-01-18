@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Al Jazeera Documentary
+http://185.236.229.50:8000/play/a043
 #EXTINF:-1,Al Jazeera Documentary HD
 http://197.13.13.82:8000/play/a0r2/index.m3u8
 #EXTINF:-1 group-title="-",SSC1
