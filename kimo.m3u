@@ -326,3 +326,11 @@ http://185.140.187.67:8085/udp/238.2.17.108:1234
 http://185.140.187.67:8085/udp/238.2.17.116:1234
 #EXTINF:-1,New HD
 http://185.140.187.67:8085/udp/238.2.17.128:1234
+
+
+#EXTINF:-1,Sport Klub 4
+http://185.244.240.33:8000/play/a011
+#EXTINF:-1,Sport Klub 5
+http://185.244.240.33:8000/play/a02g
+#EXTINF:-1,Sport Klub HD TK
+http://185.244.240.33:8000/play/a01k
