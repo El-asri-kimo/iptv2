@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",SSC1
+http://197.13.13.82:8000/play/a17c/index.m3u8
+#EXTINF:-1 group-title="-",SSC1 HD
+http://197.13.13.82:8000/play/a17d/index.m3u8
+#EXTINF:-1 group-title="-",SSC2 HD
+http://197.13.13.82:8000/play/a17e/index.m3u8
+#EXTINF:-1 group-title="-",SSC3 HD
+http://197.13.13.82:8000/play/a17f/index.m3u8
+#EXTINF:-1 group-title="-",SSC4 HD
+http://197.13.13.82:8000/play/a17g/index.m3u8
+#EXTINF:-1 group-title="-",SSC5
+http://197.13.13.82:8000/play/a17h/index.m3u8
+#EXTINF:-1 group-title="-",SSC5 HD
+http://197.13.13.82:8000/play/a17i/index.m3u8
+#EXTINF:-1 group-title="-",SSC6
+http://197.13.13.82:8000/play/a17j/index.m3u8
+#EXTINF:-1 group-title="-",SSC6 HD
+http://197.13.13.82:8000/play/a17k/index.m3u8
+#EXTINF:-1 group-title="-",SSC7
+http://197.13.13.82:8000/play/a17l/index.m3u8
+#EXTINF:-1 group-title="-",SSC7 HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-furqon-tv-id.png", group-title="TV Islam", AL FURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-1,LOVE NATURE HD
