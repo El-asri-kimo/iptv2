@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Al Jazeera Documentary HD
+http://197.13.13.82:8000/play/a0r2/index.m3u8
 #EXTINF:-1 group-title="-",SSC1
 http://197.13.13.82:8000/play/a17c/index.m3u8
 #EXTINF:-1 group-title="-",SSC1 HD
@@ -19,7 +21,7 @@ http://197.13.13.82:8000/play/a17j/index.m3u8
 http://197.13.13.82:8000/play/a17k/index.m3u8
 #EXTINF:-1 group-title="-",SSC7
 http://197.13.13.82:8000/play/a17l/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-furqon-tv-id.png", group-title="TV Islam", AL FURQON TV
+#EXTINF:-1, AL FURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-1,LOVE NATURE HD
 http://s1.electru.biz:8080/live/roadway1/roadway1/21505.m3u8
