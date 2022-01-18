@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Love Nature
+http://58.65.171.202:8000/play/1103/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
 #EXTINF:-1,Discovery Channel HD
@@ -28,6 +30,9 @@ http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
 http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
 #EXTINF:-1,Film & Arts HD
 http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
+ 
+********************* SPORT *************************
+
 #EXTINF:-1,Fox Sports 2 HD
 http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
 #EXTINF:-1,Fox Sports 3 HD
@@ -36,7 +41,6 @@ http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
 http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
 #EXTINF:-1,Fox Sports Premium HD
 http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
-
 #EXTINF:-1,ESPN 2
 http://181.191.141.4:9981/stream/channelid/371483615?profile=pass
 #EXTINF:-1,ESPN 2 HD
@@ -47,6 +51,24 @@ http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
 http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
 #EXTINF:-1,ESPN HD
 http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
+#EXTINF:-1,TNT Sports HD
+http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
+#EXTINF:-1,TyC Sports HD
+http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
+#EXTINF:-1,VIASAT SPORT HD
+http://185.140.187.67:8085/udp/238.2.16.198:1234
+#EXTINF:-1,Sport Uk HD
+http://185.140.187.67:8085/udp/238.2.16.250:1234
+#EXTINF:-1,Sport 1 HD
+http://185.140.187.67:8085/udp/238.2.17.4:1234
+#EXTINF:-1,Sports 2 HD
+http://185.140.187.67:8085/udp/238.2.17.15:1234
+#EXTINF:-1,Sports 3 HD
+http://185.140.187.67:8085/udp/238.2.17.73:1234
+#EXTINF:-1,Sport HD
+http://185.140.187.67:8085/udp/238.2.17.12:1234
+
+******************** ALL **********************
 
 #EXTINF:-1,HBO
 http://181.191.141.4:9981/stream/channelid/1891222005?profile=pass
@@ -56,25 +78,14 @@ http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
 http://181.191.141.4:9981/stream/channelid/404483297?profile=pass
 #EXTINF:-1,HBO Plus
 http://181.191.141.4:9981/stream/channelid/340621241?profile=pass
-
-
+#EXTINF:-1,Sony HD 
+http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
 #EXTINF:-1,Nickelodeon
 http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
-
-#EXTINF:-1,Sony HD
-http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
-
-
-#EXTINF:-1,TNT Sports HD
-http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
-
-#EXTINF:-1,TyC Sports HD
-http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
 #EXTINF:-1,Universal HD
 http://181.191.141.4:9981/stream/channelid/1228704801?profile=pass
 #EXTINF:-1,Warner Channel HD
 http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
-
 #EXTINF:-1,Smile HD
 http://185.140.187.67:8085/udp/238.2.16.138:1234
 #EXTINF:-1,Animal Planet HD
@@ -95,7 +106,6 @@ http://185.140.187.67:8085/udp/238.2.16.196:1234
 http://185.140.187.67:8085/udp/238.2.16.195:1234
 #EXTINF:-1,Discovery HD
 http://185.140.187.67:8085/udp/238.2.16.147:1234
-
 #EXTINF:-1,FOX HD
 http://185.140.187.67:8085/udp/238.2.16.178:1234
 #EXTINF:-1,KHL prime HD
@@ -108,20 +118,6 @@ http://185.140.187.67:8085/udp/238.2.16.197:1234
 http://185.140.187.67:8085/udp/238.2.16.211:1234
 #EXTINF:-1,Travel Channel HD
 http://185.140.187.67:8085/udp/238.2.16.190:1234
-#EXTINF:-1,VIASAT SPORT HD
-http://185.140.187.67:8085/udp/238.2.16.198:1234
-#EXTINF:-1,Sport Uk HD
-http://185.140.187.67:8085/udp/238.2.16.250:1234
-#EXTINF:-1,Sport 1 HD
-http://185.140.187.67:8085/udp/238.2.17.4:1234
-#EXTINF:-1,Sports 2 HD
-http://185.140.187.67:8085/udp/238.2.17.15:1234
-#EXTINF:-1,Sports 3 HD
-http://185.140.187.67:8085/udp/238.2.17.73:1234
-#EXTINF:-1,Sport HD
-http://185.140.187.67:8085/udp/238.2.17.12:1234
-
-
 #EXTINF:-1,Animal Planet
 http://185.193.240.245:8000/play/a01n/index.m3u8
 #EXTINF:-1,Cine Star Comedy
@@ -135,36 +131,32 @@ http://185.193.240.245:8000/play/a01m/index.m3u8
 
 ####            BEIN SPORTS TURQUIE      ####
 
-#EXTINF:0,Love Nature
-http://58.65.171.202:8000/play/1103/index.m3u8
 
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM
 http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
 http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 3 FR
+#EXTINF:-1,BEIN SPORTS 3 FR
 http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
+#EXTINF:-1,BEIN SPORTS 3 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
+#EXTINF:-1,BEIN SPORTS 3 PREMIUM
 http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mo..
 #EXTINF:-1,BEIN SPORTS PREMIUM 1HD
 http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
+#EXTINF:-1,BEIN SPORTS 3 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
-
