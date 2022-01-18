@@ -193,5 +193,16 @@ http://portal.zexo.site:8080/zero/zero/14
 http://portal.zexo.site:8080/zero/zero/15
 #EXTINF:-1,TR: beIN SPORTS 51 HD
 http://portal.zexo.site:8080/zero/zero/16
+
 #EXTINF:-1,36T_34003_ Love Nature 4K
 http://95.141.128.163:8004/play/a0n8
+#EXTINF:0,Love Nature
+http://58.65.171.202:8000/play/1103/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://185.157.161.141:22222/play/a03y
+#EXTINF:-1,test 4-LOVE NATURE
+http://178.68.208.141:82/play/a03d
+#EXTINF:-1,Love Nature HD
+http://94.236.145.205:8000/play/a02g
+#EXTINF:-1,Love Nature 4K UHD
+http://193.163.3.22:8000/play/5
