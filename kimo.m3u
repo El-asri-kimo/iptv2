@@ -396,3 +396,16 @@ http://185.193.240.245:8000/play/a012/index.m3u8
 http://185.193.240.245:8000/play/a010/index.m3u8
 #EXTINF:-1,TLC
 http://185.193.240.245:8000/play/a01o/index.m3u8
+
+####            BOEN SPORTS TURQUIE      ####
+
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+http://portal.zexo.site:8080/zero/zero/2
+#EXTINF:-1,TR: beIN SPORTS 1 SD
+http://portal.zexo.site:8080/zero/zero/3
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://portal.zexo.site:8080/zero/zero/4
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+http://portal.zexo.site:8080/zero/zero/5
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+http://portal.zexo.site:8080/zero/zero/6
