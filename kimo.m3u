@@ -251,79 +251,51 @@ http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mo..
 http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
 
 
-#EXTINF:-1 tvg-id="c7ced47368dfadc80bec79e49fb3ce8c",Horror Channel
-http://86.154.143.204:9981/stream/channelid/1943326407?ticket=7B13B808E5DE5D25FC85BD132A6E4FA816E4B3A6&profile=pass
-
-
-#EXTINF:-1 ,24 Horas ES
-http://82.114.83.154:54035/play/a010/index.m3u8
-#EXTINF:-1 ,Movistar LaLiga ES
-http://82.114.83.154:54035/play/a011/index.m3u8
-#EXTINF:-1 ,Movistar Golf ES
-http://82.114.83.154:54035/play/a00g/index.m3u8
-#EXTINF:-1 ,Odisea ES
-http://82.114.83.154:54035/play/a00h/index.m3u8
-#EXTINF:-1 ,PLAYBOY ES
-http://82.114.83.154:54035/play/a00i/index.m3u8
-#EXTINF:-1 ,Telecinco ES
-http://82.114.83.154:54035/play/a00j/index.m3u8
-#EXTINF:-1 ,Nat Geo ES
-http://82.114.83.154:54035/play/a00k/index.m3u8
-#EXTINF:-1 ,Movistar Deportes ES
-http://82.114.83.154:54035/play/a00l/index.m3u8
-#EXTINF:-1 ,Calle 13 ES
-http://82.114.83.154:54035/play/a00m/index.m3u8
-#EXTINF:-1 ,SyFy ES
-http://82.114.83.154:54035/play/a00o/index.m3u8
-#EXTINF:-1 ,Real Madrid TV ES
-http://82.114.83.154:54035/play/a00p/index.m3u8
-#EXTINF:-1 ,Caza y Pesca ES
-http://82.114.83.154:54035/play/a00r/index.m3u8
-#EXTINF:-1 ,Antena 3 ES
-http://82.114.83.154:54035/play/a00s/index.m3u8
-#EXTINF:-1 ,Blaze ES
-http://82.114.83.154:54035/play/a00t/index.m3u8
-#EXTINF:-1 ,Nickelodeon ES
-http://82.114.83.154:54035/play/a00u/index.m3u8
-#EXTINF:-1 ,Discovery Channel ES
-http://82.114.83.154:54035/play/a00v/index.m3u8
-#EXTINF:-1 ,Historia ES
-http://82.114.83.154:54035/play/a00x/index.m3u8
-#EXTINF:-1 ,Crimen & Investigacion ES
-http://82.114.83.154:54035/play/a00y/index.m3u8
-#EXTINF:-1 ,Movistar Cine Español ES
-http://82.114.83.154:54035/play/a00z/index.m3u8
-#EXTINF:-1 ,Movistar Acción ES
-http://82.114.83.154:54035/play/a01b/index.m3u8
-#EXTINF:-1 ,Nat Geo Wild ES
-http://82.114.83.154:54035/play/a01d/index.m3u8
-#EXTINF:-1 ,LA 2 ES
-http://82.114.83.154:54035/play/a01e/index.m3u8
-#EXTINF:-1 ,DIVINITY ES
-http://82.114.83.154:54035/play/a01p/index.m3u8
-#EXTINF:-1 ,BOING ES
-http://82.114.83.154:54035/play/a01r/index.m3u8
-#EXTINF:-1 ,ENERGY ES
-http://82.114.83.154:54035/play/a01s/index.m3u8
-#EXTINF:-1 ,Barça TV ES
-http://82.114.83.154:54035/play/a01t/index.m3u8
-#EXTINF:-1 ,MTV ES
-http://82.114.83.154:54035/play/a01v/index.m3u8
-#EXTINF:-1 ,GOL ES
-http://82.114.83.154:54035/play/a01w/index.m3u8
-#EXTINF:-1 ,Eurosport 1 ES
-http://82.114.83.154:54035/play/a01u/index.m3u8
-#EXTINF:-1 ,DAZN 1 ES
-http://82.114.83.154:54035/play/a01x/index.m3u8
-#EXTINF:-1 ,EUROSPORT 2 ES
-http://82.114.83.154:54035/play/a01y/index.m3u8
-#EXTINF:-1 ,BE MAD ES
-http://82.114.83.154:54035/play/a01z/index.m3u8
-#EXTINF:-1 ,Movistar Comedia ES
-http://82.114.83.154:54035/play/a02h/index.m3u8
-#EXTINF:-1 ,Fox Life ES
-http://82.114.83.154:54035/play/a02i/index.m3u8
-#EXTINF:-1 ,Movistar Drama ES
-http://82.114.83.154:54035/play/a02j/index.m3u8
-#EXTINF:-1 ,Fox ES
-http://82.114.83.154:54035/play/a02k/index.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://2.205.20.123:9981/stream/channelid/103746034
+#EXTINF:-1,Sky Cinema Special HD
+http://2.205.20.123:9981/stream/channelid/1416006539
+#EXTINF:-1,Sky Cinema Action HD
+http://2.205.20.123:9981/stream/channelid/680741159
+#EXTINF:-1,Sky Cinema Best Of HD
+http://2.205.20.123:9981/stream/channelid/137358980
+#EXTINF:-1,Sky Cinema Classics
+http://2.205.20.123:9981/stream/channelid/1674314567
+#EXTINF:-1,Sky Cinema Family
+http://2.205.20.123:9981/stream/channelid/885963920
+#EXTINF:-1,Sky Cinema Fun
+http://2.205.20.123:9981/stream/channelid/1470554791
+#EXTINF:-1,Sky Cinema Premieren +24
+http://2.205.20.123:9981/stream/channelid/2048516138
+#EXTINF:-1,Sky Cinema Premieren HD
+http://2.205.20.123:9981/stream/channelid/1169028865
+#EXTINF:-1,Sky Cinema Thriller HD
+http://2.205.20.123:9981/stream/channelid/1766736497
+#EXTINF:-1,Sky Krimi HD
+http://2.205.20.123:9981/stream/channelid/591515167
+#EXTINF:-1,Sky One HD
+http://2.205.20.123:9981/stream/channelid/1165045468
+#EXTINF:-1,Sky Sport F1 HD
+http://2.205.20.123:9981/stream/channelid/23099606
+#EXTINF:-1,Sky Sport 1 HD
+http://2.205.20.123:9981/stream/channelid/773969130
+#EXTINF:-1,Sky Sport 2 HD
+http://2.205.20.123:9981/stream/channelid/1269485833
+#EXTINF:-1,Sky Sport 3 HD
+http://2.205.20.123:9981/stream/channelid/1558470595
+#EXTINF:-1,Sky Sport 4 HD
+http://2.205.20.123:9981/stream/channelid/585601803
+#EXTINF:-1,Sky Sport 5 HD
+http://2.205.20.123:9981/stream/channelid/1727420827
+#EXTINF:-1,Sky Sport 6 HD
+http://2.205.20.123:9981/stream/channelid/686375604
+#EXTINF:-1,Sky Sport 7 HD
+http://2.205.20.123:9981/stream/channelid/1957550365
+#EXTINF:-1,Sky Sport 8 HD
+http://2.205.20.123:9981/stream/channelid/380850556
+#EXTINF:-1,Sky Sport 9 HD
+http://2.205.20.123:9981/stream/channelid/116110884
+#EXTINF:-1,Sky Sport 10 HD
+http://2.205.20.123:9981/stream/channelid/410207493
+#EXTINF:-1,Sky Sport 11 HD
+http://2.205.20.123:9981/stream/channelid/105378940
