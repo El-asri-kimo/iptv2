@@ -254,17 +254,21 @@ http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
 #EXTINF:-1 tvg-id="c7ced47368dfadc80bec79e49fb3ce8c",Horror Channel
 http://86.154.143.204:9981/stream/channelid/1943326407?ticket=7B13B808E5DE5D25FC85BD132A6E4FA816E4B3A6&profile=pass
 
-#EXTINF:-1,Adultchannel 1
-http://185.193.240.245:8000/play/a01e/index.m3u8
-#EXTINF:-1,Adultchannel 2
-http://185.193.240.245:8000/play/a01f/index.m3u8
-#EXTINF:-1,Adultchannel 3
-http://185.193.240.245:8000/play/a01g/index.m3u8
-#EXTINF:-1,Adultchannel 4
-http://185.193.240.245:8000/play/a01h/index.m3u8
-#EXTINF:-1,Adultchannel 5
-http://185.193.240.245:8000/play/a01i/index.m3u8
-#EXTINF:-1,Adultchannel 6
-http://185.193.240.245:8000/play/a01j/index.m3u8
-#EXTINF:-1,Adultchannel 7
-http://185.193.240.245:8000/play/a01k/index.m3u8
+#EXTINF:-1,#0 HD
+http://194.76.186.26:8000/play/a040
+#EXTINF:-1,#VAMOSHD
+http://194.76.186.26:8000/play/a03l
+#EXTINF:-1,#VAMOSHD
+http://194.76.186.26:8000/play/a03n
+#EXTINF:-1,AMC HD
+http://194.76.186.26:8000/play/a061
+#EXTINF:-1,AXN HD
+http://194.76.186.26:8000/play/a05q
+#EXTINF:-1,AXN WHITE HD
+http://194.76.186.26:8000/play/a04k
+#EXTINF:-1,CALLE 13 HD
+http://194.76.186.26:8000/play/a06k
+#EXTINF:-1,CAZAyPESCA HD
+http://194.76.186.26:8000/play/a041
+#EXTINF:-1,COMEDYCENTRALHD
+http://194.76.186.26:8000/play/a04l
