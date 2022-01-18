@@ -171,24 +171,6 @@ http://portal.zexo.site:8080/zero/zero/2
 #EXTINF:-1,TR: beIN SPORTS 2 HD
 http://portal.zexo.site:8080/zero/zero/4
 
-#EXTINF:-1,TR: beIN SPORTS 41 HD
-http://portal.zexo.site:8080/zero/zero/6
-#EXTINF:-1,TR: beIN SPORTS 42 HD
-http://portal.zexo.site:8080/zero/zero/7
-#EXTINF:-1,TR: beIN SPORTS 43 HD
-http://portal.zexo.site:8080/zero/zero/8
-#EXTINF:-1,TR: beIN SPORTS 44 HD
-http://portal.zexo.site:8080/zero/zero/9
-#EXTINF:-1,TR: beIN SPORTS 45 HD
-http://portal.zexo.site:8080/zero/zero/10
-#EXTINF:-1,TR: beIN SPORTS 46 HD
-http://portal.zexo.site:8080/zero/zero/11
-#EXTINF:-1,TR: beIN SPORTS 47 HD
-http://portal.zexo.site:8080/zero/zero/12
-#EXTINF:-1,TR: beIN SPORTS 48 HD
-http://portal.zexo.site:8080/zero/zero/13
-#EXTINF:-1,TR: beIN SPORTS 49 HD
-http://portal.zexo.site:8080/zero/zero/14
 #EXTINF:-1,TR: beIN SPORTS 50 HD
 http://portal.zexo.site:8080/zero/zero/15
 #EXTINF:-1,TR: beIN SPORTS 51 HD
@@ -229,73 +211,10 @@ http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
 http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mon..
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 2 FR
-http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mon..
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 3 FR
-http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mon..
 #EXTINF:-1,BEIN SPORTS 3 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mo..
-#EXTINF:-1,BEIN SPORTS PREMIUM 1HD
-http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
 
-
-#EXTINF:-1,Sky Atlantic HD
-http://2.205.20.123:9981/stream/channelid/103746034
-#EXTINF:-1,Sky Cinema Special HD
-http://2.205.20.123:9981/stream/channelid/1416006539
-#EXTINF:-1,Sky Cinema Action HD
-http://2.205.20.123:9981/stream/channelid/680741159
-#EXTINF:-1,Sky Cinema Best Of HD
-http://2.205.20.123:9981/stream/channelid/137358980
-#EXTINF:-1,Sky Cinema Classics
-http://2.205.20.123:9981/stream/channelid/1674314567
-#EXTINF:-1,Sky Cinema Family
-http://2.205.20.123:9981/stream/channelid/885963920
-#EXTINF:-1,Sky Cinema Fun
-http://2.205.20.123:9981/stream/channelid/1470554791
-#EXTINF:-1,Sky Cinema Premieren +24
-http://2.205.20.123:9981/stream/channelid/2048516138
-#EXTINF:-1,Sky Cinema Premieren HD
-http://2.205.20.123:9981/stream/channelid/1169028865
-#EXTINF:-1,Sky Cinema Thriller HD
-http://2.205.20.123:9981/stream/channelid/1766736497
-#EXTINF:-1,Sky Krimi HD
-http://2.205.20.123:9981/stream/channelid/591515167
-#EXTINF:-1,Sky One HD
-http://2.205.20.123:9981/stream/channelid/1165045468
-#EXTINF:-1,Sky Sport F1 HD
-http://2.205.20.123:9981/stream/channelid/23099606
-#EXTINF:-1,Sky Sport 1 HD
-http://2.205.20.123:9981/stream/channelid/773969130
-#EXTINF:-1,Sky Sport 2 HD
-http://2.205.20.123:9981/stream/channelid/1269485833
-#EXTINF:-1,Sky Sport 3 HD
-http://2.205.20.123:9981/stream/channelid/1558470595
-#EXTINF:-1,Sky Sport 4 HD
-http://2.205.20.123:9981/stream/channelid/585601803
-#EXTINF:-1,Sky Sport 5 HD
-http://2.205.20.123:9981/stream/channelid/1727420827
-#EXTINF:-1,Sky Sport 6 HD
-http://2.205.20.123:9981/stream/channelid/686375604
-#EXTINF:-1,Sky Sport 7 HD
-http://2.205.20.123:9981/stream/channelid/1957550365
-#EXTINF:-1,Sky Sport 8 HD
-http://2.205.20.123:9981/stream/channelid/380850556
-#EXTINF:-1,Sky Sport 9 HD
-http://2.205.20.123:9981/stream/channelid/116110884
-#EXTINF:-1,Sky Sport 10 HD
-http://2.205.20.123:9981/stream/channelid/410207493
-#EXTINF:-1,Sky Sport 11 HD
-http://2.205.20.123:9981/stream/channelid/105378940
