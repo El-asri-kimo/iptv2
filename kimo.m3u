@@ -254,65 +254,76 @@ http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
 #EXTINF:-1 tvg-id="c7ced47368dfadc80bec79e49fb3ce8c",Horror Channel
 http://86.154.143.204:9981/stream/channelid/1943326407?ticket=7B13B808E5DE5D25FC85BD132A6E4FA816E4B3A6&profile=pass
 
-#EXTINF:-1,#0 HD
-http://194.76.186.26:8000/play/a040
-#EXTINF:-1,#VAMOSHD
-http://194.76.186.26:8000/play/a03l
-#EXTINF:-1,#VAMOSHD
-http://194.76.186.26:8000/play/a03n
-#EXTINF:-1,AMC HD
-http://194.76.186.26:8000/play/a061
-#EXTINF:-1,AXN HD
-http://194.76.186.26:8000/play/a05q
-#EXTINF:-1,AXN WHITE HD
-http://194.76.186.26:8000/play/a04k
-#EXTINF:-1,CALLE 13 HD
-http://194.76.186.26:8000/play/a06k
-#EXTINF:-1,CAZAyPESCA HD
-http://194.76.186.26:8000/play/a041
-#EXTINF:-1,COMEDYCENTRALHD
-http://194.76.186.26:8000/play/a04l
 
-
-#EXTINF:-1,HOLLYWOODHD
-http://194.76.186.26:8000/play/a03c
-#EXTINF:-1,M. ACCI©N HD
-http://194.76.186.26:8000/play/a03m
-#EXTINF:-1,M. CL.SICOS HD
-http://194.76.186.26:8000/play/a06q
-#EXTINF:-1,M. DEPORTESHD
-http://194.76.186.26:8000/play/a06n
-#EXTINF:-1,M. DRAMA HD
-http://194.76.186.26:8000/play/a03o
-#EXTINF:-1,M. ESTRENOS 2 HD
-http://194.76.186.26:8000/play/a051
-#EXTINF:-1,M. Fest HD
-http://194.76.186.26:8000/play/a03b
-#EXTINF:-1,M. GOLF HD
-http://194.76.186.26:8000/play/a04i
-#EXTINF:-1,M. LaLiga 1 HD
-http://194.76.186.26:8000/play/a05o
-#EXTINF:-1,M. LaLiga 2 HD
-http://194.76.186.26:8000/play/a04z
-#EXTINF:-1,M. LaLiga 3 HD
-http://194.76.186.26:8000/play/a050
-#EXTINF:-1,M. LaLiga HD
-http://194.76.186.26:8000/play/a03e
-#EXTINF:-1,M. SERIES 2 HD
-http://194.76.186.26:8000/play/a03u
-#EXTINF:-1,M. SERIES HD
-http://194.76.186.26:8000/play/a04h
-#EXTINF:-1,M.COMEDIA HD
-http://194.76.186.26:8000/play/a05r
-#EXTINF:-1,M.DEPORTES1HD
-http://194.76.186.26:8000/play/a060
-#EXTINF:-1,M.ESTRENOSHD
-http://194.76.186.26:8000/play/a062
-#EXTINF:-1,M.LCAMPEON 1 HD
-http://194.76.186.26:8000/play/a052
-#EXTINF:-1,M.LCAMPEON 2 HD
-http://194.76.186.26:8000/play/a055
-#EXTINF:-1,M.LCAMPEONES
-http://194.76.186.26:8000/play/a034
-#EXTINF:-1,M.LCAMPEONES HD
-http://194.76.186.26:8000/play/a04f
+#EXTINF:-1 ,24 Horas ES
+http://82.114.83.154:54035/play/a010/index.m3u8
+#EXTINF:-1 ,Movistar LaLiga ES
+http://82.114.83.154:54035/play/a011/index.m3u8
+#EXTINF:-1 ,Movistar Golf ES
+http://82.114.83.154:54035/play/a00g/index.m3u8
+#EXTINF:-1 ,Odisea ES
+http://82.114.83.154:54035/play/a00h/index.m3u8
+#EXTINF:-1 ,PLAYBOY ES
+http://82.114.83.154:54035/play/a00i/index.m3u8
+#EXTINF:-1 ,Telecinco ES
+http://82.114.83.154:54035/play/a00j/index.m3u8
+#EXTINF:-1 ,Nat Geo ES
+http://82.114.83.154:54035/play/a00k/index.m3u8
+#EXTINF:-1 ,Movistar Deportes ES
+http://82.114.83.154:54035/play/a00l/index.m3u8
+#EXTINF:-1 ,Calle 13 ES
+http://82.114.83.154:54035/play/a00m/index.m3u8
+#EXTINF:-1 ,SyFy ES
+http://82.114.83.154:54035/play/a00o/index.m3u8
+#EXTINF:-1 ,Real Madrid TV ES
+http://82.114.83.154:54035/play/a00p/index.m3u8
+#EXTINF:-1 ,Caza y Pesca ES
+http://82.114.83.154:54035/play/a00r/index.m3u8
+#EXTINF:-1 ,Antena 3 ES
+http://82.114.83.154:54035/play/a00s/index.m3u8
+#EXTINF:-1 ,Blaze ES
+http://82.114.83.154:54035/play/a00t/index.m3u8
+#EXTINF:-1 ,Nickelodeon ES
+http://82.114.83.154:54035/play/a00u/index.m3u8
+#EXTINF:-1 ,Discovery Channel ES
+http://82.114.83.154:54035/play/a00v/index.m3u8
+#EXTINF:-1 ,Historia ES
+http://82.114.83.154:54035/play/a00x/index.m3u8
+#EXTINF:-1 ,Crimen & Investigacion ES
+http://82.114.83.154:54035/play/a00y/index.m3u8
+#EXTINF:-1 ,Movistar Cine Español ES
+http://82.114.83.154:54035/play/a00z/index.m3u8
+#EXTINF:-1 ,Movistar Acción ES
+http://82.114.83.154:54035/play/a01b/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild ES
+http://82.114.83.154:54035/play/a01d/index.m3u8
+#EXTINF:-1 ,LA 2 ES
+http://82.114.83.154:54035/play/a01e/index.m3u8
+#EXTINF:-1 ,DIVINITY ES
+http://82.114.83.154:54035/play/a01p/index.m3u8
+#EXTINF:-1 ,BOING ES
+http://82.114.83.154:54035/play/a01r/index.m3u8
+#EXTINF:-1 ,ENERGY ES
+http://82.114.83.154:54035/play/a01s/index.m3u8
+#EXTINF:-1 ,Barça TV ES
+http://82.114.83.154:54035/play/a01t/index.m3u8
+#EXTINF:-1 ,MTV ES
+http://82.114.83.154:54035/play/a01v/index.m3u8
+#EXTINF:-1 ,GOL ES
+http://82.114.83.154:54035/play/a01w/index.m3u8
+#EXTINF:-1 ,Eurosport 1 ES
+http://82.114.83.154:54035/play/a01u/index.m3u8
+#EXTINF:-1 ,DAZN 1 ES
+http://82.114.83.154:54035/play/a01x/index.m3u8
+#EXTINF:-1 ,EUROSPORT 2 ES
+http://82.114.83.154:54035/play/a01y/index.m3u8
+#EXTINF:-1 ,BE MAD ES
+http://82.114.83.154:54035/play/a01z/index.m3u8
+#EXTINF:-1 ,Movistar Comedia ES
+http://82.114.83.154:54035/play/a02h/index.m3u8
+#EXTINF:-1 ,Fox Life ES
+http://82.114.83.154:54035/play/a02i/index.m3u8
+#EXTINF:-1 ,Movistar Drama ES
+http://82.114.83.154:54035/play/a02j/index.m3u8
+#EXTINF:-1 ,Fox ES
+http://82.114.83.154:54035/play/a02k/index.m3u8
