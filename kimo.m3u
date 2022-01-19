@@ -198,17 +198,3 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1,BEIN SPORTS 3 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
-
-***********************
-
-#EXTINF:-1,0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:-1, tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 1 HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:-1,tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:-1, tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 2 HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:-1, tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:-1,tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 3 HD
