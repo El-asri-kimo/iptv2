@@ -731,9 +731,6 @@ http://185.140.187.67:8085/udp/238.2.16.174:1234
 
 *********************
 *********************
-
-#EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
-#EXTREM:french
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
 rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
