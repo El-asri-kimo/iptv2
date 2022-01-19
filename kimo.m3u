@@ -198,3 +198,28 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1,BEIN SPORTS 3 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+
+************************************************
+
+#EXTINF:-1 group-title="-",Almajd 01
+http://197.13.13.82:8000/play/a15u/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 02
+http://197.13.13.82:8000/play/a15v/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 03
+http://197.13.13.82:8000/play/a15w/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 04
+http://197.13.13.82:8000/play/a15x/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 05
+http://197.13.13.82:8000/play/a15y/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 06
+http://197.13.13.82:8000/play/a15z/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 07
+http://197.13.13.82:8000/play/a160/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 08
+http://197.13.13.82:8000/play/a161/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 09
+http://197.13.13.82:8000/play/a162/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 10
+http://197.13.13.82:8000/play/a163/index.m3u8
+#EXTINF:-1 group-title="-",Almajd 11
+http://197.13.13.82:8000/play/a164/index.m3u8
