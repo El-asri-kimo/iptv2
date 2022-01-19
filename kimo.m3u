@@ -223,3 +223,17 @@ http://197.13.13.82:8000/play/a162/index.m3u8
 http://197.13.13.82:8000/play/a163/index.m3u8
 #EXTINF:-1,Almajd 11
 http://197.13.13.82:8000/play/a164/index.m3u8
+
+
+#EXTINF:-1,EGYBEST AFLAM
+http://213.162.202.5:4000/play/a09y/index.m3u8
+#EXTINF:-1,EGYBEST CIMA
+http://213.162.202.5:4000/play/a0a6/index.m3u8
+#EXTINF:-1,EGYBEST CINEMA
+http://213.162.202.5:4000/play/a0a7/index.m3u8
+#EXTINF:-1,EGYBEST COMEDY
+http://213.162.202.5:4000/play/a096/index.m3u8
+#EXTINF:-1,EGYBEST DRAMA
+http://213.162.202.5:4000/play/a098/index.m3u8
+#EXTINF:-1,EGYBEST TODAY
+http://213.162.202.5:4000/play/a09w/index.m3u8
