@@ -201,108 +201,14 @@ http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 
 ***********************
 
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 1
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1,0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 1 HD
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 1 HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 2
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1,tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 2 HD
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 2 HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 3
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 3
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 3 HD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 4
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 4 HD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC DRAMA
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC DRAMA HD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC DRAMA PLUS
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC ACTION
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC ACTION HD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC BOLLYWOOD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC BOLLYWOOD HD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC MAX
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC MAX HD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC VARIETY HD
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",ZEE AFLAM
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",ZEE ALWAN
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC MASR
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC MASR 2
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC IRAQ
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 5
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",2m Moroco
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Aoula Morocco
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Arriadia Moroco
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Maghribia Moroco
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Assadissa Moroco
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Al Maghriba
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Al Jazeera
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Al Jazeera Doc
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",AL ARABIYA
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Al Hadath
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
-#EXTINF:0 tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",Al Majd
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc..
+#EXTINF:-1,tvg-logo="http://185.165.243.195/logo_category/Arabic%20channel.png"tvg-id="" group-title="(9) ARABIAN [CHANNEL]",MBC 3 HD
