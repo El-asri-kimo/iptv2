@@ -201,39 +201,11 @@ http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 
 ************************************************
 
-#EXTINF:-1,Almajd 01
-http://197.13.13.82:8000/play/a15u/index.m3u8
-#EXTINF:-1,Almajd 02
-http://197.13.13.82:8000/play/a15v/index.m3u8
-#EXTINF:-1,Almajd 03
-http://197.13.13.82:8000/play/a15w/index.m3u8
-#EXTINF:-1,Almajd 04
-http://197.13.13.82:8000/play/a15x/index.m3u8
-#EXTINF:-1,Almajd 05
-http://197.13.13.82:8000/play/a15y/index.m3u8
-#EXTINF:-1,Almajd 06
-http://197.13.13.82:8000/play/a15z/index.m3u8
-#EXTINF:-1,Almajd 07
-http://197.13.13.82:8000/play/a160/index.m3u8
-#EXTINF:-1,Almajd 08
-http://197.13.13.82:8000/play/a161/index.m3u8
-#EXTINF:-1,Almajd 09
-http://197.13.13.82:8000/play/a162/index.m3u8
-#EXTINF:-1,Almajd 10
-http://197.13.13.82:8000/play/a163/index.m3u8
-#EXTINF:-1,Almajd 11
-http://197.13.13.82:8000/play/a164/index.m3u8
-
-
-#EXTINF:-1,EGYBEST AFLAM
-http://213.162.202.5:4000/play/a09y/index.m3u8
-#EXTINF:-1,EGYBEST CIMA
-http://213.162.202.5:4000/play/a0a6/index.m3u8
-#EXTINF:-1,EGYBEST CINEMA
-http://213.162.202.5:4000/play/a0a7/index.m3u8
-#EXTINF:-1,EGYBEST COMEDY
-http://213.162.202.5:4000/play/a096/index.m3u8
-#EXTINF:-1,EGYBEST DRAMA
-http://213.162.202.5:4000/play/a098/index.m3u8
-#EXTINF:-1,EGYBEST TODAY
-http://213.162.202.5:4000/play/a09w/index.m3u8
+#EXTINF:-1 , ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 , ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 , ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 , ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
