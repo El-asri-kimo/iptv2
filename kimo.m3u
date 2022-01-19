@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS 1 FR
-http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 2 FR
-http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 3 FR
-http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mon..
+
 *********************************
 #EXTINF:-1, AL FURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
