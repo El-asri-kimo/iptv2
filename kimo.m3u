@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,FOOTBALL1
-http://176.118.42.26:10030/play/0034
-#EXTINF:-1,FOOTBALL 2
-http://176.118.42.26:10030/play/0035
-#EXTINF:-1,FOOTBALL 3
-http://176.118.42.26:10030/play/0196
-
 
         #EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 Premium HD
 	http://174.138.184.166:25461/livesport_ios/livesport_android/13
