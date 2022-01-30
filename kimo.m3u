@@ -1,735 +1,163 @@
 #EXTM3U
-
-*********************************
-
-#EXTINF:-1, AL FURQON TV
-https://h1.intechmedia.net/intech/ch24.m3u8
-#EXTINF:-1,LOVE NATURE HD
-http://s1.electru.biz:8080/live/roadway1/roadway1/21505.m3u8
-#EXTINF:-1,test 4-LOVE NATURE
-http://178.68.208.141:82/play/a03d
-#EXTINF:-1,Love Nature HD
-http://185.157.161.141:22222/play/a03y
-#EXTINF:-1,36T_34003_ Love Nature 4K
-http://95.141.128.163:8004/play/a0n8
-#EXTINF:0,Love Nature
-http://58.65.171.202:8000/play/1103/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
-#EXTINF:-1,Discovery Channel HD
-http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
-#EXTINF:-1,Discovery H&H HD
-http://181.191.141.4:9981/stream/channelid/593338370?profile=pass
-#EXTINF:-1,Discovery Kids
-http://181.191.141.4:9981/stream/channelid/172516479?profile=pass
-#EXTINF:-1,Discovery Science
-http://181.191.141.4:9981/stream/channelid/2084815926?profile=pass
-#EXTINF:-1,Discovery Theater HD
-http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
-#EXTINF:-1,Discovery Turbo
-http://181.191.141.4:9981/stream/channelid/273907486?profile=pass
-#EXTINF:-1,Discovery World HD
-http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
-#EXTINF:-1,Disney Channel HD
-http://181.191.141.4:9981/stream/channelid/336517816?profile=pass
-#EXTINF:-1,Disney Junior
-http://181.191.141.4:9981/stream/channelid/921973190?profile=pass
-#EXTINF:-1,Cartoon Network HD
-http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
-#EXTINF:-1,Disney 
-http://181.191.141.4:9981/stream/channelid/1418456914?profile=pass
-#EXTINF:-1,Galaxy Premium
-http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
-http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
-#EXTINF:-1,Film & Arts HD
-http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
- 
-********************* SPORT *************************
-
-#EXTINF:-1,Fox Sports 2 HD
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
-#EXTINF:-1,Fox Sports 3 HD
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
-#EXTINF:-1,Fox Sports HD
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-#EXTINF:-1,Fox Sports Premium HD
-http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
-#EXTINF:-1,ESPN 2
-http://181.191.141.4:9981/stream/channelid/371483615?profile=pass
-#EXTINF:-1,ESPN 2 HD
-http://181.191.141.4:9981/stream/channelid/462957684?profile=pass
-#EXTINF:-1,ESPN 3 HD
-http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
-#EXTINF:-1,ESPN Extra HD
-http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
-#EXTINF:-1,ESPN HD
-http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
-#EXTINF:-1,TNT Sports HD
-http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
-#EXTINF:-1,TyC Sports HD
-http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
-#EXTINF:-1,VIASAT SPORT HD
-http://185.140.187.67:8085/udp/238.2.16.198:1234
-#EXTINF:-1,Sport Uk HD
-http://185.140.187.67:8085/udp/238.2.16.250:1234
-#EXTINF:-1,Sport 1 HD
-http://185.140.187.67:8085/udp/238.2.17.4:1234
-#EXTINF:-1,Sports 2 HD
-http://185.140.187.67:8085/udp/238.2.17.15:1234
-#EXTINF:-1,Sports 3 HD
-http://185.140.187.67:8085/udp/238.2.17.73:1234
-#EXTINF:-1,Sport HD
-http://185.140.187.67:8085/udp/238.2.17.12:1234
-
-******************** ALL **********************
-
-#EXTINF:-1,HBO
-http://181.191.141.4:9981/stream/channelid/1891222005?profile=pass
-#EXTINF:-1,HBO 2
-http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
-#EXTINF:-1,HBO Family
-http://181.191.141.4:9981/stream/channelid/404483297?profile=pass
-#EXTINF:-1,HBO Plus
-http://181.191.141.4:9981/stream/channelid/340621241?profile=pass
-#EXTINF:-1,Sony HD 
-http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
-#EXTINF:-1,Nickelodeon
-http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
-#EXTINF:-1,Universal HD
-http://181.191.141.4:9981/stream/channelid/1228704801?profile=pass
-#EXTINF:-1,Warner Channel HD
-http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
-#EXTINF:-1,Smile HD
-http://185.140.187.67:8085/udp/238.2.16.138:1234
-#EXTINF:-1,Animal Planet HD
-http://185.140.187.67:8085/udp/238.2.16.175:1234
-#EXTINF:-1,FOX life HD
-http://185.140.187.67:8085/udp/238.2.16.179:1234
-#EXTINF:-1,Hollywood HD
-http://185.140.187.67:8085/udp/238.2.16.176:1234
-#EXTINF:-1,HBO HD
-http://185.140.187.67:8085/udp/238.2.16.187:1234
-#EXTINF:-1,HGTV HD
-http://185.140.187.67:8085/udp/238.2.16.189:1234
-#EXTINF:-1,Travel + Adventure HD
-http://185.140.187.67:8085/udp/238.2.16.180:1234
-#EXTINF:-1,VIP Premier HD
-http://185.140.187.67:8085/udp/238.2.16.196:1234
-#EXTINF:-1,VIP Megahit HD
-http://185.140.187.67:8085/udp/238.2.16.195:1234
-#EXTINF:-1,Discovery HD
-http://185.140.187.67:8085/udp/238.2.16.147:1234
-#EXTINF:-1,FOX HD
-http://185.140.187.67:8085/udp/238.2.16.178:1234
-#EXTINF:-1,KHL prime HD
-http://185.140.187.67:8085/udp/238.2.16.177:1234
-#EXTINF:-1,HISTORY HD
-http://185.140.187.67:8085/udp/238.2.16.188:1234
-#EXTINF:-1,VIASAT HISTORY HD
-http://185.140.187.67:8085/udp/238.2.16.197:1234
-#EXTINF:-1,DTX HD
-http://185.140.187.67:8085/udp/238.2.16.211:1234
-#EXTINF:-1,Travel Channel HD
-http://185.140.187.67:8085/udp/238.2.16.190:1234
-#EXTINF:-1,Animal Planet
-http://185.193.240.245:8000/play/a01n/index.m3u8
-#EXTINF:-1,Cine Star Comedy
-http://185.193.240.245:8000/play/a01r/index.m3u8
-#EXTINF:-1,Cine Star Fantasy
-http://185.193.240.245:8000/play/a01p/index.m3u8
-#EXTINF:-1,Cinemania
-http://185.193.240.245:8000/play/a01q/index.m3u8
-#EXTINF:-1,Discovery
-http://185.193.240.245:8000/play/a01m/index.m3u8
-
-####            BEIN SPORTS TURQUIE      ####
-
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 3 FR
-http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mon..
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mo..
-#EXTINF:-1,BEIN SPORTS PREMIUM 1HD
-http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/613..
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
-
-************************************************
-
-#EXTINF:-1 , ALB | K SPORT 1
-http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:-1 , ALB | K SPORT 2
-http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1 , ALB | K SPORT 3
-http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1 , ALB | K SPORT 4
-http://93.157.62.180/KSport4/index.m3u8
-
-******************************
-
-#EXTINF:-1,AD Nat Geo
-http://5.39.189.40:8085/udp/229.0.0.1:1234
-#EXTINF:-1,MBC Action
-http://5.39.189.40:8085/udp/229.0.0.4:1234
-#EXTINF:-1,AD Nat 1
-http://5.39.189.40:8085/udp/229.0.0.2:1234
-#EXTINF:-1,MBC 2
-http://5.39.189.40:8085/udp/229.0.0.3:1234
-#EXTINF:-1,AD Nat 3
-http://5.39.189.40:8085/udp/229.0.0.4:1234
-#EXTINF:-1,MBC 4
-http://5.39.189.40:8085/udp/229.0.0.5:1234
-#EXTINF:-1,AD Nat 5
-http://5.39.189.40:8085/udp/229.0.0.6:1234
-#EXTINF:-1,MBC 6
-http://5.39.189.40:8085/udp/229.0.0.7:1234
-#EXTINF:-1,AD Nat 7
-http://5.39.189.40:8085/udp/229.0.0.8:1234
-#EXTINF:-1,MBC 8
-http://5.39.189.40:8085/udp/229.0.0.9:1234
-#EXTINF:-1,AD Nat 9
-http://5.39.189.40:8085/udp/229.0.0.10:1234
-#EXTINF:-1,MBC 10
-http://5.39.189.40:8085/udp/229.0.0.11:1234
-#EXTINF:-1,AD Nat 11
-http://5.39.189.40:8085/udp/229.0.0.12:1234
-#EXTINF:-1,MBC 12
-http://5.39.189.40:8085/udp/229.0.0.13:1234
-#EXTINF:-1,AD Nat 13
-http://5.39.189.40:8085/udp/229.0.0.14:1234
-#EXTINF:-1,MBC 14
-http://5.39.189.40:8085/udp/229.0.0.15:1234
-#EXTINF:-1,AD Nat 15
-http://5.39.189.40:8085/udp/229.0.0.6:1234
-#EXTINF:-1,MBC 16
-http://5.39.189.40:8085/udp/229.0.0.17:1234
-...........
-
-#EXTINF:-1,good 
-http://185.140.187.67:8085/udp/238.2.0.118:1234
-
-#EXTINF:-1,cool HD
-http://185.140.187.67:8085/udp/238.2.16.162:1234
-
-#EXTINF:-1,Nature
-http://185.140.187.67:8085/udp/238.2.0.119:1234
-
-*********************
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.5:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.7:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.2:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.9:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.1:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.10:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.3:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.6:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.11:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.8:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.14:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.12:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.21:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.13:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.20:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.15:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.4:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.24:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.22:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.18:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.25:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.23:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.30:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.26:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.34:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.29:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.33:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.35:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.39:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.41:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.17:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.37:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.42:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.31:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.32:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.43:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.53:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.51:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.49:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.48:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.38:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.45:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.50:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.52:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.57:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.55:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.40:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.54:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.60:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.62:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.66:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.70:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.63:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.58:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.67:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.71:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.79:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.81:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.78:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.69:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.87:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.80:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.82:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.83:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.77:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.59:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.88:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.94:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.90:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.72:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.97:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.95:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.96:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.89:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.101:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.102:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.100:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.106:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.93:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.99:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.112:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.109:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.114:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.108:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.116:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.120:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.118:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.119:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.121:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.123:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.98:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.122:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.131:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.115:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.129:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.117:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.135:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.134:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.136:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.133:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.149:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.150:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.153:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.151:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.157:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.158:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.156:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.172:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.170:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.167:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.155:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.163:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.166:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.169:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.181:1234
-#EXTINF:-1,182
-http://185.140.187.67:8085/udp/238.2.0.182:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.160:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.201:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.207:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.199:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.205:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.206:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.200:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.209:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.216:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.217:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.223:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.222:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.218:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.202:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.224:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.235:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.208:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.239:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.240:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.233:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.230:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.249:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.2:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.241:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.7:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.8:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.246:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.255:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.236:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.13:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.1.3:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.11:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.17:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.5:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.6:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.245:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.14:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.22:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.0.247:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.25:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.24:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.28:1234
-#EXTINF:-1,288
-http://185.140.187.67:8085/udp/238.2.1.32:1234
-#EXTINF:-1,291
-http://185.140.187.67:8085/udp/238.2.1.35:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.42:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.21:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.27:1234
-#EXTINF:-1,303
-http://185.140.187.67:8085/udp/238.2.1.47:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.53:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.26:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.83:1234
-#EXTINF:-1,342
-http://185.140.187.67:8085/udp/238.2.1.86:1234
-#EXTINF:-1,360
-http://185.140.187.67:8085/udp/238.2.1.104:1234
-#EXTINF:-1,365
-http://185.140.187.67:8085/udp/238.2.1.109:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.110:1234
-#EXTINF:-1,353
-http://185.140.187.67:8085/udp/238.2.1.97:1234
-#EXTINF:-1,356
-http://185.140.187.67:8085/udp/238.2.1.100:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.137:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.133:1234
-#EXTINF:-1,400
-http://185.140.187.67:8085/udp/238.2.1.144:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.132:1234
-#EXTINF:-1,410
-http://185.140.187.67:8085/udp/238.2.1.154:1234
-#EXTINF:-1,362
-http://185.140.187.67:8085/udp/238.2.1.106:1234
-#EXTINF:-1,416
-http://185.140.187.67:8085/udp/238.2.1.160:1234
-#EXTINF:-1,411
-http://185.140.187.67:8085/udp/238.2.1.155:1234
-#EXTINF:-1,421
-http://185.140.187.67:8085/udp/238.2.1.165:1234
-#EXTINF:-1,390
-http://185.140.187.67:8085/udp/238.2.1.134:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.1.140:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.1.89:1234
-#EXTINF:-1,409
-http://185.140.187.67:8085/udp/238.2.1.153:1234
-#EXTINF:-1,444
-http://185.140.187.67:8085/udp/238.2.1.188:1234
-#EXTINF:-1,386
-http://185.140.187.67:8085/udp/238.2.1.130:1234
-#EXTINF:-1,446
-http://185.140.187.67:8085/udp/238.2.1.190:1234
-#EXTINF:-1,454
-http://185.140.187.67:8085/udp/238.2.1.198:1234
-#EXTINF:-1,482
-http://185.140.187.67:8085/udp/238.2.1.226:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.2.118:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.2.119:1234
-#EXTINF:-1,648
-http://185.140.187.67:8085/udp/238.2.2.136:1234
-#EXTINF:-1,627
-http://185.140.187.67:8085/udp/238.2.2.115:1234
-#EXTINF:-1,786
-http://185.140.187.67:8085/udp/238.2.3.18:1234
-#EXTINF:-1,784
-http://185.140.187.67:8085/udp/238.2.3.16:1234
-#EXTINF:-1,788
-http://185.140.187.67:8085/udp/238.2.3.20:1234
-#EXTINF:-1,785
-http://185.140.187.67:8085/udp/238.2.3.17:1234
-#EXTINF:-1,869
-http://185.140.187.67:8085/udp/238.2.3.101:1234
-#EXTINF:-1,875
-http://185.140.187.67:8085/udp/238.2.3.107:1234
-#EXTINF:-1,876
-http://185.140.187.67:8085/udp/238.2.3.108:1234
-#EXTINF:-1,865
-http://185.140.187.67:8085/udp/238.2.3.97:1234
-#EXTINF:-1,866
-http://185.140.187.67:8085/udp/238.2.3.98:1234
-#EXTINF:-1,873
-http://185.140.187.67:8085/udp/238.2.3.105:1234
-#EXTINF:-1,New
-http://185.140.187.67:8085/udp/238.2.3.217:1234
-#EXTINF:-1,984
-http://185.140.187.67:8085/udp/238.2.3.216:1234
-#EXTINF:-1,981
-http://185.140.187.67:8085/udp/238.2.3.213:1234
-#EXTINF:-1,1444
-http://185.140.187.67:8085/udp/238.2.5.164:1234
-#EXTINF:-1,1441 HD
-http://185.140.187.67:8085/udp/238.2.5.161:1234
-#EXTINF:-1,1448
-http://185.140.187.67:8085/udp/238.2.5.168:1234
-#EXTINF:-1,1443
-http://185.140.187.67:8085/udp/238.2.5.163:1234
-#EXTINF:-1,1442
-http://185.140.187.67:8085/udp/238.2.5.162:1234
-#EXTINF:-1,1453
-http://185.140.187.67:8085/udp/238.2.5.173:1234
-#EXTINF:-1,1449
-http://185.140.187.67:8085/udp/238.2.5.169:1234
-#EXTINF:-1,1451
-http://185.140.187.67:8085/udp/238.2.5.171:1234
-#EXTINF:-1,1452
-http://185.140.187.67:8085/udp/238.2.5.172:1234
-#EXTINF:-1,1447
-http://185.140.187.67:8085/udp/238.2.5.167:1234
-#EXTINF:-1,1446 HD
-http://185.140.187.67:8085/udp/238.2.5.166:1234
-#EXTINF:-1,1434 HD
-http://185.140.187.67:8085/udp/238.2.5.154:1234
-#EXTINF:-1,1445 HD
-http://185.140.187.67:8085/udp/238.2.5.165:1234
-#EXTINF:-1,1440 HD
-http://185.140.187.67:8085/udp/238.2.5.160:1234
-#EXTINF:-1,1450
-http://185.140.187.67:8085/udp/238.2.5.170:1234
-#EXTINF:-1,2506
-http://185.140.187.67:8085/udp/238.2.9.202:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.14.8:1234
-#EXTINF:-1,3770
-http://185.140.187.67:8085/udp/238.2.14.186:1234
-#EXTINF:-1,3965
-http://185.140.187.67:8085/udp/238.2.15.125:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.86:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.110:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.73:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.111:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.144:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.140:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.143:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.137:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.142:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.124:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.146:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.161:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.162:1234
-#EXTINF:-1,145 HD
-http://185.140.187.67:8085/udp/238.2.16.145:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.148:1234
-#EXTINF:-1,127 HD
-http://185.140.187.67:8085/udp/238.2.16.127:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.173:1234
-#EXTINF:-1,165 HD
-http://185.140.187.67:8085/udp/238.2.16.165:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.154:1234
-#EXTINF:-1,New HD
-http://185.140.187.67:8085/udp/238.2.16.174:1234
-
-*********************
-*********************
-
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",RMC SPORT 1 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36202
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",RMC SPORT 2 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36203
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",RMC SPORT 3 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36204
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT4 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36205
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 5 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189152
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 6 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189153
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 7 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189154
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 8 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189155
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 9 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189156
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 10 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189157
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 13 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189158
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 11 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189159
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT LIVE 12 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/189160
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORT 1 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36207
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORT 2 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36208
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORT 3 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36209
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT MAX 4 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36210
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT MAX 5 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36211
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT MAX 6 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36212
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT MAX 8 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36214
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT MAX 9 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36215
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",BEIN SPORT MAX 10 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36216
+#EXTINF:0 tvg-id="ext" group-title="Channels",AUTOMOTO FHD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/183465
+#EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Channels",AUTOMOTO SD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/183466
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Channels",CANAL+ SPORT HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308030
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL+ PREMIER LEAGUE HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308031
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL+ LIGUE1 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308033
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",FOOT+ 24/24 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308036
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",INFOSPORT+ HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308037
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",EUROSPORT 1 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308039
+#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308040
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISPORTS 1 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308049
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISPORTS 2 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308050
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISPORTS 3 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308051
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISPORTS 4 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308052
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISPORTS 5 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308053
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISPORTS 6 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308054
+#EXTINF:0 tvg-id="ext" group-title="Channels",AUTOMOTO LA CHAINE HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308055
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT FRENCH HD1
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329323
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT RENCH HD2
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329324
+#EXTINF:0 tvg-id="ext" group-title="Channels",L EQUIPE HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36219
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",EUROSPORT 1 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36217
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOOT+ 24  HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36223
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",INFOSPORT+ HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36222
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",EQUIDIA LIVE HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36220
+#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2 HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36218
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEFOOT HD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/415806
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN GLOBAL VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393738
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS NEWS VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393739
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN MAX HD1 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419457
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN MAX HD2 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419458
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.Premium.1 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393741
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.Premium.2 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393742
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Premium 3 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393743
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.SPORT.1 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393744
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.SPORT.2 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393750
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.SPORT 3 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393745
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.SPORT.4 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393746
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.SPORT.5 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393747
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.SPORT.6 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393748
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN.SPORT.7 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393749
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sport XTRA 1 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393755
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sport XTRA 2 VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/393754
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Global SD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/330708
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Channels",Bein News SD
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/330709
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium SD1
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329327
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium SD2
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329328
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium SD3
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329329
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Max SD 1
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419525
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Max SD 2
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419526
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Max SD 3
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419527
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",BeIN Max SD 4
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419528
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sport SD1
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329330
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",Bein Sport SD2
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329331
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD3
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329332
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD4
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329333
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD5
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329334
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD6
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329335
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD7
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/329336
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein sport max 3 HD VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419579
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein sport max 4 HD VIP
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/419580
