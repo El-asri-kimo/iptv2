@@ -1,51 +1,139 @@
-EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX 1 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX 2 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX 1 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX 2 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN MAX 1SD
-http://protv.top:8000/live/88107922460136017/1593574628/89030.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN MAX 2SD
-http://protv.top:8000/live/88107922460136017/1593574628/89031.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
-
-
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Channels",BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Channels",BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS MAX HD1
-http://yassooo.com:8080/Manaf/Manaf123/120012
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS MAX HD2
-http://yassooo.com:8080/Manaf/Manaf123/120011
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120012
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120011
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120680
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120681
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS MAX HD1
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7841
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS MAX HD2
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7842
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS Max HD1
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7824
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS Max HD2
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7825
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 1 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/4
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/5
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/6
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/7
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeIN Sports 3 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeIN Sports 4 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/9
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/10
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/11
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/12
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 1
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/13
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 2
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/14
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/15
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/16
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 2 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/17
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 3 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/18
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 4 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/19
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="Channels",OSN Movies HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/20
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies First HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/21
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies First +2 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/22
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Action HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/23
+#EXTINF:0 tvg-id="BeinMax1.es" group-title="Channels",Bein Sport Max 1 SD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/24
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 SD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/25
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 1 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/37
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 2 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/38
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 3 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/39
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD1
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/40
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD2
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/41
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC Sport 1 Ultra HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/42
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC Sport 2 Ultra HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/43
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",RMC Sport 1
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/44
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",RMC Sport 2
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/45
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",RMC Sport 3
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/46
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",RMC Sport 4
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/47
+#EXTINF:0 tvg-id="RMCSportLive5.fr" group-title="Channels",RMC Sport Live 5
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/48
+#EXTINF:0 tvg-id="RMCSportLive6.fr" group-title="Channels",RMC Sport Live 6
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/49
+#EXTINF:0 tvg-id="RMCSportLive7.fr" group-title="Channels",RMC Sport Live 7
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/50
+#EXTINF:0 tvg-id="RMCSportLive8.fr" group-title="Channels",RMC Sport Live 8
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/51
+#EXTINF:0 tvg-id="RMCSportLive9.fr" group-title="Channels",RMC Sport Live 9
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/52
+#EXTINF:0 tvg-id="RMCSportLive10.fr" group-title="Channels",RMC Sport Live 10
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/53
+#EXTINF:0 tvg-id="RMCSportLive11.fr" group-title="Channels",RMC Sport Live 11
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/54
+#EXTINF:0 tvg-id="RMCSportLive12.fr" group-title="Channels",RMC Sport Live 12
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/55
+#EXTINF:0 tvg-id="RMCSportLive13.fr" group-title="Channels",RMC Sport Live 13
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/56
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",Canal + Sport fr
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/57
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 1 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/58
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal + Sport 2 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/59
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 3 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/60
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 4 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/61
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 5 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/62
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",TF1
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/63
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",LCI
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/64
+#EXTINF:0 tvg-id="france24" group-title="Channels",FRANCE 24
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/65
+#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5MONDE
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/66
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FRANCE 2
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/67
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FRANCE 3
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/68
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FRANCE 4
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/69
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FRANCE 5
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/70
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",M6
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/71
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",C8
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/72
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",W9
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/73
+#EXTINF:0 tvg-id="CanalPlus.es" group-title="Channels",CANAL+
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/74
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",CANAL+ CINEMA
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/75
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",CANAL+ SERIES
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/76
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="Channels",CANAL+ FAMILY
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/77
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",CANAL+ DECALE
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/78
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",CINE+ PREMIER
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/79
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",CINE+ FRISSON
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/80
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",CINE+ FAMIZ
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/81
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",CINE+ EMOTION
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/82
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",CINE+ CLASSIC
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/83
