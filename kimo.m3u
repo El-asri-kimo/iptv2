@@ -207,7 +207,16 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/82
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/83
 
 **********************************
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Action
+http://smartestv.vip:2095/ABHVYOP/2387998104/3450
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Cinema
+http://smartestv.vip:2095/ABHVYOP/2387998104/3452
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-Px-Comedy
+http://smartestv.vip:2095/ABHVYOP/2387998104/94661
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Family
+http://smartestv.vip:2095/ABHVYOP/2387998104/4984
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Unlimited
+http://smartestv.vip:2095/ABHVYOP/2387998104/9658
 #EXTINF:-1,HBO HD
 http://95.141.128.163:8004/play/a05y
 #EXTINF:-1,HBO2 HD
