@@ -3,6 +3,8 @@
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/4
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/5
+#EXTINF:-1,Bein Sports MAX 1
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/4
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/6
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
@@ -23,6 +25,17 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/13
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/14
 #EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/15
+#EXTINF:-1,RING SPORT HD	
+http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DUHOK HD	
+http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
+#EXTINF:-1,ASO SPORT HD	
+http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NRT SPORT HD	
+http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
+
+******************************************
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/16
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 2 HD
@@ -41,6 +54,9 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/22
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/23
 #EXTINF:0 tvg-id="BeinMax1.es" group-title="Channels",Bein Sport Max 1 SD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/24
+
+**********************************
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 SD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/25
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 1 HD
@@ -95,6 +111,9 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/60
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/61
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 5 HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/62
+
+**********************************
+
 #EXTINF:0 tvg-id="TF1.fr" group-title="Channels",TF1
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/63
 #EXTINF:0 tvg-id="LCI.fr" group-title="Channels",LCI
@@ -137,8 +156,6 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/81
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/82
 #EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",CINE+ CLASSIC
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/83
-#EXTINF:-1,Bein Sports MAX 1
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/4
 
 **********************************
 
@@ -146,3 +163,7 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/4
 http://fx2world.com:8080/K3EDgzBHz86X/4kazJ2Y4HxN8/2433
 #EXTINF:-1,Alquiler HD 2
 http://fx2world.com:8080/K3EDgzBHz86X/4kazJ2Y4HxN8/2435
+
+***************************
+#EXTINF:-1,Planet Earth
+http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1433
