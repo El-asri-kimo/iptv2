@@ -34,8 +34,57 @@ http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NRT SPORT HD	
 http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
 
-******************************************
+***************** Bein Sports SD/LOW ********************
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_SD
+http://smartestv.vip:2095/ABHVYOP/2387998104/2207
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_SD
+http://smartestv.vip:2095/ABHVYOP/2387998104/2208
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_low
+http://smartestv.vip:2095/ABHVYOP/2387998104/2211
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_low
+http://smartestv.vip:2095/ABHVYOP/2387998104/2212
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD1
+http://smartestv.vip:2095/ABHVYOP/2387998104/1006
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD2
+http://smartestv.vip:2095/ABHVYOP/2387998104/1007
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD3
+http://smartestv.vip:2095/ABHVYOP/2387998104/1008
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD4
+http://smartestv.vip:2095/ABHVYOP/2387998104/1009
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD5
+http://smartestv.vip:2095/ABHVYOP/2387998104/1010
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD6
+http://smartestv.vip:2095/ABHVYOP/2387998104/1011
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD7
+http://smartestv.vip:2095/ABHVYOP/2387998104/1012
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_English_SD1
+http://smartestv.vip:2095/ABHVYOP/2387998104/3029
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD1_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/16
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD2_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/17
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD3_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/18
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD1_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/19
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD2_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/20
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD3_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/21
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD4_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/22
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD5_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/23
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD6_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/24
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD7_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/25
+
+******************************************
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/16
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 2 HD
