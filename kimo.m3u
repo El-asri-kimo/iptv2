@@ -282,13 +282,13 @@ http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1784
 http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1781
 
 ****************** Bein Turkey ****************
-#EXTINF:-1,Bein Sports HD 1 TR
-http://77.247.109.138:2095/ABHVYOP/2387998104/568
-#EXTINF:-1,Bein Sports HD 2 TR
-http://185.53.89.121:2095/ABHVYOP/2387998104/840
-#EXTINF:-1,Bein Sports HD 3 TR
-http://185.53.89.121:2095/ABHVYOP/2387998104/841
-#EXTINF:-1,Bein Sports HD 4 TR
-http://77.247.109.103:2095/ABHVYOP/2387998104/33424
-#EXTINF:-1,Bein Sports HD Haber TR
-http://185.53.89.75:2095/ABHVYOP/2387998104/4619
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Bein_Sport_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/568
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Bein_Sport_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/840
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Bein_Sport_3
+http://smartestv.vip:2095/ABHVYOP/2387998104/841
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Bein_Sport_4
+http://smartestv.vip:2095/ABHVYOP/2387998104/33424
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Bein_Sport_Haber
+http://smartestv.vip:2095/ABHVYOP/2387998104/4619
