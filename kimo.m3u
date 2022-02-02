@@ -25,6 +25,8 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/13
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/14
 #EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/15
+#EXTINF:-1,Bein Sports News HD
+http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1324
 #EXTINF:-1,RING SPORT HD	
 http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DUHOK HD	
