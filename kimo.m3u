@@ -56,32 +56,21 @@ http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/39
 http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/40
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD2
 http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/41
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 1 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/84
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 1 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/85
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 2 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/86
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 3 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/87
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 4 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/88
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 5 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/89
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 5 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/90
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 6 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/91
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 6 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/92
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 7 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/93
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 7 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/94
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD SPORT ASIA 1
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/95
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD SPORT ASIA 2
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/96
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 1
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243994
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 2
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243995
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 3
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243996
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 4
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243997
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 5
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243998
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 6
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243999
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Sports FHD 7
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244000
 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/6
