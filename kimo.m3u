@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1, إنضم للجروب الرسمي👉: IPTV FOR FREE ..[by KIMO]
-http://fx2world.com:8080/dEpgGEAReSU4/aNQmxHAfrhCE/2522
-#EXTINF:-1,AD Sports Extra 720
-http://fx2world.com:8080/dEpgGEAReSU4/aNQmxHAfrhCE/2522
-#EXTINF:-1,AD Sports Extra 720 (Backup)
-http://fx2world.com:8080/dEpgGEAReSU4/aNQmxHAfrhCE/2524
-#EXTINF:-1,AD Sports Extra s
-http://fx2world.com:8080/dEpgGEAReSU4/aNQmxHAfrhCE/2523
-#EXTINF:-1,SSC Sport 6 HD
-http://fx2world.com:8080/dEpgGEAReSU4/aNQmxHAfrhCE/1935
-
+http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RING SPORT HD	
 http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sport Max 1 4K
@@ -24,7 +15,7 @@ http://bestsave.ltd:2052/11112222/22221111/151201
 http://bestsave.ltd:2052/11112222/22221111/151197
 #EXTINF:-1,Bein Sports MAX 2 HD
 http://bestsave.ltd:2052/11112222/22221111/151198
-#EXTM3U
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 1 HD
 http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/4
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 HD
