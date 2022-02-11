@@ -561,10 +561,18 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/2745
 #EXTINF:0 tvg-id="ext" group-title="Channels",AR: Bein Sport 12HD
 http://190.115.29.22:8080/carter/GUV1bMq2VK/2746
 ***************************
-#EXTINF:-1,Love Nature 4K
-http://95.141.128.163:8004/play/a0n8
-#EXTINF:-1, BBC Earth
-http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1449
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  Bein BBC EARTH 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77013?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",NATINAL GEO 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/148488?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE",CRIME DISTRICT HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2544?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Undefined",Crime District HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150352?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",FR: Crime District
 http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/148346
 ****************************
