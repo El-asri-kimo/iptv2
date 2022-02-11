@@ -219,7 +219,7 @@ http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90483?checkedby:iptvcat.com
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/78426?checkedby:iptvcat.com
 
 
-***************************************
+******************* OSN ********************
 #EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: ACTION HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/27737?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Discovery HD
@@ -281,6 +281,8 @@ http://red.ipfox.org:8080/1234/12345678/31928?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Horror 2
 http://red.ipfox.org:8080/1234/12345678/31927?checkedby:iptvcat.com
 
+************** SSC SPORTS ******************
+
 #EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC7 HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156505?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC3 HD
@@ -289,6 +291,19 @@ http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156501?checkedby:iptvcat.com
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156502?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC5 HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156503?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC 1 HD
+http://red.ipfox.org:8080/1234/12345678/37815?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC 5 HD
+http://red.ipfox.org:8080/1234/12345678/37818?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150634?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPO: SSC1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156499?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 6
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150638?checkedby:iptvcat.com
+
+******************** BEIN FOX NETFLIX ****************
 
 #EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN: FOX ACTION MOVIES HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31713?checkedby:iptvcat.com
@@ -398,21 +413,10 @@ http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1643?checkedby:iptvcat.com
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59463?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:Fox Life HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59460?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  beIN DRAMA 4K
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  beIN DRAMA HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77021?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN: beIN DRAMA HD
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN: beIN DRAMA 4K
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2711?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC 1 HD
-http://red.ipfox.org:8080/1234/12345678/37815?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC 5 HD
-http://red.ipfox.org:8080/1234/12345678/37818?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150634?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPO: SSC1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156499?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150638?checkedby:iptvcat.com
 
 **********************************
 
@@ -471,9 +475,8 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/61
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 5 HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/62
 
-***************  SSC SPORTS *******************
+**********************************
 
-********
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 2 HD
 http://190.115.29.22:8080/carter/GUV1bMq2VK/223
