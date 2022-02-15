@@ -1,13 +1,24 @@
 #EXTM3U
 #EXTINF:-1, إنضم للجروب الرسمي👉: IPTV FOR FREE ..[by KIMO]
+https://list.iptvcat.com/my_list/s/0d77fa7602f3478659f5ac87cc76286d.m3u8
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7873
 #EXTINF:-1,Bein sports Premium 1 SD
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7873
 #EXTINF:-1,Bein Sports Premium 2 SD
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7874
-
 #EXTINF:-1,Bein Sports 3
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7875
+
+#EXTINF:-1,Bein Sports News HD
+https://list.iptvcat.com/my_list/s/0d77fa7602f3478659f5ac87cc76286d.m3u8
+#EXTINF:-1,DUHOK HD	
+http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
+#EXTINF:-1,ASO SPORT HD	
+http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NRT SPORT HD	
+http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,Bein Sports 1 HD
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7876
 #EXTINF:-1,Bein Sports 2
@@ -17,30 +28,6 @@ http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7878
 #EXTINF:-1,Bein Sports 4
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7879
 
-
-http://bestsave.ltd:2052/11112222/22221111/125399
-#EXTINF:-1,AD Sport EXTRA FHD
-http://bestsave.ltd:2052/11112222/22221111/156391
-#EXTINF:-1,AD Sport EXTRA SD
-http://bestsave.ltd:2052/11112222/22221111/156393
-#EXTINF:-1,AD Sport Asia 1
-http://bestsave.ltd:2052/11112222/22221111/125399
-#EXTINF:-1,AD Sport Asia 2
-http://bestsave.ltd:2052/11112222/22221111/125398
-#EXTINF:-1,RING SPORT HD	
-http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sport Max 1 4K
-http://bestsave.ltd:2052/11112222/22221111/151189
-#EXTINF:-1,Bein Sport Max 2 4K
-http://bestsave.ltd:2052/11112222/22221111/151190
-#EXTINF:-1,Bein Sports MAX 1 SD
-http://bestsave.ltd:2052/11112222/22221111/151199
-#EXTINF:-1,Bein Sports MAX 2 SD
-http://bestsave.ltd:2052/11112222/22221111/151201
-#EXTINF:-1,Bein Sports MAX 1 HD
-http://bestsave.ltd:2052/11112222/22221111/151197
-#EXTINF:-1,Bein Sports MAX 2 HD
-http://bestsave.ltd:2052/11112222/22221111/151198
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 1 HD
 http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/4
@@ -105,16 +92,7 @@ http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/13
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/14
 #EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
 http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/15
-#EXTINF:-1,Bein Sports News HD
-http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1324
-#EXTINF:-1,RING SPORT HD	
-http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DUHOK HD	
-http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
-#EXTINF:-1,ASO SPORT HD	
-http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NRT SPORT HD	
-http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
+
 
 ***************** Bein Sports SD/LOW ********************
 
