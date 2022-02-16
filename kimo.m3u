@@ -769,7 +769,7 @@ http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1781
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sport",beIN Sports 2 HD FR
+#EXTINF:-1,beIN Sports 2 HD FR
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50149?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50148?checkedby:iptvcat.com
