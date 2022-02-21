@@ -28,1107 +28,570 @@ http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7878
 #EXTINF:-1,Bein Sports 4
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7879
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT 1 SD XTRA
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43819
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT 2 SD XTRA
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43820
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Channels",BEIN SPORT NEWS
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/405
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT 1 SD PREMIUM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/408
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT 2 SD PREMIUM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/407
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORT 3 SD PREMIUM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/406
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORT 1 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/415
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORT 2 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/414
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORT 3 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/413
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORT 4 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/412
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORT 5 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/411
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BEIN SPORT 6 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/410
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEIN SPORT 7 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/409
+#EXTINF:0 tvg-id="ext" group-title="Channels",PSE.AL FAJER 1 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44880
+#EXTINF:0 tvg-id="ext" group-title="Channels",PSE.AL FAJER 2 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44881
+#EXTINF:0 tvg-id="ext" group-title="Channels",PSE.AL FAJER 3 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44882
+#EXTINF:0 tvg-id="ext" group-title="Channels",PSE.AL FAJER 4 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44883
+#EXTINF:0 tvg-id="ext" group-title="Channels",PSE.AL FAJER 5 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44884
+#EXTINF:0 tvg-id="beinsports.jsc" group-title="Channels",BEIN SPORTS GLOBAL
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43169
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports XTRA 1 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43170
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports XTRA 2 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43171
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports HD1 PREMIUM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23885
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports HD2 PREMIUM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23884
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports HD3 PREMIUM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23892
+#EXTINF:0 tvg-id="ext" group-title="Channels",Serie A.YOUTUB
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43481
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sports HD1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23893
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",Bein Sports HD2
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23891
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports HD3
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23890
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Channels",Bein Sports HD4
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23889
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports HD5
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23888
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports HD6
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23887
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports HD7
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/23886
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSC1-HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43172
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSC2-HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43173
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSC3-HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43174
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSC4-HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43175
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSC5-HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43176
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSC6-HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43177
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSC7-HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/43178
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports HD 1 ENGLISH
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/39960
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports HD 2 ENGLISH
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/39961
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports HD 3 ENGLISH
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/39962
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports HD 1 FRANCE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/39963
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports HD 2 FRANCE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/39964
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports HD 3 FRANCE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/39965
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR. FASHION TV
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26288
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.13EME RUE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26287
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.6TER HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26286
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.A LA CARTE 1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26285
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.A LA CARTE 2
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26284
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.A LA CARTE 3
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26283
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.A LA CARTE 4
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26282
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.A LA CARTE 5
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26281
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.A LA CARTE 6
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26280
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.AB.MOTEURS
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26279
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.AB1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26278
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.AB3
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26277
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.ACTION
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26276
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.ALTICE.STUDIO
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26275
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.ANIMAUX
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26274
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.ARTE HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26273
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BET
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26272
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BFM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26271
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BOING HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26270
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BOOMERANG
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26269
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BRAVA.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26268
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSport.1HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26267
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSport.1SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26266
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSport.2HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26265
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSport.2SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26264
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSport.3HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26263
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSport.3SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26262
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSportMax10
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26261
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSportMax4
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26260
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSportMax5
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26259
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSportMax6
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26258
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSportMax7
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26257
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSportMax8
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26256
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.BeinSportMax9
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26255
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.C8
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26254
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL NEWS
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26253
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.CINEMA.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26252
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.DECALE.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26251
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.FAMILY.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26250
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26249
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.J.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26248
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26247
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.SERIES.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26246
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CANAL.SPORT.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26245
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CHASSE.PECHE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26244
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CHERIE25 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26243
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CINE CLUB HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26242
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CINE FRISSON
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26138
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CINE.FX.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26241
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CINE.POLAR.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26240
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CINE.PREMIERE.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26239
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.COMEDIE.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26238
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CRIME DISTRICT
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26237
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.CSTAR
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26236
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Cartoon.Network
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26235
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Cine.Classic.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26234
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Cine.Emotion.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26233
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Cine.Famiz.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26232
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.DISCOVERY HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26231
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.DISCOVERY INVESTIGATION
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26137
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.DISCOVERY SCIENCE HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26230
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.DISNEY.CINEMA
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26229
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.DISNEY.Channel 1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26228
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.DISNEY.JOUNIR
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26227
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Disney.Channel
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26226
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.E!
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26225
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.ELLE GIRL FULL HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26224
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.EQUIDIA LIFE HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26223
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.EQUIDIA LIVE HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26222
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.EUROSPORT 1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26221
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.EUROSPORT 2
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26220
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Euronews.France
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26219
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.FOOT
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26218
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.France.24
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26217
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.France.2HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26216
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.France.3HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26215
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.France.4HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26214
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.France.5HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26213
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.France.OHD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26212
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.GAME.ONE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26211
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.GOLF
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26210
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.GOLF CHANNEL HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26209
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Gulli
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26208
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.HD1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26207
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.HD1.SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26206
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.I TELE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26136
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.INFOSPORT
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26205
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.L'EQUIPE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26204
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.LCI
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26203
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.LCP
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26202
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.LFM TV
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26201
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.LUCKY JACK
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26200
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.LUXE TV
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26199
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.M6.HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26198
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.M6.MUSIC
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26197
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.MCM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26196
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.MEN'S UP
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26195
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.MOTORS.SPORT
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26194
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.MTV
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26193
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.MTV.HITS
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26192
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Mangas
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26191
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NATGEO.CHANNEL
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26190
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NATGEO.WILD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26189
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NICK.Junior
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26188
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NICKELODEON
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26187
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NICKELODEON.4TEEN
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26186
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NRJ.12HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26185
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NRJ.HITS
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26184
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NT1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26183
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.NUMERO 23
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26182
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.OCS.CHOC
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26181
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.OCS.CITY
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26180
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.OCS.GEANTS
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26179
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.OCS.MAX
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26178
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.OFIVE TV
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26177
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.ONE TV
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26176
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.PARAMOUNT
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26175
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.PARIS PREMIERE HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26174
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.PLANETE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26173
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.PLANETE AE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26135
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.PLANETE CI HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26172
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Piwi
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26171
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RFM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26170
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC DECOUVERTE HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26169
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26168
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT2
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26167
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT3
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26166
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT4
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26165
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT5
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26134
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT6
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26133
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT7
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26132
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT8
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26131
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RMC.SPORT9
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26130
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RTL9
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26164
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RTS DEUX HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26163
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.RTS UN HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26162
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.SEASONS HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26161
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.SERIE.CLUB
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26160
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.SYFY.SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26159
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Science.et.Vie
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26158
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TCM.CINEMA
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26157
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TEVA
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26156
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TF 1 HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26155
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TF 1 SD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26154
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TF1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26153
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TF1 Series
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26152
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TFX
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26129
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TMC
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26151
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TOONAMI
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26150
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TOUTE.L.HISTOIRE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26149
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TRACE.URBAN
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26148
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TREK
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26147
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TV BREIZH HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26146
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TV5.Monde
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26145
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.Teletoon
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26144
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.TiJi
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26143
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.USHUAIATV HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26142
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.VOYAGE HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26141
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.W9
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26140
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR.mezzo
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/26139
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Atlantic
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32420
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32419
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema  1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32418
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema  24
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32417
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema Action
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32416
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema Alien
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32415
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema Comedy
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32414
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema Emotion
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32413
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema Family
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32412
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema Hits
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32411
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Cinema Nostalgie
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32410
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Krimi
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32409
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport News
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32396
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport 1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32408
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport 2
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32407
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport 3
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32406
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport 4
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32405
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport 5
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32404
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport 6
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32403
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport Austria
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32402
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport Bundesliga 1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32401
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport Bundesliga 2
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32400
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport Bundesliga 3
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32399
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport Bundesliga 4
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32398
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE.Sky Sport Bundesliga 5
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/32397
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 1 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/4
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/5
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/6
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/7
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeIN Sports 3 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeIN Sports 4 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/9
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/10
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/11
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/12
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 1
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/13
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 2
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/14
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/15
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 HD
-
-#EXTINF:0 tvg-id="BeinMax1.es" group-title="Channels",Bein Sport Max 1 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/24
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/25
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 1 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/37
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 2 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/38
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 3 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/39
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD1
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/40
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD2
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/41
-
-
-
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/6
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/7
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeIN Sports 3 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeIN Sports 4 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/9
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/10
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/11
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/12
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 1
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/13
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 2
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/14
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/15
-
-
-***************** Bein Sports SD/LOW ********************
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/2207
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/2208
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_low
-http://smartestv.vip:2095/ABHVYOP/2387998104/2211
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_low
-http://smartestv.vip:2095/ABHVYOP/2387998104/2212
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD1
-http://smartestv.vip:2095/ABHVYOP/2387998104/1006
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD2
-http://smartestv.vip:2095/ABHVYOP/2387998104/1007
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD3
-http://smartestv.vip:2095/ABHVYOP/2387998104/1008
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD4
-http://smartestv.vip:2095/ABHVYOP/2387998104/1009
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD5
-http://smartestv.vip:2095/ABHVYOP/2387998104/1010
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD6
-http://smartestv.vip:2095/ABHVYOP/2387998104/1011
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD7
-http://smartestv.vip:2095/ABHVYOP/2387998104/1012
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_English_SD1
-http://smartestv.vip:2095/ABHVYOP/2387998104/3029
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD1_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/16
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD2_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/17
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD3_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/18
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD1_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/19
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD2_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/20
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD3_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/21
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD4_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/22
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD5_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/23
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD6_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/24
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD7_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/25
-
-******************** OnlySports ********************
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2541?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports News HD
-http://red.ipfox.org:8080/1234/12345678/35068?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sport",beIN Sport HD
-http://red.ipfox.org:8080/1234/12345678/35067?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114051?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108170?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108168?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",beIN Sports 6 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108169?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Global HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28938?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="Sport",beIN Sports Nba HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3845?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117123?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_1
-http://smartestv.vip:2095/ABHVYOP/2387998104/980?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_2
-http://smartestv.vip:2095/ABHVYOP/2387998104/981?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_3
-http://smartestv.vip:2095/ABHVYOP/2387998104/982?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 4 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195431?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 5 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195430?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 6 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195429?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/232?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 8 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/233?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 9 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6582?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Sport",BeIN Sport Max 10 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6583?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 1 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32835?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 2 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32836?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 3 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32837?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 4 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32838?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151082?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151083?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151084?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAl+ HD Champions
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184828?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL_SPORT_HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/853?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Canal+ Sport 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90096?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Sport",Canal+ Sport 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90102?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="Sport",Canal+ Sport 3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90101?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="Sport",Canal+ Sport 4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90100?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138137?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Sport",SKY SPORTS ACTION FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50277?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS FHD PREMIER LEAGUE
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10517?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138134?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
-http://vmp343.ddnsking.com:80/pari/pari/549002?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="Sport",SKY SPORT SERIE A SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/41044?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150633?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150638?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150636?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 01 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167203?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 02 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167202?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 03 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167201?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD1+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151563?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD2+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151564?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD3+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151565?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150635?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="BeinLaLiga.es" group-title="SPAIN",beIN LA LIGA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/21011?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",BEIN LALIGA1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117059?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 2  HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61586?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61589?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/118929?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DAZN209.it" group-title="SPAIN",DAZN 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117071?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 2 HD VIP ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683545?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",La Liga TV BAR HD ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/669971?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10069?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10070?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10127?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD5
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10129?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10130?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD7
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10131?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 11
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149975?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 10
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149974?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 16
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157086?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones FHD ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620686?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones HD ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620685?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Canal+ Premier League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114146?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-id="Barca.pt" group-title="SPAIN",BARCA TV
-https://iptvcat.com/my_list/s/64b81b1ffbe143000fdaa07692e80173.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPAIN",REAL MADRID  TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/673?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="SkySport251.it" group-title="ITALY",SKY CALCIO 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68603?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport252.it" group-title="ITALY",SKY CALCIO 2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68606?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport253.it" group-title="ITALY",SKY CALCIO 3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68609?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport254.it" group-title="ITALY",SKY CALCIO 4 SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68613?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport255.it" group-title="ITALY",SKY CALCIO 5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68615?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="ITALY",SKY DAZN BAR HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/51836?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156500?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156501?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156505?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",AD ASIA LIVE event 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156103?checkedby:iptvcat.com
-
-
-*******************************************
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153539?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153540?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153542?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer5
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153543?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Ajyal TVAJYAL TV (1920×1080)
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:-1,Al majd documentary
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13058?checkedby:iptvcat.com
-#EXTINF:-1,Al majd atabeeya
-http://gplus.live:80/967895543321/Aro5nghhju/93652
-#EXTINF:-1,Al Majd Kids
-http://gplus.live:80/967895543321/Aro5nghhju/93656
-#EXTINF:-1,Al majd Basma
-http://gplus.live:80/967895543321/Aro5nghhju/85802
-
-*************** MOVIES*****************
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",DREAMOVIES COMEDY
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196123?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",DREAMOVIES HORROR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196119?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",DREAMOVIES DOCS
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196126?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",DREAMOVIES MARVEL
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196153?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",DREAMOVIES SCI-FI
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196125?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Arnold Schwarzenegger UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141054?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",DREAMOVIES WESTERN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196124?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Jason Statham UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141059?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Jim Carrey UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141060?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Johnny Depp UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141061?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Mel Gibson UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141063?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Nicolas Cage UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141065?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Nour El SheriF UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141051?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Robert De Niro UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141066?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Sylvester Stallone UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141067?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Van Damme UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141069?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Vin Diesel UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141070?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX MOVIES Will Smith UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141071?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Arabic
-http://red.ipfox.org:8080/1234/12345678/8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Classic
-http://red.ipfox.org:8080/1234/12345678/9?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Comedy
-http://red.ipfox.org:8080/1234/12345678/11?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Drama
-http://red.ipfox.org:8080/1234/12345678/12?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Horror
-http://red.ipfox.org:8080/1234/12345678/13?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Kids
-http://red.ipfox.org:8080/1234/12345678/14?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Thriller
-http://red.ipfox.org:8080/1234/12345678/15?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",HBO Movies  2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90484?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",HBO Movies HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90483?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",NETFLIX MOVIES UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/78426?checkedby:iptvcat.com
-
-
-******************* OSN ********************
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: ACTION HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/27737?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Discovery HD
-http://red.ipfox.org:8080/1234/12345678/2863?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: E! HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14563?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Discovery HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/60922?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Disney Junior HEVC (EN Audio)
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/60933?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: History HD
-http://red.ipfox.org:8080/1234/12345678/2866?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: LIVING HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/15037?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: MOVIES HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/15039?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Movies Action HD
-http://red.ipfox.org:8080/1234/12345678/2868?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Disney HD
-http://red.ipfox.org:8080/1234/12345678/2864?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Movies Disney  HD
-http://red.ipfox.org:8080/1234/12345678/2871?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Movies First HD
-http://red.ipfox.org:8080/1234/12345678/2865?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Movies HD
-http://red.ipfox.org:8080/1234/12345678/2872?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: NAT GEO People Hevc
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/60929?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Nat Geo HD
-http://red.ipfox.org:8080/1234/12345678/2875?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Nat Geo Wild HD
-http://red.ipfox.org:8080/1234/12345678/2874?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: OSN FAMILY
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150494?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: STAR MOVIES HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/38015?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: STAR WORLD HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/38014?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Series Comedy LOW
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/106223?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Series First HD
-http://red.ipfox.org:8080/1234/12345678/2877?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: Star Movies HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/60915?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Action 1
-http://red.ipfox.org:8080/1234/12345678/31926?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Action 2
-http://red.ipfox.org:8080/1234/12345678/31925?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Aflam 1
-http://red.ipfox.org:8080/1234/12345678/31932?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Aflam 2
-http://red.ipfox.org:8080/1234/12345678/31931?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Cartoon
-http://red.ipfox.org:8080/1234/12345678/31933?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Cinema
-http://red.ipfox.org:8080/1234/12345678/31934?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Horror 1
-http://red.ipfox.org:8080/1234/12345678/31928?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Shahid Horror 2
-http://red.ipfox.org:8080/1234/12345678/31927?checkedby:iptvcat.com
-
-************** SSC SPORTS ******************
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156505?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156501?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156502?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156503?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC 1 HD
-http://red.ipfox.org:8080/1234/12345678/37815?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC 5 HD
-http://red.ipfox.org:8080/1234/12345678/37818?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150634?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPO: SSC1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156499?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150638?checkedby:iptvcat.com
-
-******************** BEIN FOX NETFLIX ****************
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN: FOX ACTION MOVIES HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31713?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Box ACTION 1
-http://red.ipfox.org:8080/1234/12345678/30474?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Box ACTION 2
-http://red.ipfox.org:8080/1234/12345678/30473?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Box HORROR
-http://red.ipfox.org:8080/1234/12345678/30472?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Action
-http://red.ipfox.org:8080/1234/12345678/7?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Arabic
-http://red.ipfox.org:8080/1234/12345678/8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Classic
-http://red.ipfox.org:8080/1234/12345678/9?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Comedy
-http://red.ipfox.org:8080/1234/12345678/11?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Drama
-http://red.ipfox.org:8080/1234/12345678/12?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Horror
-http://red.ipfox.org:8080/1234/12345678/13?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Kids
-http://red.ipfox.org:8080/1234/12345678/14?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: IPFox Movies Thriller
-http://red.ipfox.org:8080/1234/12345678/15?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Majestic Action
-http://red.ipfox.org:8080/1234/12345678/31942?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Majestic Arabic
-http://red.ipfox.org:8080/1234/12345678/31939?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Majestic Horror
-http://red.ipfox.org:8080/1234/12345678/31944?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 1
-http://red.ipfox.org:8080/1234/12345678/31918?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 2
-http://red.ipfox.org:8080/1234/12345678/31917?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 3
-http://red.ipfox.org:8080/1234/12345678/31916?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 4
-http://red.ipfox.org:8080/1234/12345678/31915?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 5
-http://red.ipfox.org:8080/1234/12345678/31914?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 6
-http://red.ipfox.org:8080/1234/12345678/31913?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 7
-http://red.ipfox.org:8080/1234/12345678/31912?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 8
-http://red.ipfox.org:8080/1234/12345678/31911?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 9
-http://red.ipfox.org:8080/1234/12345678/31910?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix 10
-http://red.ipfox.org:8080/1234/12345678/31909?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Action 1
-http://red.ipfox.org:8080/1234/12345678/31908?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Action 2
-http://red.ipfox.org:8080/1234/12345678/31907?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Cartoon 1
-http://red.ipfox.org:8080/1234/12345678/31906?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Cartoon 2
-http://red.ipfox.org:8080/1234/12345678/31905?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Horror 1
-http://red.ipfox.org:8080/1234/12345678/31901?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Horror 2
-http://red.ipfox.org:8080/1234/12345678/31900?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Romance 1
-http://red.ipfox.org:8080/1234/12345678/31903?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: Netflix Sci-Fi
-http://red.ipfox.org:8080/1234/12345678/31904?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 1
-http://red.ipfox.org:8080/1234/12345678/31899?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 2
-http://red.ipfox.org:8080/1234/12345678/31898?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 3
-http://red.ipfox.org:8080/1234/12345678/31897?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 4
-http://red.ipfox.org:8080/1234/12345678/31896?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 5
-http://red.ipfox.org:8080/1234/12345678/31895?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 6
-http://red.ipfox.org:8080/1234/12345678/31894?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 7
-http://red.ipfox.org:8080/1234/12345678/31893?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 8
-http://red.ipfox.org:8080/1234/12345678/31892?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 9
-http://red.ipfox.org:8080/1234/12345678/31891?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Fox: showtime 10
-http://red.ipfox.org:8080/1234/12345678/31890?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MYHD: FOX CRIME H265
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/15069?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MYHD: Fox Life HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/4555?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  Bein FOX LIFE 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77016?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  Bein FOX MOV ACTION 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77017?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  Bein FOX REWAYAT 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77019?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN: FOX HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1651?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN: Fox Family MOVIES HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28267?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN: Fox Movies Action HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/27730?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN: Fox Movies HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1643?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:Fox Crime HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59463?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:Fox Life HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59460?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  beIN DRAMA HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77021?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN: beIN DRAMA 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2711?checkedby:iptvcat.com
-
-**********************************
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 SD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/25
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 1 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/37
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 2 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/38
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 3 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/39
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD1
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/40
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD2
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/41
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC Sport 1 Ultra HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/42
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC Sport 2 Ultra HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/43
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",RMC Sport 1
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/44
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",RMC Sport 2
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/45
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",RMC Sport 3
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/46
-#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",RMC Sport 4
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/47
-#EXTINF:0 tvg-id="RMCSportLive5.fr" group-title="Channels",RMC Sport Live 5
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/48
-#EXTINF:0 tvg-id="RMCSportLive6.fr" group-title="Channels",RMC Sport Live 6
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/49
-#EXTINF:0 tvg-id="RMCSportLive7.fr" group-title="Channels",RMC Sport Live 7
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/50
-#EXTINF:0 tvg-id="RMCSportLive8.fr" group-title="Channels",RMC Sport Live 8
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/51
-#EXTINF:0 tvg-id="RMCSportLive9.fr" group-title="Channels",RMC Sport Live 9
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/52
-#EXTINF:0 tvg-id="RMCSportLive10.fr" group-title="Channels",RMC Sport Live 10
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/53
-#EXTINF:0 tvg-id="RMCSportLive11.fr" group-title="Channels",RMC Sport Live 11
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/54
-#EXTINF:0 tvg-id="RMCSportLive12.fr" group-title="Channels",RMC Sport Live 12
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/55
-#EXTINF:0 tvg-id="RMCSportLive13.fr" group-title="Channels",RMC Sport Live 13
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/56
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",Canal + Sport fr
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/57
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 1 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/58
-#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal + Sport 2 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/59
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 3 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/60
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 4 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/61
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 5 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/62
-
-**********************************
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 2 HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/223
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 3 HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/222
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 4 HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/221
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 5 HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/19809
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 6 HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/19810
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 7 HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/29797
-
-#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",TF1
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/63
-#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",LCI
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/64
-#EXTINF:0 tvg-id="france24" group-title="Channels",FRANCE 24
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/65
-#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5MONDE
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/66
-#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FRANCE 2
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/67
-#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FRANCE 3
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/68
-#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FRANCE 4
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/69
-#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FRANCE 5
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/70
-#EXTINF:0 tvg-id="M6.fr" group-title="Channels",M6
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/71
-#EXTINF:0 tvg-id="C8.fr" group-title="Channels",C8
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/72
-#EXTINF:0 tvg-id="W9.fr" group-title="Channels",W9
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/73
-#EXTINF:0 tvg-id="CanalPlus.es" group-title="Channels",CANAL+
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/74
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",CANAL+ CINEMA
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/75
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",CANAL+ SERIES
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/76
-#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="Channels",CANAL+ FAMILY
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/77
-#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",CANAL+ DECALE
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/78
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",CINE+ PREMIER
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/79
-#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",CINE+ FRISSON
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/80
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",CINE+ FAMIZ
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/81
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",CINE+ EMOTION
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/82
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",CINE+ CLASSIC
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/83
-
-**********************************
-
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",AR: Bein Sport 1HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6872
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",AR: Bein Sport 2HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6871
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",AR: Bein Sport 3HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6870
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",AR: Bein Sport 4HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6869
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",AR: Bein Sport 5HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6868
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",AR: Bein Sport 6HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6867
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",AR: Bein Sport 7HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6866
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",AR: Bein Sport 8HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6865
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",AR: Bein Sport 9HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6864
-#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",AR: Bein Sport 10HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6863
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR: Bein Sport 11HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/2745
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR: Bein Sport 12HD
-http://190.115.29.22:8080/carter/GUV1bMq2VK/2746
-***************************
-#EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN:  Bein BBC EARTH 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77013?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",NATINAL GEO 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/148488?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE",CRIME DISTRICT HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2544?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Undefined",Crime District HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150352?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",FR: Crime District
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/148346
-****************************
-
-#EXTINF:-1,Fajer tv
-http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1784
-#EXTINF:-1,Fajer tv1 HD
-http://fx2world.com:8080/sEMfURhkUuKU/PAHwjq3uqKn2/1781
-
-************ CatKimo ****************
-
-
-#EXTM3U
-#EXTINF:-1,beIN Sports 2 HD FR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50149?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50148?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 01 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167203?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 02 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167202?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",beIN Sports 3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50150?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 03 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167201?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport English SD1+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151566?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport English SD2+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151567?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport  SD7+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151562?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport English SD3+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151568?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport French SD1+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151569?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport French SD2+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151570?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD1+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151563?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD2+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151564?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD3+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151565?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport SD2+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151557?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport SD4+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151559?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport SD5+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151560?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport SD6+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151561?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORTS 2 EN SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49728?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORTS 3 EN SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49729?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114050?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 EN HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2531?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 EN Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/22195?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Sport",beIN Sports 1 FHD FR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/4?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Sport",beIN Sports 1 HD FR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11016?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/110?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114053?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108161?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/107?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2541?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3854?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2538?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3851?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114049?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 EN FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 EN Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/22196?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sport",beIN Sports 2 FHD FR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/15?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 FR 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149601?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",beIN Sports 2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108165?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sport",beIN Sports 2 HD FR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11017?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",beIN Sports 2 HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/112?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114052?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108162?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3853?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3850?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114048?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 EN HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11015?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 EN Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/22197?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 FR 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149608?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",beIN Sports 3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Sport",beIN Sports 3 HD FR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11018?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",beIN Sports 3 HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/113?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114051?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108163?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/109?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3852?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3849?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 4 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114047?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108167?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2535?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 4 Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3848?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 5 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114046?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108168?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/115?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2534?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 5 Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3847?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 6 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114045?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",beIN Sports 6 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108169?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",beIN Sports 6 HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/116?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 6 Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10361?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 7 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114044?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108170?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2532?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 7 Ultra 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10362?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Global FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/43?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Global HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28938?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports NBA 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149602?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="Sport",beIN Sports Nba HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3845?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports News FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/44?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117124?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117123?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117129?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 2 HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117128?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="Sport",beIN Sports XTRA 2 SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117131?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORT 1 (SD)
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12900?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/146116?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 HD +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/190790?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 2 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195433?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 3 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195432?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 4 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195431?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 5 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195430?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 6 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195429?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Sport",BeIN Sport Max 10 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6583?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/229?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/230?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Sport",BeIN Sport Max 6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/88437?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/232?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 9 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6582?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_1
-http://smartestv.vip:2095/ABHVYOP/2387998104/980?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_2
-http://smartestv.vip:2095/ABHVYOP/2387998104/981?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_3
-http://smartestv.vip:2095/ABHVYOP/2387998104/982?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151081?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151082?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151083?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Sport",CANAL  SPORT (SD)
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12885?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAl+ SPORT HD Champions
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184826?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Canal+ Sport 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90096?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Sport",Canal+ Sport 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90102?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="Sport",Canal+ Sport 3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90101?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="Sport",Canal+ Sport 4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90100?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Sport",Canal+ Sport HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/250?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 1 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32835?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 2 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32836?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 3 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32837?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT 1 FHD ACCESS
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9168?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT 2 FHD ACCESS
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9169?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Sport",RMC SPORT 3 (SD)
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12788?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT LIVE 2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/235?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT LIVE 3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/118420?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT LIVE 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/118421?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT2 FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1233?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Sport",SKY SPORTS ACTION FHD
-http://hdlocal.de:8080/Wallas/Wallas/9889?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
-http://vmp343.ddnsking.com:80/pari/pari/549007?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
-http://hostengine.live:25461/palmer/palmer/53977?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SKY SPORTS ARENA  UHD
-http://loginto.live:80/JP1584/xuCu1Csjrs/73792?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA FHD
-http://hdlocal.de:8080/Wallas/Wallas/9888?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50278?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA FHD
-http://loginto.live:80/JP1584/xuCu1Csjrs/80619?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138134?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT
-http://vmp343.ddnsking.com:80/pari/pari/549001?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT FHD
-http://hdlocal.de:8080/Wallas/Wallas/4215?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50271?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT HD
-http://loginto.live:80/JP1584/xuCu1Csjrs/73795?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT HD
-http://hdlocal.de:8080/Wallas/Wallas/4216?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SKY SPORTS PREM LG FHD
-http://hdlocal.de:8080/Wallas/Wallas/4213?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
-http://hostengine.live:25461/palmer/palmer/53986?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
-http://vmp343.ddnsking.com:80/pari/pari/549002?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SKY SPORTS PREMIER LEAGUE  UHD
-http://loginto.live:80/JP1584/xuCu1Csjrs/73789?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50272?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE HD
-http://hdlocal.de:8080/Wallas/Wallas/4214?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/1413?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE HD
-http://loginto.live:80/JP1584/xuCu1Csjrs/80626?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 1 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142519?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 10 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142528?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 3 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142521?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 4 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142522?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 5 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142523?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 6 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142524?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 7 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142525?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 9 UHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142527?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Canal+ Premier League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114146?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE",FR (HEVC) - CANAL J Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32828?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE",FR (HEVC) - CANAL+ CINEMA Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32770?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="FRANCE",FR (HEVC) - CANAL+ DECALE Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32773?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LA LIGA 01 - WED 1PM EST ATLETICO MADRID VS LEVANTE
-http://hostengine.live:25461/palmer/palmer/145923?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA CAMPEONES FHD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/5351?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 1 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6960?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 2 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6953?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 3 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6957?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 4 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6956?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 5 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6955?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 6 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6959?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 7 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6958?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 8 HD
-http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6954?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10069?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10070?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10127?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga De Campeones HD
-http://loginto.live:80/JP1584/xuCu1Csjrs/79136?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 11
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149975?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 16
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157086?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Series HD 1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44490
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Series HD 2
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44491
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. DRAMA 1
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44492
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. MOVIES PREMERE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44493
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. MOVIES ACTION
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44494
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. MOVIES DRAMA
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44495
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. MOVIES FAMILY
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44496
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. TRAVEL
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44497
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. OUTDOOR
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44498
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. NAT WILD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44499
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. NAT PEOPLE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44500
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. NAT GEO
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44501
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. JEEM
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44502
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. HGTV
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44503
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Gourmet
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44504
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Food Network
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44505
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FINE LIVING
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44506
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Fatafeat
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44507
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Discovery Turbo Xtra
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44508
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Discovery KIDS
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44509
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Discovery Life
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44510
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Animal Planet
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44511
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. BBC EARTH
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44512
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Discovery MAX
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44513
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Boomerang
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44514
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. BABY
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44515
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. DREAM WORK
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44516
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Be junior
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44517
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. Baraem
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44518
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. AMC
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44519
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FOX ACTION
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44520
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FOX MOVIE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44521
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FOX HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44522
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FOX REWAYAT
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44523
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FOX CRIME
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44524
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FOX LIFE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44525
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. FOX Family
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44526
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. CARTOON NETWORK
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44527
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. STAR MOVIE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44528
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN. STAR WORLD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/44529
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.FOX CRIME
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33093
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.FOX HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33077
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.FOX LIFE
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33092
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.FOX REWAYAT
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33091
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.Animal Planet
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33087
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.CINMA HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33085
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.Discovery SC
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33086
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.Fix Foxi HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33074
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.FX HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33076
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.Gulli
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33090
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.NAT Geo HD
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33089
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.NAT Geo Wild
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33088
+#EXTINF:0 tvg-id="ext" group-title="Channels",MYHD.TIJI
+http://gazalavatar.com:2082/morrostar0042/5f902136b53b5/33072
